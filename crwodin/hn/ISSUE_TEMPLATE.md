@@ -16,12 +16,12 @@ Use the commands below to provide key information from your environment:
 You do NOT have to include this information if this is a FEATURE REQUEST
 -->
 
-**- Do you want to request a *feature* or report a *bug*?**
+**- क्या आप *फीचर* का अनुरोध करना चाहते हैं या *बग*की रिपोर्ट करना चाहते हैं?**
 
-**- What is the current behavior?**
+**- वर्तमान व्यवहार क्या है?**
 
-**- If the current behavior is a bug, please provide the steps to reproduce.**
+**- यदि वर्तमान व्यवहार एक बग है, तो कृपया पुन: पेश करने के लिए कदम प्रदान करें।**
 
-**- What is the expected behavior?**
+**- अपेक्षित व्यवहार क्या है?**
 
-**- Please mention your node.js, NPM, Hugo and operating system version.**
+**- कृपया अपने नोड.जेएस, एनपीएम, ह्यूगो और ऑपरेटिंग सिस्टम संस्करण का उल्लेख करें।**
