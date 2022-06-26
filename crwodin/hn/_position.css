@@ -1,25 +1,25 @@
-.static { position: static; }
-.relative  { position: relative; }
-.absolute  { position: absolute; }
-.fixed  { position: fixed; }
+.स्थैतिक { स्थिति: स्थिर; }
+.रिश्तेदार { स्थिति: रिश्तेदार; }
+.निरपेक्ष { स्थिति: निरपेक्ष; }
+.फिक्स्ड {स्थिति: निश्चित; }
 
-@media (--breakpoint-not-small) {
-  .static-ns { position: static; }
-  .relative-ns  { position: relative; }
-  .absolute-ns  { position: absolute; }
-  .fixed-ns  { position: fixed; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .स्टैटिक-एनएस {स्थिति: स्थिर; }
+  .रिश्तेदार-एनएस { स्थिति: रिश्तेदार; }
+  .absolute-ns { स्थिति: निरपेक्ष; }
+  .फिक्स्ड-एनएस { स्थिति: निश्चित; }
 }
 
-@media (--breakpoint-medium) {
-  .static-m { position: static; }
-  .relative-m  { position: relative; }
-  .absolute-m  { position: absolute; }
-  .fixed-m  { position: fixed; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .स्थैतिक-एम { स्थिति: स्थिर; }
+  .रिश्तेदार-एम { स्थिति: रिश्तेदार; }
+  .absolute-m { स्थिति: निरपेक्ष; }
+  .फिक्स्ड-एम { स्थिति: निश्चित; }
 }
 
-@media (--breakpoint-large) {
-  .static-l { position: static; }
-  .relative-l  { position: relative; }
-  .absolute-l  { position: absolute; }
-  .fixed-l  { position: fixed; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .स्थैतिक-एल {स्थिति: स्थिर; }
+  .रिश्तेदार-एल { स्थिति: रिश्तेदार; }
+  .absolute-l { स्थिति: निरपेक्ष; }
+  .फिक्स्ड-एल {स्थिति: निश्चित; }
 }
