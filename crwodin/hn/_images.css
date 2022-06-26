@@ -1,8 +1,8 @@
-img {
-  max-width: 100%;
+आईएमजी {
+  अधिकतम-चौड़ाई: 100%;
 }
 
-/* Remove border-radiius from full-width images */
-img:not(.w-100) {
-  border-radius: var(--border-radius);
+/* पूर्ण-चौड़ाई वाली छवियों से सीमा-त्रिज्या निकालें */
+img: नहीं (.w-100) {
+  सीमा-त्रिज्या: var (--सीमा-त्रिज्या);
 }
