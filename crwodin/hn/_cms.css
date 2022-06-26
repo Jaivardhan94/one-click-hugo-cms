@@ -1,102 +1,102 @@
 .cms {
 
-	/* Headings */
-	& h1, & h2, & h3, & h4, & h5, & h6 {
-		font-weight: var(--bold-font-weight);
-		line-height: 1.25;
-    margin-bottom: var(--spacing-small);
+	/*शीर्षक*/
+	और h1, और h2, और h3, और h4, और h5, और h6 {
+		फ़ॉन्ट-वजन: var (--बोल्ड-फ़ॉन्ट-वेट);
+		लाइन-ऊंचाई: 1.25;
+    मार्जिन-बॉटम: var (--स्पेसिंग-छोटा);
   }
 
-  & h1 {
-    font-size: 2.25rem;
+  और एच1 {
+    फ़ॉन्ट-आकार: 2.25rem;
   }
 
-  & h2 {
-    font-size: 1.5rem;
+  और एच2 {
+    फ़ॉन्ट-आकार: 1.5rem;
   }
 
-  & h3 {
-    font-size: 1.25rem;
+  और एच3 {
+    फ़ॉन्ट-आकार: 1.25rem;
   }
 
-  & h4 {
-    font-size: 1rem;;
+  और एच4 {
+    फ़ॉन्ट-आकार: 1rem;;
   }
 
-  & h5 {
-    font-size: .875rem;
+  और एच5 {
+    फ़ॉन्ट-आकार: .875rem;
   }
 
-	/* Images */
-	& img {
-		display: block;
-		margin-bottom: var(--spacing-medium);
-		margin-left: auto;
-		margin-right: auto;
-		max-width: 100%;
+	/* इमेजिस */
+	और आईएमजी {
+		प्रदर्शन क्षेत्र;
+		मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम);
+		मार्जिन-बाएं: ऑटो;
+		मार्जिन-दाएं: ऑटो;
+		अधिकतम-चौड़ाई: 100%;
 	}
 
-	/* Links */
-	& a {
-		color: var(--primary);
-		transition: var(--hover-transition);
-		&:hover {
-			background-color: var(--highlight);
-			color: var(--black);
+	/* लिंक्स */
+	& एक {
+		रंग: var (--प्राथमिक);
+		संक्रमण: var (--होवर-संक्रमण);
+		और: होवर {
+			पृष्ठभूमि-रंग: var (--हाइलाइट);
+			रंग: वर (--काला);
 		}
 	}
 
-	/* Lists */
-	& ul, & ol, & li {
-		position: relative;
+	/* सूचियाँ */
+	और उल, और ओएल, और ली {
+		स्थिति: रिश्तेदार;
 	}
 
-	& ul, & ol {
-		margin-bottom: var(--spacing-medium);
+	और उल, और ओएल {
+		मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम);
 	}
 
-	& ul ul, & ol ol {
-		padding-left: var(--spacing-small);
+	और उल उल, और ओल ओल {
+		पैडिंग-लेफ्ट: var (--स्पेसिंग-छोटा);
 	}
 
-	& ul {
-		margin-left: 1.33rem;
-		& >li:before {
-			content: '✱';
-			left: -1.33rem;
-			position: absolute;
-			color: var(--primary);
+	और उल {
+		मार्जिन-बाएं: 1.33rem;
+		और >ली: इससे पहले {
+			सामग्री: '✱';
+			बाएं: -1.33 रेम;
+			स्थिति: निरपेक्ष;
+			रंग: var (--प्राथमिक);
 		}
 	}
 
-	& ol {
-		list-style: none;
-		margin-left: var(--spacing-medium);
-		counter-reset: i 0;
-    & >li:before {
-      font-weight: 800;
-      left: var(--spacing-medium);
-      margin-right: 1.33rem;
-      position: relative;
-      height: 100%;
-      content: counter(i);
-      counter-increment: i;
-      color: var(--primary);
+	और राजभाषा {
+		सूची-शैली: कोई नहीं;
+		मार्जिन-लेफ्ट: var (--स्पेसिंग-मीडियम);
+		काउंटर-रीसेट: i 0;
+    और >ली: इससे पहले {
+      फ़ॉन्ट-वजन: 800;
+      बाएं: var (--spacing-मध्यम);
+      मार्जिन-दाएं: 1.33rem;
+      स्थिति: रिश्तेदार;
+      ऊंचाई: 100%;
+      सामग्री: काउंटर (i);
+      प्रति-वृद्धि: मैं;
+      रंग: var (--प्राथमिक);
     }
 	}
 
-  /* Blockquotes */
-  & blockquote {
-    background-color: var(--grey-1);
-    display: block;
-    border-radius: var(--border-radius);
-    padding: var(--spacing-medium);
-    color: var(--primary);
-    font-weight: 700;
-    font-size: 1.25rem;;
-    margin-bottom: var(--spacing-medium);
-    & p {
-      margin: 0;
+  /* ब्लॉक उद्धरण */
+  और ब्लॉककोट {
+    पृष्ठभूमि-रंग: var (--ग्रे -1);
+    प्रदर्शन क्षेत्र;
+    सीमा-त्रिज्या: var (--सीमा-त्रिज्या);
+    पैडिंग: var (--स्पेसिंग-मीडियम);
+    रंग: var (--प्राथमिक);
+    फ़ॉन्ट-वजन: 700;
+    फ़ॉन्ट-आकार: 1.25rem;;
+    मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम);
+    & पी {
+      मार्जिन: 0;
     }
   }
 }
