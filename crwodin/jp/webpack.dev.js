@@ -1,10 +1,10 @@
-const merge = require('webpack-merge');
-const path = require('path');
+const merge = require('webpack-マージ');
+const path = require('道');
 const {CleanWebpackPlugin} = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const common = require('./webpack.common');
 module.exports = merge(common, {
-  mode: 'development',
+  mode: '発達',
   output: {
     filename: '[name].js',
     chunkFilename: '[id].css'
