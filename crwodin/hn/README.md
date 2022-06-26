@@ -1,43 +1,43 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# Netlify पहचान के साथ Netlify CMS के लिए ह्यूगो टेम्पलेट
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+यह [विक्टर ह्यूगो](https://github.com/netlify/victor-hugo) और [नेटलिफाई सीएमएस](https://github.com/netlify/netlify-cms)के साथ बनाया गया एक छोटा व्यवसाय टेम्पलेट है, जिसे [डारिन दिमित्रॉफ](http://www.darindimitroff.com/), [स्पेसफार्म.डिजिटल](https://www.spacefarm.digital)द्वारा डिजाइन और विकसित किया गया है।
 
-## Getting started
+## शुरू करना
 
-Use our deploy button to get your own copy of the repository.
+रिपॉजिटरी की अपनी प्रति प्राप्त करने के लिए हमारे डिप्लॉय बटन का उपयोग करें।
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
+[![Netlify पर तैनात करें](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
 
-This will setup everything needed for running the CMS:
+यह CMS चलाने के लिए आवश्यक सभी चीज़ों को सेटअप करेगा:
 
-* A new repository in your GitHub account with the code
-* Full Continuous Deployment to Netlify's global CDN network
-* Control users and access with Netlify Identity
-* Manage content with Netlify CMS
+* कोड के साथ आपके GitHub खाते में एक नया भंडार
+* Netlify के वैश्विक सीडीएन नेटवर्क में पूर्ण निरंतर परिनियोजन
+* Netlify Identity के साथ उपयोगकर्ताओं और एक्सेस को नियंत्रित करें
+* Netlify CMS के साथ सामग्री प्रबंधित करें
 
-Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
+एक बार प्रारंभिक निर्माण समाप्त हो जाने पर, आप स्वयं को एक उपयोगकर्ता के रूप में आमंत्रित कर सकते हैं। अपनी नई साइट में पहचान टैब पर जाएं, "आमंत्रित करें" पर क्लिक करें और स्वयं को एक आमंत्रण भेजें।
 
-Now you're all set, and you can start editing content!
+अब आप पूरी तरह से तैयार हैं, और आप सामग्री का संपादन शुरू कर सकते हैं!
 
-## Local Development
+## स्थानीय विकास
 
-Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
+इस रिपॉजिटरी को क्लोन करें, और सभी आवश्यक निर्भरताओं को स्थापित करने के लिए नए फ़ोल्डर से `यार्न` या `एनपीएम इंस्टॉल` चलाएं।
 
-Then start the development server with `yarn start` or `npm start`.
+फिर विकास सर्वर को `यार्न स्टार्ट` या `एनपीएम स्टार्ट`के साथ शुरू करें।
 
-## Layouts
+## लेआउट
 
-The template is based on small, content-agnostic partials that can be mixed and matched. The pre-built pages showcase just a few of the possible combinations. Refer to the `site/layouts/partials` folder for all available partials.
+टेम्प्लेट छोटे, सामग्री-अज्ञेय आंशिक भागों पर आधारित है जिन्हें मिश्रित और मिलान किया जा सकता है। पूर्व-निर्मित पृष्ठ कुछ ही संभावित संयोजनों को प्रदर्शित करते हैं। सभी उपलब्ध आंशिक के लिए `साइट/लेआउट/आंशिक` फ़ोल्डर देखें।
 
-Use Hugo’s `dict` functionality to feed content into partials and avoid repeating yourself and creating discrepancies.
+सामग्री को आंशिक रूप से फीड करने के लिए ह्यूगो की `dict` कार्यक्षमता का उपयोग करें और खुद को दोहराने और विसंगतियां पैदा करने से बचें।
 
-## CSS
+## सीएसएस
 
-The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. To customize the template for your brand, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
+टेम्प्लेट cssnext और cssnano के साथ Tachyons और PostCSS के कस्टम फोर्क का उपयोग करता है। अपने ब्रांड के लिए टेम्पलेट को अनुकूलित करने के लिए, `src/css/imports/_variables.css` देखें, जहां रंग और रिक्ति जैसे अधिकांश महत्वपूर्ण वैश्विक चर संग्रहीत हैं।
 
-## SVG
+## एसवीजी
 
-All SVG icons stored in `site/static/img/icons` are automatically optimized with SVGO (gulp-svgmin) and concatenated into a single SVG sprite stored as a a partial called `svg.html`. Make sure you use consistent icons in terms of viewport and art direction for optimal results. Refer to an SVG via the `<use>` tag like so:
+`साइट/स्टेटिक/आईएमजी/आइकॉन` में संग्रहीत सभी एसवीजी आइकन स्वचालित रूप से एसवीजीओ (गुलप-एसवीजीमिन) के साथ अनुकूलित होते हैं और एक एकल एसवीजी स्प्राइट में संयोजित होते हैं जिसे `svg.html`कहा जाता है। सुनिश्चित करें कि आप इष्टतम परिणामों के लिए व्यूपोर्ट और कला निर्देशन के संदर्भ में सुसंगत आइकन का उपयोग करते हैं। इस तरह `<use>` टैग के माध्यम से एक एसवीजी का संदर्भ लें:
 
 ```
 <svg width="16px" height="16px" class="db">
