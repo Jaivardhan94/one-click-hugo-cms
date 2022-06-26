@@ -1,105 +1,105 @@
-.bg-center { 
-  background-repeat: no-repeat;
-  background-position: center center;
+.बीजी-केंद्र { 
+  बैकग्राउंड-रिपीट: नो-रिपीट;
+  पृष्ठभूमि-स्थिति: केंद्र केंद्र;
 }
 
-.bg-top {
-  background-repeat: no-repeat;
-  background-position: top center;
+.बीजी-टॉप {
+  बैकग्राउंड-रिपीट: नो-रिपीट;
+  पृष्ठभूमि-स्थिति: शीर्ष केंद्र;
 }
 
-.bg-right {
-  background-repeat: no-repeat;
-  background-position: center right;
+.बीजी-दाएं {
+  बैकग्राउंड-रिपीट: नो-रिपीट;
+  पृष्ठभूमि-स्थिति: केंद्र दाईं ओर;
 }
 
-.bg-bottom {
-  background-repeat: no-repeat;
-  background-position: bottom center;
+.बीजी-नीचे {
+  बैकग्राउंड-रिपीट: नो-रिपीट;
+  पृष्ठभूमि-स्थिति: निचला केंद्र;
 }
 
-.bg-left {
-  background-repeat: no-repeat;
-  background-position: center left;
+.बीजी-बाएं {
+  बैकग्राउंड-रिपीट: नो-रिपीट;
+  पृष्ठभूमि-स्थिति: केंद्र बाएँ;
 }
 
-@media (--breakpoint-not-small) {
-  .bg-center-ns {
-    background-repeat: no-repeat;
-    background-position: center center;
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .बीजी-सेंटर-एनएस {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: केंद्र केंद्र;
   }
 
-  .bg-top-ns {
-    background-repeat: no-repeat;
-    background-position: top center;
+  .बीजी-टॉप-एनएस {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: शीर्ष केंद्र;
   }
 
-  .bg-right-ns {
-    background-repeat: no-repeat;
-    background-position: center right;
+  .बीजी-राइट-एनएस {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: केंद्र दाईं ओर;
   }
 
-  .bg-bottom-ns {
-    background-repeat: no-repeat;
-    background-position: bottom center;
+  .बीजी-नीचे-एनएस {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: निचला केंद्र;
   }
 
-  .bg-left-ns {
-    background-repeat: no-repeat;
-    background-position: center left;
-  }
-}
-
-@media (--breakpoint-medium) {
-  .bg-center-m {
-    background-repeat: no-repeat;
-    background-position: center center;
-  }
-
-  .bg-top-m {
-    background-repeat: no-repeat;
-    background-position: top center;
-  }
-
-  .bg-right-m {
-    background-repeat: no-repeat;
-    background-position: center right;
-  }
-
-  .bg-bottom-m {
-    background-repeat: no-repeat;
-    background-position: bottom center;
-  }
-
-  .bg-left-m {
-    background-repeat: no-repeat;
-    background-position: center left;
+  .बीजी-बाएं-एनएस {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: केंद्र बाएँ;
   }
 }
 
-@media (--breakpoint-large) {
-  .bg-center-l {
-    background-repeat: no-repeat;
-    background-position: center center;
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .बीजी-सेंटर-एम {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: केंद्र केंद्र;
   }
 
-  .bg-top-l {
-    background-repeat: no-repeat;
-    background-position: top center;
+  .बीजी-टॉप-एम {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: शीर्ष केंद्र;
   }
 
-  .bg-right-l {
-    background-repeat: no-repeat;
-    background-position: center right;
+  .बीजी-दाएं-एम {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: केंद्र दाईं ओर;
   }
 
-  .bg-bottom-l {
-    background-repeat: no-repeat;
-    background-position: bottom center;
+  .बीजी-नीचे-एम {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: निचला केंद्र;
   }
 
-  .bg-left-l {
-    background-repeat: no-repeat;
-    background-position: center left;
+  .बीजी-बाएं-एम {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: केंद्र बाएँ;
+  }
+}
+
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .बीजी-सेंटर-एल {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: केंद्र केंद्र;
+  }
+
+  .बीजी-टॉप-एल {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: शीर्ष केंद्र;
+  }
+
+  .बीजी-राइट-एल {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: केंद्र दाईं ओर;
+  }
+
+  .बीजी-नीचे-एल {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: निचला केंद्र;
+  }
+
+  .बीजी-बाएं-एल {
+    बैकग्राउंड-रिपीट: नो-रिपीट;
+    पृष्ठभूमि-स्थिति: केंद्र बाएँ;
   }
 }
