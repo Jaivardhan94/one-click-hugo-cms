@@ -1,64 +1,64 @@
-.overflow-visible { overflow: visible; }
-.overflow-hidden { overflow: hidden; }
-.overflow-scroll { overflow: scroll; }
-.overflow-auto { overflow: auto; }
+.अतिप्रवाह-दृश्यमान { अतिप्रवाह: दृश्यमान; }
+.ओवरफ्लो-हिडन {ओवरफ्लो: हिडन; }
+.ओवरफ्लो-स्क्रॉल {ओवरफ्लो: स्क्रॉल; }
+.ओवरफ्लो-ऑटो {ओवरफ्लो: ऑटो; }
 
-.overflow-x-visible { overflow-x: visible; }
-.overflow-x-hidden { overflow-x: hidden; }
-.overflow-x-scroll { overflow-x: scroll; -webkit-overflow-scrolling: touch;  }
-.overflow-x-auto { overflow-x: auto; }
+.ओवरफ्लो-एक्स-विजिबल {ओवरफ्लो-एक्स: विजिबल; }
+.ओवरफ्लो-एक्स-हिडन {ओवरफ्लो-एक्स: हिडन; }
+.ओवरफ्लो-एक्स-स्क्रॉल {ओवरफ्लो-एक्स: स्क्रॉल; -वेबकिट-ओवरफ्लो-स्क्रॉलिंग: स्पर्श करें; }
+.ओवरफ्लो-एक्स-ऑटो {ओवरफ्लो-एक्स: ऑटो; }
 
-.overflow-y-visible { overflow-y: visible; }
-.overflow-y-hidden { overflow-y: hidden; }
-.overflow-y-scroll { overflow-y: scroll; }
-.overflow-y-auto { overflow-y: auto; }
+.ओवरफ्लो-वाई-विजिबल {ओवरफ्लो-वाई: विजिबल; }
+.ओवरफ्लो-वाई-हिडन {ओवरफ्लो-वाई: हिडन; }
+.ओवरफ्लो-वाई-स्क्रॉल {ओवरफ्लो-वाई: स्क्रॉल; }
+.ओवरफ्लो-वाई-ऑटो {ओवरफ्लो-वाई: ऑटो; }
 
-@media (--breakpoint-not-small) {
-  .overflow-visible-ns { overflow: visible; }
-  .overflow-hidden-ns { overflow: hidden; }
-  .overflow-scroll-ns { overflow: scroll; }
-  .overflow-auto-ns { overflow: auto; }
-  .overflow-x-visible-ns { overflow-x: visible; }
-  .overflow-x-hidden-ns { overflow-x: hidden; }
-  .overflow-x-scroll-ns { overflow-x: scroll; -webkit-overflow-scrolling: touch; }
-  .overflow-x-auto-ns { overflow-x: auto; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .अतिप्रवाह-दृश्यमान-एनएस { अतिप्रवाह: दृश्यमान; }
+  .ओवरफ्लो-हिडन-एनएस {ओवरफ्लो: हिडन; }
+  .ओवरफ्लो-स्क्रॉल-एनएस {ओवरफ्लो: स्क्रॉल; }
+  .ओवरफ्लो-ऑटो-एनएस {ओवरफ्लो: ऑटो; }
+  .ओवरफ्लो-एक्स-विजिबल-एनएस {ओवरफ्लो-एक्स: विजिबल; }
+  .ओवरफ्लो-एक्स-हिडन-एनएस {ओवरफ्लो-एक्स: हिडन; }
+  .ओवरफ्लो-एक्स-स्क्रॉल-एनएस {ओवरफ्लो-एक्स: स्क्रॉल; -वेबकिट-ओवरफ्लो-स्क्रॉलिंग: स्पर्श करें; }
+  .ओवरफ्लो-एक्स-ऑटो-एनएस {ओवरफ्लो-एक्स: ऑटो; }
 
-  .overflow-y-visible-ns { overflow-y: visible; }
-  .overflow-y-hidden-ns { overflow-y: hidden; }
-  .overflow-y-scroll-ns { overflow-y: scroll; }
-  .overflow-y-auto-ns { overflow-y: auto; }
+  .ओवरफ्लो-वाई-विजिबल-एनएस {ओवरफ्लो-वाई: विजिबल; }
+  .ओवरफ्लो-वाई-हिडन-एनएस {ओवरफ्लो-वाई: हिडन; }
+  .ओवरफ्लो-वाई-स्क्रॉल-एनएस {ओवरफ्लो-वाई: स्क्रॉल; }
+  .ओवरफ्लो-वाई-ऑटो-एनएस {ओवरफ्लो-वाई: ऑटो; }
 }
 
-@media (--breakpoint-medium) {
-  .overflow-visible-m { overflow: visible; }
-  .overflow-hidden-m { overflow: hidden; }
-  .overflow-scroll-m { overflow: scroll; }
-  .overflow-auto-m { overflow: auto; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .अतिप्रवाह-दृश्यमान-एम { अतिप्रवाह: दृश्यमान; }
+  .ओवरफ्लो-हिडन-एम {ओवरफ्लो: हिडन; }
+  .ओवरफ्लो-स्क्रॉल-एम {ओवरफ्लो: स्क्रॉल; }
+  .ओवरफ्लो-ऑटो-एम {ओवरफ्लो: ऑटो; }
 
-  .overflow-x-visible-m { overflow-x: visible; }
-  .overflow-x-hidden-m { overflow-x: hidden; }
-  .overflow-x-scroll-m { overflow-x: scroll; -webkit-overflow-scrolling: touch; }
-  .overflow-x-auto-m { overflow-x: auto; }
+  .ओवरफ्लो-एक्स-विजिबल-एम {ओवरफ्लो-एक्स: विजिबल; }
+  .ओवरफ्लो-एक्स-हिडन-एम {ओवरफ्लो-एक्स: हिडन; }
+  .ओवरफ्लो-एक्स-स्क्रॉल-एम {ओवरफ्लो-एक्स: स्क्रॉल; -वेबकिट-ओवरफ्लो-स्क्रॉलिंग: स्पर्श करें; }
+  .ओवरफ्लो-एक्स-ऑटो-एम {ओवरफ्लो-एक्स: ऑटो; }
 
-  .overflow-y-visible-m { overflow-y: visible; }
-  .overflow-y-hidden-m { overflow-y: hidden; }
-  .overflow-y-scroll-m { overflow-y: scroll; }
-  .overflow-y-auto-m { overflow-y: auto; }
+  .ओवरफ्लो-वाई-विजिबल-एम {ओवरफ्लो-वाई: विजिबल; }
+  .ओवरफ्लो-वाई-हिडन-एम {ओवरफ्लो-वाई: हिडन; }
+  .ओवरफ्लो-वाई-स्क्रॉल-एम {ओवरफ्लो-वाई: स्क्रॉल; }
+  .ओवरफ्लो-वाई-ऑटो-एम {ओवरफ्लो-वाई: ऑटो; }
 }
 
-@media (--breakpoint-large) {
-  .overflow-visible-l { overflow: visible; }
-  .overflow-hidden-l { overflow: hidden; }
-  .overflow-scroll-l { overflow: scroll; }
-  .overflow-auto-l { overflow: auto; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .अतिप्रवाह-दृश्यमान-एल { अतिप्रवाह: दृश्यमान; }
+  .ओवरफ्लो-हिडन-एल {ओवरफ्लो: हिडन; }
+  .ओवरफ्लो-स्क्रॉल-एल {ओवरफ्लो: स्क्रॉल; }
+  .ओवरफ्लो-ऑटो-एल {ओवरफ्लो: ऑटो; }
 
-  .overflow-x-visible-l { overflow-x: visible; }
-  .overflow-x-hidden-l { overflow-x: hidden; }
-  .overflow-x-scroll-l { overflow-x: scroll; -webkit-overflow-scrolling: touch; }
-  .overflow-x-auto-l { overflow-x: auto; }
+  .ओवरफ्लो-एक्स-विजिबल-एल {ओवरफ्लो-एक्स: विजिबल; }
+  .ओवरफ्लो-एक्स-हिडन-एल {ओवरफ्लो-एक्स: हिडन; }
+  .ओवरफ्लो-एक्स-स्क्रॉल-एल {ओवरफ्लो-एक्स: स्क्रॉल; -वेबकिट-अतिप्रवाह-स्क्रॉलिंग: स्पर्श करें; }
+  .ओवरफ्लो-एक्स-ऑटो-एल {ओवरफ्लो-एक्स: ऑटो; }
 
-  .overflow-y-visible-l { overflow-y: visible; }
-  .overflow-y-hidden-l { overflow-y: hidden; }
-  .overflow-y-scroll-l { overflow-y: scroll; }
-  .overflow-y-auto-l { overflow-y: auto; }
+  .ओवरफ्लो-वाई-विजिबल-एल {ओवरफ्लो-वाई: विजिबल; }
+  .ओवरफ्लो-वाई-हिडन-एल {ओवरफ्लो-वाई: हिडन; }
+  .ओवरफ्लो-वाई-स्क्रॉल-एल {ओवरफ्लो-वाई: स्क्रॉल; }
+  .ओवरफ्लो-वाई-ऑटो-एल {ओवरफ्लो-वाई: ऑटो; }
 }
