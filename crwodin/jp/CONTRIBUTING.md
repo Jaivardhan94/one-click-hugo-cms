@@ -1,8 +1,8 @@
-# CONTRIBUTING
+# 貢献
 
-Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md).
+寄付は、大小を問わず、いつでも歓迎します。 貢献する前に、 は [行動規範](CODE_OF_CONDUCT.md)を読んでください。
 
-## Setup
+## 設定
 
 ```sh
 $ git clone https://github.com/netlify/victor-hugo
@@ -10,38 +10,38 @@ $ cd victor-hugo
 $ npm install
 ```
 
-## Building
+## 建物
 
 ```sh
 $ npm run build
 ```
 
-## Testing
+## テスト
 
 ```sh
-$ npm run test
+$npm実行テスト
 ```
 
 ```sh
-$ npm run test:watch
+$ npm run test：watch
 ```
 
-## Running the server
+## サーバーの実行
 
 ```sh
 $ npm run start
 ```
 
-## Pull Requests
+## プルリクエスト
 
-We actively welcome your pull requests.
+プルリクエストを積極的に歓迎します。
 
-1. Fork the repo and create your branch from `master`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
-5. Make sure your code lints.
+1. リポジトリをフォークし、 `マスター`からブランチを作成します。
+2. テストする必要のあるコードを追加した場合は、テストを追加します。
+3. APIを変更した場合は、ドキュメントを更新してください。
+4. テストスイートに合格することを確認します。
+5. コードがリントしていることを確認してください。
 
-## License
+## ライセンス
 
-By contributing to Victor-Hugo, you agree that your contributions will be licensed under its [MIT license](LICENSE).
+Victor</a> でライセンスされることに同意するものとします。</p>
