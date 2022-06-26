@@ -1,8 +1,8 @@
 const webpack = require('webpack');
-const path = require('path');
+const path = require('道');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const AssetsPlugin = require('assets-webpack-plugin');
+const AssetsPlugin = require('アセット-webpack-プラグイン');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 module.exports = {
   entry: {
@@ -14,10 +14,10 @@ module.exports = {
     rules: [
       {
         test: /\.((png)|(eot)|(woff)|(woff2)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
-        loader: 'file-loader?name=/[hash].[ext]'
+        loader: 'file-loader？name =/[hash]。[ext]'
       },
       {
-        loader: 'babel-loader',
+        loader: 'バベルローダー',
         test: /\.js?$/,
         exclude: /node_modules/,
         query: { cacheDirectory: true }
@@ -26,7 +26,7 @@ module.exports = {
         test: /\.(sa|sc|c)ss$/,
         exclude: /node_modules/,
         use: [
-          'style-loader',
+          'スタイルローダー',
           MiniCssExtractPlugin.loader,
           'css-loader',
           'postcss-loader',
