@@ -1,21 +1,21 @@
-.tl  { text-align: left; }
-.tr  { text-align: right; }
-.tc  { text-align: center; }
+.tl { टेक्स्ट-एलाइन: लेफ्ट; }
+.tr {पाठ-संरेखण: दाएं; }
+.tc {पाठ-संरेखण: केंद्र; }
 
-@media (--breakpoint-not-small) {
-  .tl-ns  { text-align: left; }
-  .tr-ns  { text-align: right; }
-  .tc-ns  { text-align: center; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .tl-ns { टेक्स्ट-एलाइन: लेफ्ट; }
+  .tr-ns { टेक्स्ट-एलाइन: राइट; }
+  .टीसी-एनएस {पाठ-संरेखण: केंद्र; }
 }
 
-@media (--breakpoint-medium) {
-  .tl-m  { text-align: left; }
-  .tr-m  { text-align: right; }
-  .tc-m  { text-align: center; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .tl-m { टेक्स्ट-एलाइन: लेफ्ट; }
+  .tr-m { टेक्स्ट-एलाइन: राइट; }
+  .टीसी-एम {पाठ-संरेखण: केंद्र; }
 }
 
-@media (--breakpoint-large) {
-  .tl-l  { text-align: left; }
-  .tr-l  { text-align: right; }
-  .tc-l  { text-align: center; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .tl-l { टेक्स्ट-एलाइन: लेफ्ट; }
+  .tr-l { टेक्स्ट-एलाइन: राइट; }
+  .टीसी-एल {पाठ-संरेखण: केंद्र; }
 }
