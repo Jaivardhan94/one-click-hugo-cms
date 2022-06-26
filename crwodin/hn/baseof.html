@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="hi">
-  {{ partial "head" . }}
+  {{आंशिक "सिर"। }}
   <body class="sans-serif">
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+    {{ब्लॉक "हेडर"। }}{{ आंशिक "एनएवी" . }}{{end}}
 
-    {{ block "main" . }}{{ end }}
+    {{ ब्लॉक "मुख्य"। }}{{ end }}
 
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    {{ "पाद लेख" को ब्लॉक करें। }}{{ आंशिक "पाद लेख" . }}{{end}}
 
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
