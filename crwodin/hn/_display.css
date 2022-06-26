@@ -1,77 +1,77 @@
-.dn {              display: none; }
-.di {              display: inline; }
-.db {              display: block; }
-.dib {             display: inline-block; }
-.dit {             display: inline-table; }
-.dt {              display: table; }
-.dtc {             display: table-cell; }
-.dt-row {          display: table-row; }
-.dt-row-group {    display: table-row-group; }
-.dt-column {       display: table-column; }
-.dt-column-group { display: table-column-group; }
+.dn {डिस्प्ले: कोई नहीं; }
+.di {डिस्प्ले: इनलाइन; }
+.db {डिस्प्ले: ब्लॉक; }
+.dib {डिस्प्ले: इनलाइन-ब्लॉक; }
+.dit {डिस्प्ले: इनलाइन-टेबल; }
+.dt {डिस्प्ले: टेबल; }
+.dtc {डिस्प्ले: टेबल-सेल; }
+.dt-row {डिस्प्ले: टेबल-पंक्ति; }
+.dt-पंक्ति-समूह {प्रदर्शन: तालिका-पंक्ति-समूह; }
+.dt-कॉलम {डिस्प्ले: टेबल-कॉलम; }
+.dt-स्तंभ-समूह {प्रदर्शन: तालिका-स्तंभ-समूह; }
 
 /*
-  This will set table to full width and then
-  all cells will be equal width
+  यह टेबल को पूरी चौड़ाई में सेट करेगा और फिर
+  सभी सेल समान चौड़ाई के होंगे
 */
-.dt--fixed {
-  table-layout: fixed;
-  width: 100%;
+.dt--फिक्स्ड {
+  टेबल-लेआउट: फिक्स्ड;
+  चौड़ाई: 100%;
 }
 
-@media (--breakpoint-not-small) {
-  .dn-ns {              display: none; }
-  .di-ns {              display: inline; }
-  .db-ns {              display: block; }
-  .dib-ns {             display: inline-block; }
-  .dit-ns {             display: inline-table; }
-  .dt-ns {              display: table; }
-  .dtc-ns {             display: table-cell; }
-  .dt-row-ns {          display: table-row; }
-  .dt-row-group-ns {    display: table-row-group; }
-  .dt-column-ns {       display: table-column; }
-  .dt-column-group-ns { display: table-column-group; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .dn-ns {प्रदर्शन: कोई नहीं; }
+  .di-ns {डिस्प्ले: इनलाइन; }
+  .db-ns {डिस्प्ले: ब्लॉक; }
+  .dib-ns {डिस्प्ले: इनलाइन-ब्लॉक; }
+  .dit-ns {डिस्प्ले: इनलाइन-टेबल; }
+  .dt-ns {डिस्प्ले: टेबल; }
+  .dtc-ns {डिस्प्ले: टेबल-सेल; }
+  .dt-row-ns {डिस्प्ले: टेबल-पंक्ति; }
+  .dt-पंक्ति-समूह-एनएस {प्रदर्शन: तालिका-पंक्ति-समूह; }
+  .dt-column-ns {डिस्प्ले: टेबल-कॉलम; }
+  .dt-column-group-ns { डिस्प्ले: टेबल-कॉलम-ग्रुप; }
 
-  .dt--fixed-ns {
-    table-layout: fixed;
-    width: 100%;
+  .dt--निश्चित-एनएस {
+    टेबल-लेआउट: फिक्स्ड;
+    चौड़ाई: 100%;
   }
 }
 
-@media (--breakpoint-medium) {
-  .dn-m {              display: none; }
-  .di-m {              display: inline; }
-  .db-m {              display: block; }
-  .dib-m {             display: inline-block; }
-  .dit-m {             display: inline-table; }
-  .dt-m {              display: table; }
-  .dtc-m {             display: table-cell; }
-  .dt-row-m {          display: table-row; }
-  .dt-row-group-m {    display: table-row-group; }
-  .dt-column-m {       display: table-column; }
-  .dt-column-group-m { display: table-column-group; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .dn-m {डिस्प्ले: कोई नहीं; }
+  .di-m {डिस्प्ले: इनलाइन; }
+  .db-m {डिस्प्ले: ब्लॉक; }
+  .dib-m {डिस्प्ले: इनलाइन-ब्लॉक; }
+  .dit-m {डिस्प्ले: इनलाइन-टेबल; }
+  .dt-m {डिस्प्ले: टेबल; }
+  .dtc-m {डिस्प्ले: टेबल-सेल; }
+  .dt-row-m {डिस्प्ले: टेबल-पंक्ति; }
+  .dt-पंक्ति-समूह-एम {प्रदर्शन: तालिका-पंक्ति-समूह; }
+  .dt-column-m {डिस्प्ले: टेबल-कॉलम; }
+  .dt-column-group-m {डिस्प्ले: टेबल-कॉलम-ग्रुप; }
 
-  .dt--fixed-m {
-    table-layout: fixed;
-    width: 100%;
+  .dt--फिक्स्ड-एम {
+    टेबल-लेआउट: फिक्स्ड;
+    चौड़ाई: 100%;
   }
 }
 
-@media (--breakpoint-large) {
-  .dn-l {              display: none; }
-  .di-l {              display: inline; }
-  .db-l {              display: block; }
-  .dib-l {             display: inline-block; }
-  .dit-l {             display: inline-table; }
-  .dt-l {              display: table; }
-  .dtc-l {             display: table-cell; }
-  .dt-row-l {          display: table-row; }
-  .dt-row-group-l {    display: table-row-group; }
-  .dt-column-l {       display: table-column; }
-  .dt-column-group-l { display: table-column-group; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .dn-l {डिस्प्ले: कोई नहीं; }
+  .di-l {डिस्प्ले: इनलाइन; }
+  .db-l {डिस्प्ले: ब्लॉक; }
+  .dib-l {डिस्प्ले: इनलाइन-ब्लॉक; }
+  .dit-l {डिस्प्ले: इनलाइन-टेबल; }
+  .dt-l {डिस्प्ले: टेबल; }
+  .dtc-l {डिस्प्ले: टेबल-सेल; }
+  .dt-row-l {डिस्प्ले: टेबल-पंक्ति; }
+  .डीटी-पंक्ति-समूह-एल {प्रदर्शन: तालिका-पंक्ति-समूह; }
+  .dt-column-l {डिस्प्ले: टेबल-कॉलम; }
+  .dt-column-group-l {डिस्प्ले: टेबल-कॉलम-ग्रुप; }
 
-  .dt--fixed-l {
-    table-layout: fixed;
-    width: 100%;
+  .dt--फिक्स्ड-एल {
+    टेबल-लेआउट: निश्चित;
+    चौड़ाई: 100%;
   }
 }
