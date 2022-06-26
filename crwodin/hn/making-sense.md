@@ -1,27 +1,27 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
+title: "SCAA के नए फ्लेवर व्हील की समझ बनाना"
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: कॉफी टेस्टर्स द्वारा उपयोग किए जाने वाले आधिकारिक संसाधन, कॉफी टेस्टर के फ्लेवर व्हील को इस साल पहली बार संशोधित किया गया है।
 image: /img/blog-flavor_wheel.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+एससीएए ने स्वादों का अधिक सटीक वर्णन करने के लिए आवश्यक बारीक बारीकियों को प्रतिबिंबित करने के लिए पहिया को अद्यतन किया। नए विवरण अधिक विस्तृत हैं और इसलिए कपर्स को अधिक स्वादों के बीच अंतर करने की अनुमति देते हैं।
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+हालांकि यह पेशेवर कॉफी टेस्टर्स के लिए एक बड़ा बदलाव होने जा रहा है, लेकिन यह आपके लिए एक उपभोक्ता के रूप में भी बहुत मायने रखता है। हम बताएंगे कि पहिया कैसे बना, पेशेवर इसका उपयोग कैसे करते हैं और स्वाद का वास्तव में क्या मतलब है।
 
-## What the updates mean to you
+## अपडेट आपके लिए क्या मायने रखते हैं
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+1982 में स्थापित स्पेशियलिटी कॉफ़ी एसोसिएशन ऑफ़ अमेरिका (SCAA) विशिष्ट कॉफ़ी उद्योग के लिए एक गैर-लाभकारी व्यापार संगठन है। 40 से अधिक देशों में स्थित सदस्यों के साथ, SCAA विशिष्ट कॉफी उद्योग के हर खंड का प्रतिनिधित्व करता है, जिसमें शामिल हैं:
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+- प्रोड्यूसर्स
+- रोस्टर
+- आयातक/निर्यातक
+- खुदरा विक्रेताओं
+- निर्माताओं
+- बरिस्ता
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+30 से अधिक वर्षों के लिए, एससीएए विशेष कॉफी को पहचानने, विकसित करने और बढ़ावा देने के द्वारा एक जीवंत विशेषता कॉफी समुदाय बनाने के लिए समर्पित है। एससीएए उद्योग के लिए गुणवत्ता मानकों को निर्धारित और बनाए रखता है, बाजार अनुसंधान करता है, और अपने सदस्यों के लिए शिक्षा, प्रशिक्षण, संसाधन और व्यावसायिक सेवाएं प्रदान करता है।
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+कॉफ़ी कपिंग, या कॉफ़ी टेस्टिंग, ब्रू की हुई कॉफ़ी के स्वाद और सुगंध को देखने की प्रथा है। यह एक पेशेवर अभ्यास है लेकिन अनौपचारिक रूप से किसी के द्वारा या "क्यू ग्रेडर" के रूप में जाने वाले पेशेवरों द्वारा किया जा सकता है। एक मानक कॉफी कपिंग प्रक्रिया में कॉफी को गहराई से सूँघना शामिल है, फिर कॉफी को जोर से थप्पड़ मारना ताकि यह जीभ के पीछे फैल जाए।
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+कॉफी टेस्टर कॉफी के स्वाद के पहलुओं को मापने का प्रयास करता है, विशेष रूप से शरीर (बनावट या माउथफिल, जैसे कि तैलीयपन), मिठास, अम्लता (एक तेज और तीखी भावना, जैसे कि एक नारंगी में काटते समय), स्वाद (वर्ण में वर्ण) कप), और स्वाद। चूंकि कॉफी बीन्स उस क्षेत्र से टेलटेल फ्लेवर को शामिल करते हैं जहां वे उगाए गए थे, क्यूपर कॉफी की उत्पत्ति की पहचान करने का प्रयास कर सकते हैं।
