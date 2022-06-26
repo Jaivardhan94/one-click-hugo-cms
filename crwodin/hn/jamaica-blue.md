@@ -1,26 +1,26 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'बस में: जमैका ब्लू माउंटेन का छोटा बैच अगले सप्ताह स्टोर में है'
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue Mountain coffee beans in our store next week.
+  हमें यह घोषणा करते हुए गर्व हो रहा है कि हम अगले सप्ताह अपने स्टोर में जमैका ब्लू माउंटेन कॉफी बीन्स का एक छोटा बैच पेश करेंगे।
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+हम अगले सोमवार को सीमित मात्रा में हरी बीन्स की शिपमेंट की उम्मीद करते हैं। हम मंगलवार से भुनी हुई फलियाँ पेश करेंगे, लेकिन मात्रा सीमित है, इसलिए जल्दी करें।
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+ब्लू माउंटेन पीक जमैका का सबसे ऊंचा पर्वत है और 7,402 फीट पर कैरिबियन में सबसे ऊंची चोटियों में से एक है। यह ब्लू माउंटेन कॉफी और उनके प्रसिद्ध पर्यटन का घर है। यह पोर्टलैंड और जमैका के सेंट थॉमस पैरिश की सीमा पर स्थित है।
 
-## A little history
+## थोड़ा इतिहास
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-> Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+ब्लू माउंटेन को कई लोग हाइकर और टूरिस्ट का स्वर्ग मानते हैं। पारंपरिक ब्लू माउंटेन ट्रेक चोटी पर 7-मील की बढ़ोतरी है और इसमें ऊंचाई में 3,000 फुट की वृद्धि शामिल है। जमैका के लोग सूर्योदय के समय चरम पर पहुंचना पसंद करते हैं, इस प्रकार 3-4 घंटे की बढ़ोतरी आमतौर पर अंधेरे में की जाती है। चूंकि आमतौर पर सुबह में आसमान बहुत साफ होता है, इसलिए क्यूबा को दूर से देखा जा सकता है।
+> ब्लू माउंटेन पर पाए जाने वाले कुछ पौधे दुनिया में कहीं और नहीं पाए जा सकते हैं और वे अक्सर बौने प्रकार के होते हैं।
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+यह मुख्य रूप से ठंडी जलवायु के कारण होता है जो विकास को रोकता है। क्लावर्टी कॉटेज और हैगले गैप के छोटे कॉफी खेती समुदाय चोटी के पास स्थित हैं।
 
-## What you need to know before trying
+## कोशिश करने से पहले आपको क्या जानना चाहिए
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+जमैका ब्लू माउंटेन कॉफी या जमैका ब्लू माउंटेन कॉफी जमैका के ब्लू माउंटेन में उगाई जाने वाली कॉफी का एक वर्गीकरण है। ब्लू माउंटेन कॉफी के सर्वोत्तम लॉट उनके हल्के स्वाद और कड़वाहट की कमी के लिए जाने जाते हैं। पिछले कुछ दशकों में, इस कॉफी ने एक प्रतिष्ठा विकसित की है जिसने इसे दुनिया में सबसे महंगी और मांग की जाने वाली कॉफी में से एक बना दिया है। सभी जमैका ब्लू माउंटेन कॉफी का 80% से अधिक जापान को निर्यात किया जाता है। पीसा कॉफी के लिए इसके उपयोग के अलावा, सेम टिया मारिया कॉफी मदिरा का स्वाद आधार हैं।
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+जमैका ब्लू माउंटेन कॉफी एक विश्व स्तर पर संरक्षित प्रमाणन चिह्न है, जिसका अर्थ है कि केवल जमैका के कॉफी उद्योग बोर्ड द्वारा प्रमाणित कॉफी को ही इस तरह लेबल किया जा सकता है। यह जमैका के ब्लू माउंटेन क्षेत्र में एक मान्यता प्राप्त बढ़ते क्षेत्र से आता है, और इसकी खेती की निगरानी जमैका के कॉफी उद्योग बोर्ड द्वारा की जाती है।
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+ब्लू माउंटेन आमतौर पर दक्षिण में किंग्स्टन और उत्तर में पोर्ट एंटोनियो के बीच स्थित हैं। 7,402 फीट की ऊंचाई पर, वे कैरिबियन में सबसे ऊंचे पहाड़ों में से कुछ हैं। उच्च वर्षा के साथ इस क्षेत्र की जलवायु ठंडी और धुंध भरी है। उत्कृष्ट जल निकासी के साथ मिट्टी समृद्ध है। जलवायु और मिट्टी का यह संयोजन कॉफी के लिए आदर्श माना जाता है।
 
