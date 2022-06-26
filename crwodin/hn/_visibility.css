@@ -1,33 +1,33 @@
-.clip {
-  position: fixed !important;
-  _position: absolute !important;
-  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-  clip: rect(1px, 1px, 1px, 1px);
+क्लिप {
+  स्थिति: निश्चित! महत्वपूर्ण;
+  _स्थिति: पूर्ण! महत्वपूर्ण;
+  क्लिप: रेक्ट (1px 1px 1px 1px); /* आईई6, आईई7 */
+  क्लिप: रेक्ट (1px, 1px, 1px, 1px);
 }
 
-@media (--breakpoint-not-small) {
-  .clip-ns {
-    position: fixed !important;
-    _position: absolute !important;
-    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-    clip: rect(1px, 1px, 1px, 1px);
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .क्लिप-एनएस {
+    स्थिति: निश्चित! महत्वपूर्ण;
+    _स्थिति: पूर्ण! महत्वपूर्ण;
+    क्लिप: रेक्ट (1px 1px 1px 1px); /* आईई6, आईई7 */
+    क्लिप: रेक्ट (1px, 1px, 1px, 1px);
   }
 }
 
-@media (--breakpoint-medium) {
-  .clip-m {
-    position: fixed !important;
-    _position: absolute !important;
-    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-    clip: rect(1px, 1px, 1px, 1px);
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .क्लिप-एम {
+    स्थिति: निश्चित! महत्वपूर्ण;
+    _स्थिति: पूर्ण! महत्वपूर्ण;
+    क्लिप: रेक्ट (1px 1px 1px 1px); /* आईई6, आईई7 */
+    क्लिप: रेक्ट (1px, 1px, 1px, 1px);
   }
 }
 
-@media (--breakpoint-large) {
-  .clip-l {
-    position: fixed !important;
-    _position: absolute !important;
-    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-    clip: rect(1px, 1px, 1px, 1px);
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .क्लिप-एल {
+    स्थिति: निश्चित! महत्वपूर्ण;
+    _स्थिति: पूर्ण! महत्वपूर्ण;
+    क्लिप: रेक्ट (1px 1px 1px 1px); /* आईई6, आईई7 */
+    क्लिप: रेक्ट (1px, 1px, 1px, 1px);
   }
 }
