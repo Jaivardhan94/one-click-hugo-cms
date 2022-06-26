@@ -1,21 +1,21 @@
-.link {
-  text-decoration: none;
-  transition: var(--hover-transition);
-  color: inherit;
+。リンク {
+  テキスト装飾：なし;
+  遷移：var（-hover-transition）;
+  色：継承;
 }
 
-.link:link,
-.link:visited {
-  transition: color .15s ease-in;
+.link：link、
+.link：visited {
+  トランジション：カラー.15sイーズイン;
 }
-.link:hover   {
-  transition: color .15s ease-in;
-  text-decoration: underline;
+.link：hover {
+  トランジション：カラー.15sイーズイン;
+  text-decoration：下線;
 }
-.link:active  {
-  transition: color .15s ease-in;
+.link：active {
+  トランジション：カラー.15sイーズイン;
 }
-.link:focus   {
-  transition: color .15s ease-in;
-  outline: 1px dotted currentColor;
+.link：focus {
+  トランジション：カラー.15sイーズイン;
+  アウトライン：1px点線currentColor;
 }
