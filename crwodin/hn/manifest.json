@@ -2,16 +2,16 @@
 	"name": "",
 	"icons": [
 		{
-			"src": "\/img\/android-chrome-192x192.png",
+			"src": "\/img\/एंड्रॉइड-क्रोम-192x192.png",
 			"sizes": "192x192",
-			"type": "image\/png"
+			"type": "छवि\/पीएनजी"
 		},
 		{
-			"src": "\/img\/android-chrome-512x512.png",
+			"src": "\/img\/एंड्रॉइड-क्रोम-512x512.png",
 			"sizes": "512x512",
-			"type": "image\/png"
+			"type": "छवि\/पीएनजी"
 		}
 	],
 	"theme_color": "#ffffff",
-	"display": "standalone"
+	"display": "स्टैंडअलोन"
 }
