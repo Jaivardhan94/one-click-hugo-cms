@@ -1,26 +1,26 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'ジャストイン：来週店頭に並ぶジャマイカブルーマウンテンの小ロット'
+date: 2017-01-04T15：04：10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue Mountain coffee beans in our store next week.
+  来週、当店でジャマイカブルーマウンテンコーヒー豆の小ロットを提供することをお知らせします。
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+来週の月曜日には、限られた量のインゲンの出荷が見込まれます。 火曜日から焙煎豆をご用意しておりますが、数量に限りがございますので、お早めに。
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+ブルーマウンテンピークは、ジャマイカで最も高い山であり、カリブ海で最も高い7,402フィートの山の1つです。ここは、ブルーマウンテンコーヒーとその有名なツアーの本拠地です。 ジャマイカのポートランドとセントトーマスの教区の境界に位置しています。
 
-## A little history
+## ちょっとした歴史
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-> Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+ブルーマウンテンズは、多くの人からハイカーやキャンパーの楽園と見なされています。 伝統的なブルーマウンテントレッキングは、山頂まで7マイルのハイキングで、標高が3,000フィート増加します。 ジャマイカ人は日の出でピークに達することを好むので、3〜4時間のハイキングは通常暗闇の中で行われます。 朝は空がとても澄んでいるので、遠くにキューバが見えます。
+> ブルーマウンテンで見つかった植物のいくつかは、世界の他の場所では見つけることができず、それらはしばしば矮小な種類のものです。
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+これは主に、成長を阻害する寒冷な気候によるものです。 ClavertyCottageとHagleyGapの小さなコーヒー農園のコミュニティは山頂の近くにあります。
 
-## What you need to know before trying
+## 試す前に知っておくべきこと
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+ジャマイカブルーマウンテンコーヒーまたはジャマイカブルーマウンテンコーヒーは、ジャマイカのブルーマウンテンで栽培されているコーヒーの分類です。 ブルーマウンテンコーヒーの最高のロットは、そのマイルドな風味と苦味の欠如で知られています。 過去数十年にわたって、このコーヒーは世界で最も高価で人気のあるコーヒーの1つとなった評判を築いてきました。 ジャマイカのブルーマウンテンコーヒーの80％以上が日本に輸出されています。 淹れたてのコーヒーに使用することに加えて、豆はティアマリアコーヒーリキュールのフレーバーベースです。
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+ジャマイカブルーマウンテンコーヒーは世界的に保護された認証マークです。つまり、ジャマイカのコーヒー産業委員会によって認定されたコーヒーのみがそのようにラベル付けできます。 それはジャマイカのブルーマウンテン地域で認められた成長地域から来ており、その栽培はジャマイカのコーヒー産業委員会によって監視されています。
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+ブルーマウンテンズは通常、南のキングストンと北のポートアントニオの間に位置しています。 標高7,402フィートの高さで、カリブ海で最も高い山の1つです。 この地域の気候は涼しく、霧が多く、降雨量が多いです。 土壌は豊かで、水はけが良い。 気候と土壌のこの組み合わせは、コーヒーにとって理想的であると考えられています。
 
