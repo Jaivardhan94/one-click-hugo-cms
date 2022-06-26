@@ -1,25 +1,25 @@
-.ttc { text-transform: capitalize; }
-.ttl { text-transform: lowercase; }
-.ttu { text-transform: uppercase; }
-.ttn { text-transform: none; }
+.ttc { टेक्स्ट-ट्रांसफॉर्म: कैपिटलाइज़; }
+.ttl { टेक्स्ट-ट्रांसफॉर्म: लोअरकेस; }
+.ttu { टेक्स्ट-ट्रांसफॉर्म: अपरकेस; }
+.ttn {पाठ-रूपांतरण: कोई नहीं; }
 
-@media (--breakpoint-not-small) {
-  .ttc-ns { text-transform: capitalize; }
-  .ttl-ns { text-transform: lowercase; }
-  .ttu-ns { text-transform: uppercase; }
-  .ttn-ns { text-transform: none; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .ttc-ns { टेक्स्ट-ट्रांसफॉर्म: कैपिटलाइज़; }
+  .ttl-ns { टेक्स्ट-ट्रांसफॉर्म: लोअरकेस; }
+  .ttu-ns { टेक्स्ट-ट्रांसफॉर्म: अपरकेस; }
+  .ttn-ns { टेक्स्ट-ट्रांसफॉर्म: कोई नहीं; }
 }
 
-@media (--breakpoint-medium) {
-  .ttc-m { text-transform: capitalize; }
-  .ttl-m { text-transform: lowercase; }
-  .ttu-m { text-transform: uppercase; }
-  .ttn-m { text-transform: none; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .ttc-m { टेक्स्ट-ट्रांसफॉर्म: कैपिटलाइज़; }
+  .ttl-m { टेक्स्ट-ट्रांसफॉर्म: लोअरकेस; }
+  .ttu-m { टेक्स्ट-ट्रांसफॉर्म: अपरकेस; }
+  .ttn-m { टेक्स्ट-ट्रांसफॉर्म: कोई नहीं; }
 }
 
-@media (--breakpoint-large) {
-  .ttc-l { text-transform: capitalize; }
-  .ttl-l { text-transform: lowercase; }
-  .ttu-l { text-transform: uppercase; }
-  .ttn-l { text-transform: none; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .ttc-l { टेक्स्ट-ट्रांसफॉर्म: कैपिटलाइज़; }
+  .ttl-l { टेक्स्ट-ट्रांसफॉर्म: लोअरकेस; }
+  .ttu-l { टेक्स्ट-ट्रांसफॉर्म: अपरकेस; }
+  .ttn-l { टेक्स्ट-ट्रांसफॉर्म: कोई नहीं; }
 }
