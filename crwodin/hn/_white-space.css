@@ -1,21 +1,21 @@
-.ws-normal { white-space: normal; }
-.nowrap { white-space: nowrap; }
-.pre { white-space: pre; }
+.ws-सामान्य {सफेद-स्थान: सामान्य; }
+.nowrap {व्हाइट-स्पेस: अब्रैप; }
+.pre { व्हाइट-स्पेस: प्री; }
 
-@media (--breakpoint-not-small) {
-  .ws-normal-ns { white-space: normal; }
-  .nowrap-ns { white-space: nowrap; }
-  .pre-ns { white-space: pre; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .ws-सामान्य-एनएस { सफेद-स्थान: सामान्य; }
+  .nowrap-ns { व्हाइट-स्पेस: अब्रैप; }
+  .pre-ns { व्हाइट-स्पेस: प्री; }
 }
 
-@media (--breakpoint-medium) {
-  .ws-normal-m { white-space: normal; }
-  .nowrap-m { white-space: nowrap; }
-  .pre-m { white-space: pre; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .ws-सामान्य-एम {सफेद-स्थान: सामान्य; }
+  .nowrap-m { व्हाइट-स्पेस: अब्रैप; }
+  .pre-m { व्हाइट-स्पेस: प्री; }
 }
 
-@media (--breakpoint-large) {
-  .ws-normal-l { white-space: normal; }
-  .nowrap-l { white-space: nowrap; }
-  .pre-l { white-space: pre; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .ws-सामान्य-एल { सफेद-स्थान: सामान्य; }
+  .nowrap-l { व्हाइट-स्पेस: अब्रैप; }
+  .pre-l { व्हाइट-स्पेस: प्री; }
 }
