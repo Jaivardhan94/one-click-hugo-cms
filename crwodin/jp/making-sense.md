@@ -1,27 +1,27 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: "SCAAの新しいフレーバーホイールを理解する"
+date: 2016-12-17T15：04：10.000Z
+description: コーヒーテイスターが使用する公式リソースであるCoffeeTaster'sFlavour Wheelは、今年初めて改訂されました。
 image: /img/blog-flavor_wheel.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+SCAAは、フレーバーをより正確に記述するために必要な微妙なニュアンスを反映するようにホイールを更新しました。 新しい説明はより詳細であるため、カッパーはより多くのフレーバーを区別できます。
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+これはプロのコーヒーテイスターにとって大きな変化になるでしょうが、それは消費者としてのあなたにとっても大きな意味があります。 ホイールがどのようになったか、プロがそれをどのように使用するか、そしてフレーバーが実際に何を意味するかを説明します。
 
-## What the updates mean to you
+## アップデートがあなたにとって何を意味するか
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+1982年に設立されたアメリカスペシャルティコーヒー協会（SCAA）は、スペシャルティコーヒー業界の非営利の業界団体です。 SCAAは、40か国以上にメンバーを擁し、以下を含むスペシャリティコーヒー業界のあらゆるセグメントを代表しています。
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+- プロデューサー
+- ロースター
+- 輸入業者/輸出業者
+- 小売業者
+- メーカー
+- バリスタ
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+SCAAは、30年以上にわたり、スペシャルティコーヒーを認識、開発、宣伝することにより、活気に満ちたスペシャルティコーヒーコミュニティの構築に取り組んできました。 SCAAは、業界の品質基準を設定および維持し、市場調査を実施し、メンバーに教育、トレーニング、リソース、およびビジネスサービスを提供します。
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+コーヒーカッピング、またはコーヒーテイスティングは、淹れたてのコーヒーの味と香りを観察する習慣です。 これは専門的な慣習ですが、誰でも、または「QGraders」として知られる専門家が非公式に行うことができます。 標準的なコーヒーカッピングの手順では、コーヒーを深く嗅ぎ、次にコーヒーを大声で丸呑みして舌の後ろに広げます。
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+コーヒーテイスターは、コーヒーの味の側面、具体的にはボディ（油っぽさなどの食感や口当たり）、甘さ、酸味（オレンジを噛んだときのような鋭くピリッとした感じ）、風味（カップ）、そして後味。 コーヒー豆は、それらが栽培された地域からのはっきりとした味を体現しているので、カッパーはコーヒーの起源を特定しようとするかもしれません。
