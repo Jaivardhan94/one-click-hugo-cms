@@ -1,46 +1,45 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# NetlifyIDを活用したNetlifyCMSのHugoテンプレート
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+これは、 [](https://github.com/netlify/victor-hugo) および [](https://github.com/netlify/netlify-cms)で構築され、 [](http://www.darindimitroff.com/)[](https://www.spacefarm.digital)によって設計および開発されたスモールビジネステンプレートです。
 
-## Getting started
+## 初めに
 
-Use our deploy button to get your own copy of the repository.
+デプロイボタンを使用して、リポジトリの独自のコピーを取得します。
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
+[![Netlifyにデプロイする](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
 
-This will setup everything needed for running the CMS:
+これにより、CMSの実行に必要なすべてがセットアップされます。
 
-* A new repository in your GitHub account with the code
-* Full Continuous Deployment to Netlify's global CDN network
-* Control users and access with Netlify Identity
-* Manage content with Netlify CMS
+* コードを含むGitHubアカウントの新しいリポジトリ
+* NetlifyのグローバルCDNネットワークへの完全な継続的展開
+* NetlifyIdentityでユーザーとアクセスを制御する
+* NetlifyCMSでコンテンツを管理する
 
-Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
+最初のビルドが完了したら、ユーザーとして自分を招待できます。 新しいサイトの[ID]タブに移動し、[招待]をクリックして、自分に招待状を送信します。
 
-Now you're all set, and you can start editing content!
+これですべての設定が完了し、コンテンツの編集を開始できます。
 
-## Local Development
+## ローカル開発
 
-Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
+このリポジトリのクローンを作成し、新しいフォルダーから `ヤーン` または `npm install` を実行して、必要なすべての依存関係をインストールします。
 
-Then start the development server with `yarn start` or `npm start`.
+次に、 `ヤーンスタート` または `スタート`で開発サーバーを起動します。
 
-## Layouts
+## レイアウト
 
-The template is based on small, content-agnostic partials that can be mixed and matched. The pre-built pages showcase just a few of the possible combinations. Refer to the `site/layouts/partials` folder for all available partials.
+テンプレートは、コンテンツに依存しない小さなパーシャルに基づいており、混合して一致させることができます。 事前に作成されたページは、可能な組み合わせのほんの一部を示しています。 使用可能なすべてのパーシャルについては、 `サイト/レイアウト/パーシャル` フォルダーを参照してください。
 
-Use Hugo’s `dict` functionality to feed content into partials and avoid repeating yourself and creating discrepancies.
+Hugoの `機能を使用して、コンテンツをパーシャルにフィードし、繰り返したり、不一致が生じたりしないようにし`。
 
 ## CSS
 
-The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. To customize the template for your brand, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
+テンプレートは、cssnextとcssnanoでTachyonsとPostCSSのカスタムフォークを使用します。 ブランドのテンプレートをカスタマイズするには、 `src / css / imports / _variables.css` を参照してください。ここには、色や間隔などの重要なグローバル変数のほとんどが格納されています。
 
 ## SVG
 
-All SVG icons stored in `site/static/img/icons` are automatically optimized with SVGO (gulp-svgmin) and concatenated into a single SVG sprite stored as a a partial called `svg.html`. Make sure you use consistent icons in terms of viewport and art direction for optimal results. Refer to an SVG via the `<use>` tag like so:
+`site / static / img / icons` に保存されているすべてのSVGアイコンは、SVGO（gulp-svgmin）で自動的に最適化され、 `と呼ばれる部分として保存されている単一のSVGスプライトに連結され`。 最適な結果を得るには、ビューポートとアートディレクションに関して一貫したアイコンを使用するようにしてください。 次のように&lt;use&gt;タグを介して</code> を参照し `。</p>
 
-```
-<svg width="16px" height="16px" class="db">
+<pre><code><svg width="16px" height="16px" class="db">
   <use xlink:href="#SVG-ID"></use>
 </svg>
-```
+`</pre>
