@@ -1,31 +1,22 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: "विवेक के साथ बढ़िया कॉफ़ी"
+subtitle: एक कप का आनंद लेते हुए स्थायी खेती का समर्थन करें
+image: /img/home-jumbotron.jpg
+blurb:
+  heading: कलदी का?
+  text: "कलदी उन सभी लोगों के लिए कॉफी की दुकान है जो मानते हैं कि बढ़िया कॉफी का स्वाद सिर्फ अच्छा नहीं होना चाहिए, बल्कि अच्छा भी होना चाहिए। हम अपने सभी बीन्स सीधे छोटे पैमाने के स्थायी किसानों से प्राप्त करते हैं और सुनिश्चित करते हैं कि मुनाफे का हिस्सा उनके समुदायों में पुनर्निवेश किया जाए।"
+intro:
+  heading: "हम क्या दें"
+  text: "कॉफी प्रेमियों के लिए कलदी अंतिम स्थान है जो अपने जावा की उत्पत्ति के बारे में जानना चाहते हैं और इसे उगाने वाले किसानों का समर्थन करना चाहते हैं। हम कॉफी उत्पादन, रोस्टिंग और ब्रूइंग को गंभीरता से लेते हैं और हमें उस ज्ञान को किसी को भी पास करने में खुशी होती है।"
+products:
+  - 
+    image: img/चित्रण-coffee.svg
+    text: "हम हरी और भुनी हुई कॉफी बीन्स बेचते हैं जो सीधे स्वतंत्र किसानों और कृषि सहकारी समितियों से प्राप्त की जाती हैं। हमें पर्यावरण और स्थानीय समुदायों की बहुत देखभाल के साथ उगाई जाने वाली विभिन्न प्रकार की कॉफी बीन्स की पेशकश करते हुए गर्व हो रहा है। हमारी पोस्ट देखें या वर्तमान उपलब्धता के लिए सीधे हमसे संपर्क करें।"
+  - 
+    image: /img/चित्रण-coffee-gear.svg
+    text: "हम हर स्वाद और अनुभव के स्तर के लिए ब्रूइंग गियर और टूल्स का एक छोटा, लेकिन सावधानीपूर्वक क्यूरेटेड चयन प्रदान करते हैं। कोई फर्क नहीं पड़ता कि आप अपनी खुद की फलियाँ भूनते हैं या सिर्फ अपना पहला फ्रेंच प्रेस खरीदा है, आपको हमारी दुकान में प्यार करने के लिए एक गैजेट मिलेगा।"
 values:
-  - 
-    heading: "Shade-grown coffee"
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - 
-    heading: "Single origin"
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - 
-    heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - 
-    heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - 
-    heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+  heading: हमारे आदर्श
+  text: कॉफी मानव संस्कृति का एक अद्भुत हिस्सा है, लेकिन इसका एक स्याह पक्ष भी है - उपनिवेशवाद और प्राकृतिक संसाधनों और मानव जीवन के नासमझी के दुरुपयोग में से एक। हम इसे फिर से चालू करना चाहते हैं और कॉफी व्यापार को पेय के उत्साहजनक, सशक्त और एकीकृत प्रकृति में वापस करना चाहते हैं।
 ---
 
