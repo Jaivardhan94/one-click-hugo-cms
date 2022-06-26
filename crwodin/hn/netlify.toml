@@ -1,6 +1,6 @@
 [build]
-command = "yarn build"
-publish = "dist"
+command = "यार्न निर्माण"
+publish = "जिले"
 
   [build.environment]
   YARN_VERSION = "1.12.1"
@@ -8,4 +8,4 @@ publish = "dist"
   HUGO_VERSION = "0.55.6"
 
 [context.deploy-preview]
-command = "yarn build:preview"
+command = "यार्न निर्माण: पूर्वावलोकन"
