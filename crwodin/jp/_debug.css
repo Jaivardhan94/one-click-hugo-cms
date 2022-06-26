@@ -1,118 +1,118 @@
-body {        outline: 1px solid  #2980B9!important; }
-article {     outline: 1px solid  #3498DB!important; }
-nav {         outline: 1px solid  #0088C3!important; }
-aside {       outline: 1px solid  #33A0CE!important; }
-section {     outline: 1px solid  #66B8DA!important; }
-header {      outline: 1px solid  #99CFE7!important; }
-footer {      outline: 1px solid  #CCE7F3!important; }
-h1 {          outline: 1px solid  #162544!important; }
-h2 {          outline: 1px solid  #314E6E!important; }
-h3 {          outline: 1px solid  #3E5E85!important; }
-h4 {          outline: 1px solid  #449BAF!important; }
-h5 {          outline: 1px solid  #C7D1CB!important; }
-h6 {          outline: 1px solid  #4371D0!important; }
-main {        outline: 1px solid  #2F4F90!important; }
-address {     outline: 1px solid  #1A2C51!important; }
-div {         outline: 1px solid  #036CDB!important; }
+body {アウトライン：1px solid＃2980B9！important; }
+記事{アウトライン：1px solid＃3498DB！important; }
+nav {アウトライン：1px solid＃0088C3！important; }
+脇に{アウトライン：1pxソリッド＃33A0CE！重要; }
+セクション{アウトライン：1pxソリッド＃66B8DA！important; }
+ヘッダー{アウトライン：1pxソリッド＃99CFE7！important; }
+フッター{アウトライン：1pxソリッド＃CCE7F3！important; }
+h1 {アウトライン：1pxソリッド＃162544！重要; }
+h2 {アウトライン：1pxソリッド＃314E6E！important; }
+h3 {アウトライン：1pxソリッド＃3E5E85！重要; }
+h4 {アウトライン：1pxソリッド＃449BAF！important; }
+h5 {アウトライン：1pxソリッド＃C7D1CB！important; }
+h6 {アウトライン：1pxソリッド＃4371D0！重要; }
+main {アウトライン：1px solid＃2F4F90！important; }
+アドレス{アウトライン：1px solid＃1A2C51！important; }
+div {アウトライン：1px solid＃036CDB！important; }
 
 
-p {           outline: 1px solid  #AC050B!important; }
-hr {          outline: 1px solid  #FF063F!important; }
-pre {         outline: 1px solid  #850440!important; }
-blockquote {  outline: 1px solid  #F1B8E7!important; }
-ol {          outline: 1px solid  #FF050C!important; }
-ul {          outline: 1px solid  #D90416!important; }
-li {          outline: 1px solid  #D90416!important; }
-dl {          outline: 1px solid  #FD3427!important; }
-dt {          outline: 1px solid  #FF0043!important; }
-dd {          outline: 1px solid  #E80174!important; }
-figure {      outline: 1px solid  #FF00BB!important; }
-figcaption {  outline: 1px solid  #BF0032!important; }
-
-
-
-table {       outline: 1px solid  #00CC99!important; }
-caption {     outline: 1px solid  #37FFC4!important; }
-thead {       outline: 1px solid  #98DACA!important; }
-tbody {       outline: 1px solid  #64A7A0!important; }
-tfoot {       outline: 1px solid  #22746B!important; }
-tr {          outline: 1px solid  #86C0B2!important; }
-th {          outline: 1px solid  #A1E7D6!important; }
-td {          outline: 1px solid  #3F5A54!important; }
-col {         outline: 1px solid  #6C9A8F!important; }
-colgroup {    outline: 1px solid  #6C9A9D!important; }
-
-
-button {      outline: 1px solid  #DA8301!important; }
-datalist {    outline: 1px solid  #C06000!important; }
-fieldset {    outline: 1px solid  #D95100!important; }
-form {        outline: 1px solid  #D23600!important; }
-input {       outline: 1px solid  #FCA600!important; }
-keygen {      outline: 1px solid  #B31E00!important; }
-label {       outline: 1px solid  #EE8900!important; }
-legend {      outline: 1px solid  #DE6D00!important; }
-meter {       outline: 1px solid  #E8630C!important; }
-optgroup {    outline: 1px solid  #B33600!important; }
-option {      outline: 1px solid  #FF8A00!important; }
-output {      outline: 1px solid  #FF9619!important; }
-progress {    outline: 1px solid  #E57C00!important; }
-select {      outline: 1px solid  #E26E0F!important; }
-textarea {    outline: 1px solid  #CC5400!important; }
+p {アウトライン：1pxソリッド＃AC050B！important; }
+hr {アウトライン：1px solid＃FF063F！important; }
+pre {アウトライン：1pxソリッド＃850440！重要; }
+blockquote {アウトライン：1px solid＃F1B8E7！important; }
+ol {アウトライン：1px solid＃FF050C！important; }
+ul {アウトライン：1pxソリッド＃D90416！重要; }
+li {アウトライン：1pxソリッド＃D90416！重要; }
+dl {アウトライン：1pxソリッド＃FD3427！重要; }
+dt {アウトライン：1pxソリッド＃FF0043！重要; }
+dd {アウトライン：1pxソリッド＃E80174！重要; }
+図{アウトライン：1pxソリッド＃FF00BB！important; }
+figcaption {アウトライン：1pxソリッド＃BF0032！important; }
 
 
 
-details {     outline: 1px solid  #33848F!important; }
-summary {     outline: 1px solid  #60A1A6!important; }
-command {     outline: 1px solid  #438DA1!important; }
-menu {        outline: 1px solid  #449DA6!important; }
+表{アウトライン：1pxソリッド＃00CC99！重要; }
+キャプション{アウトライン：1pxソリッド＃37FFC4！important; }
+thead {アウトライン：1px solid＃98DACA！important; }
+tbody {アウトライン：1px solid＃64A7A0！important; }
+tfoot {アウトライン：1px solid＃22746B！important; }
+tr {アウトライン：1px solid＃86C0B2！important; }
+th {アウトライン：1pxソリッド＃A1E7D6！important; }
+td {アウトライン：1px solid＃3F5A54！important; }
+col {アウトライン：1px solid＃6C9A8F！important; }
+colgroup {アウトライン：1px solid＃6C9A9D！important; }
+
+
+ボタン{アウトライン：1pxソリッド＃DA8301！重要; }
+datalist {アウトライン：1px solid＃C06000！important; }
+フィールドセット{アウトライン：1pxソリッド＃D95100！重要; }
+フォーム{アウトライン：1pxソリッド＃D23600！important; }
+input {アウトライン：1px solid＃FCA600！important; }
+keygen {アウトライン：1px solid＃B31E00！important; }
+ラベル{アウトライン：1pxソリッド＃EE8900！important; }
+凡例{アウトライン：1pxソリッド＃DE6D00！important; }
+メーター{アウトライン：1pxソリッド＃E8630C！important; }
+optgroup {アウトライン：1px solid＃B33600！important; }
+オプション{アウトライン：1pxソリッド＃FF8A00！important; }
+出力{アウトライン：1pxソリッド＃FF9619！重要; }
+進捗状況{アウトライン：1pxソリッド＃E57C00！重要; }
+select {outline：1px solid＃E26E0F！important; }
+textarea {アウトライン：1px solid＃CC5400！important; }
 
 
 
-del {         outline: 1px solid  #BF0000!important; }
-ins {         outline: 1px solid  #400000!important; }
+詳細{アウトライン：1pxソリッド＃33848F！important; }
+要約{アウトライン：1px solid＃60A1A6！important; }
+コマンド{アウトライン：1px solid＃438DA1！important; }
+メニュー{アウトライン：1pxソリッド＃449DA6！important; }
 
 
 
-img     {     outline: 1px solid #22746B!important; }
-iframe  {     outline: 1px solid #64A7A0!important; }
-embed   {     outline: 1px solid #98DACA!important; }
-object  {     outline: 1px solid #00CC99!important; }
-param   {     outline: 1px solid #37FFC4!important; }
-video   {     outline: 1px solid #6EE866!important; }
-audio   {     outline: 1px solid #027353!important; }
-source  {     outline: 1px solid #012426!important; }
-canvas  {     outline: 1px solid #A2F570!important; }
-track   {     outline: 1px solid #59A600!important; }
-map     {     outline: 1px solid #7BE500!important; }
-area    {     outline: 1px solid #305900!important; }
+del {アウトライン：1px solid＃BF0000！important; }
+ins {アウトライン：1px solid＃400000！important; }
 
 
 
-a {           outline: 1px solid #FF62AB!important; }
-em {          outline: 1px solid #800B41!important; }
-strong {      outline: 1px solid #FF1583!important; }
-i {           outline: 1px solid #803156!important; }
-b {           outline: 1px solid #CC1169!important; }
-u {           outline: 1px solid #FF0430!important; }
-s {           outline: 1px solid #F805E3!important; }
-small {       outline: 1px solid #D107B2!important; }
-abbr {        outline: 1px solid #4A0263!important; }
-q {           outline: 1px solid #240018!important; }
-cite {        outline: 1px solid #64003C!important; }
-dfn {         outline: 1px solid #B4005A!important; }
-sub {         outline: 1px solid #DBA0C8!important; }
-sup {         outline: 1px solid #CC0256!important; }
-time {        outline: 1px solid #D6606D!important; }
-code {        outline: 1px solid #E04251!important; }
-kbd {         outline: 1px solid #5E001F!important; }
-samp {        outline: 1px solid #9C0033!important; }
-var {         outline: 1px solid #D90047!important; }
-mark {        outline: 1px solid #FF0053!important; }
-bdi {         outline: 1px solid #BF3668!important; }
-bdo {         outline: 1px solid #6F1400!important; }
-ruby {        outline: 1px solid #FF7B93!important; }
-rt {          outline: 1px solid #FF2F54!important; }
-rp {          outline: 1px solid #803E49!important; }
-span {        outline: 1px solid #CC2643!important; }
-br {          outline: 1px solid #DB687D!important; }
-wbr {         outline: 1px solid #DB175B!important; }
+img {アウトライン：1pxソリッド＃22746B！重要; }
+iframe {アウトライン：1px solid＃64A7A0！important; }
+埋め込み{アウトライン：1pxソリッド＃98DACA！important; }
+オブジェクト{アウトライン：1px solid＃00CC99！important; }
+param {アウトライン：1px solid＃37FFC4！important; }
+ビデオ{アウトライン：1pxソリッド＃6EE866！重要; }
+オーディオ{アウトライン：1pxソリッド＃027353！重要; }
+ソース{アウトライン：1pxソリッド＃012426！重要; }
+キャンバス{アウトライン：1pxソリッド＃A2F570！important; }
+トラック{アウトライン：1pxソリッド＃59A600！重要; }
+マップ{アウトライン：1pxソリッド＃7BE500！important; }
+エリア{アウトライン：1pxソリッド＃305900！重要; }
+
+
+
+a {アウトライン：1px solid＃FF62AB！important; }
+em {アウトライン：1pxソリッド＃800B41！重要; }
+強い{アウトライン：1pxソリッド＃FF1583！重要; }
+i {アウトライン：1px solid＃803156！important; }
+b {アウトライン：1px solid＃CC1169！important; }
+u {アウトライン：1pxソリッド＃FF0430！重要; }
+s {アウトライン：1pxソリッド＃F805E3！重要; }
+小さい{アウトライン：1px実線＃D107B2！重要; }
+abbr {アウトライン：1px solid＃4A0263！important; }
+q {アウトライン：1pxソリッド＃240018！重要; }
+引用{アウトライン：1px solid＃64003C！important; }
+dfn {アウトライン：1px solid＃B4005A！important; }
+sub {アウトライン：1px solid＃DBA0C8！important; }
+sup {アウトライン：1px solid＃CC0256！important; }
+時間{アウトライン：1pxソリッド＃D6606D！important; }
+コード{アウトライン：1px solid＃E04251！important; }
+kbd {アウトライン：1px solid＃5E001F！important; }
+samp {アウトライン：1px solid＃9C0033！important; }
+var {アウトライン：1px solid＃D90047！important; }
+マーク{アウトライン：1pxソリッド＃FF0053！重要; }
+bdi {アウトライン：1px solid＃BF3668！important; }
+bdo {アウトライン：1px solid＃6F1400！important; }
+ルビー{アウトライン：1pxソリッド＃FF7B93！重要; }
+rt {アウトライン：1px solid＃FF2F54！important; }
+rp {アウトライン：1pxソリッド＃803E49！重要; }
+スパン{アウトライン：1pxソリッド＃CC2643！important; }
+br {アウトライン：1px solid＃DB687D！important; }
+wbr {アウトライン：1px solid＃DB175B！important; }
