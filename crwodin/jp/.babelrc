@@ -1,10 +1,10 @@
-{
-  "presets": [
-    "@babel/preset-env",
-    "@babel/preset-react"
-  ],
-  "plugins": [
-    "@babel/plugin-syntax-object-rest-spread",
-    "@babel/plugin-proposal-object-rest-spread"
+{{
+  「プリセット」：[
+    "@ babel / prefix-env"、
+    「@babel/preset-react」
+  ]、
+  「プラグイン」：[
+    "@ babel / plugin-syntax-object-rest-spread"、
+    "@ babel / plugin-proposal-object-rest-spread"
   ]
 }
