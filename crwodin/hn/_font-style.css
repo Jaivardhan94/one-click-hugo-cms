@@ -1,17 +1,17 @@
-.i         { font-style: italic; }
-.fs-normal { font-style: normal; }
+.i {फ़ॉन्ट-शैली: इटैलिक; }
+.fs-सामान्य {फ़ॉन्ट-शैली: सामान्य; }
 
-@media (--breakpoint-not-small) {
-  .i-ns       { font-style: italic; }
-  .fs-normal-ns     { font-style: normal; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .i-ns {फ़ॉन्ट-शैली: इटैलिक; }
+  .fs-सामान्य-एनएस {फ़ॉन्ट-शैली: सामान्य; }
 }
 
-@media (--breakpoint-medium) {
-  .i-m       { font-style: italic; }
-  .fs-normal-m     { font-style: normal; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .im {फ़ॉन्ट-शैली: इटैलिक; }
+  .fs-सामान्य-एम {फ़ॉन्ट-शैली: सामान्य; }
 }
 
-@media (--breakpoint-large) {
-  .i-l       { font-style: italic; }
-  .fs-normal-l     { font-style: normal; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .il {फ़ॉन्ट-शैली: इटैलिक; }
+  .fs-सामान्य-एल {फ़ॉन्ट-शैली: सामान्य; }
 }
