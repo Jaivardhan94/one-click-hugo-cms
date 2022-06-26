@@ -1,10 +1,10 @@
 {
-  "presets": [
-    "@babel/preset-env",
-    "@babel/preset-react"
+  "प्रीसेट": [
+    "@ बेबेल/प्रीसेट-एनवी",
+    "@ बेबेल/पूर्व निर्धारित-प्रतिक्रिया"
   ],
-  "plugins": [
-    "@babel/plugin-syntax-object-rest-spread",
-    "@babel/plugin-proposal-object-rest-spread"
+  "प्लगइन्स": [
+    "@ बेबेल/प्लगइन-सिंटैक्स-ऑब्जेक्ट-रेस्ट-स्प्रेड",
+    "@ बेबेल/प्लगइन-प्रस्ताव-वस्तु-आराम-प्रसार"
   ]
 }
