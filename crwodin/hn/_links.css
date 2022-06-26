@@ -1,21 +1,21 @@
-.link {
-  text-decoration: none;
-  transition: var(--hover-transition);
-  color: inherit;
+।संपर्क {
+  पाठ-सजावट: कोई नहीं;
+  संक्रमण: var (--होवर-संक्रमण);
+  रंग: विरासत;
 }
 
-.link:link,
-.link:visited {
-  transition: color .15s ease-in;
+लिंक: लिंक,
+लिंक: दौरा किया {
+  संक्रमण: रंग .15s आसानी से;
 }
-.link:hover   {
-  transition: color .15s ease-in;
-  text-decoration: underline;
+।लिंक मंडराना {
+  संक्रमण: रंग .15s आसानी से;
+  पाठ-सजावट: रेखांकित;
 }
-.link:active  {
-  transition: color .15s ease-in;
+लिंक: सक्रिय {
+  संक्रमण: रंग .15s आसानी से;
 }
-.link:focus   {
-  transition: color .15s ease-in;
-  outline: 1px dotted currentColor;
+लिंक: फोकस {
+  संक्रमण: रंग .15s आसानी से;
+  रूपरेखा: 1px बिंदीदार वर्तमान रंग;
 }
