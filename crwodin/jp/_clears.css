@@ -1,30 +1,30 @@
-.cf:before,
-.cf:after { content: " "; display: table; }
-.cf:after { clear: both; }
-.cf {       *zoom: 1; }
+.cf：before、
+.cf：after {content： "";表示：テーブル; }
+.cf：after {クリア：両方; }
+.cf {*ズーム：1; }
 
-.cl { clear: left; }
-.cr { clear: right; }
-.cb { clear: both; }
-.cn { clear: none; }
+.cl {クリア：左; }
+.cr {クリア：右; }
+.cb {クリア：両方; }
+.cn {クリア：なし; }
 
-@media (--breakpoint-not-small) {
-  .cl-ns { clear: left; }
-  .cr-ns { clear: right; }
-  .cb-ns { clear: both; }
-  .cn-ns { clear: none; }
+@media（--breakpoint-not-small）{
+  .cl-ns {クリア：左; }
+  .cr-ns {クリア：右; }
+  .cb-ns {クリア：両方; }
+  .cn-ns {クリア：なし; }
 }
 
-@media (--breakpoint-medium) {
-  .cl-m { clear: left; }
-  .cr-m { clear: right; }
-  .cb-m { clear: both; }
-  .cn-m { clear: none; }
+@media（--breakpoint-medium）{
+  .cl-m {クリア：左; }
+  .cr-m {クリア：右; }
+  .cb-m {クリア：両方; }
+  .cn-m {クリア：なし; }
 }
 
-@media (--breakpoint-large) {
-  .cl-l { clear: left; }
-  .cr-l { clear: right; }
-  .cb-l { clear: both; }
-  .cn-l { clear: none; }
+@media（--breakpoint-large）{
+  .cl-l {クリア：左; }
+  .cr-l {クリア：右; }
+  .cb-l {クリア：両方; }
+  .cn-l {クリア：なし; }
 }
