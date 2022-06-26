@@ -1,21 +1,21 @@
-.word-normal { word-break: normal; }
-.word-wrap { word-break: break-all; }
-.word-nowrap { word-break: keep-all; }
+.शब्द-सामान्य { शब्द-विराम: सामान्य; }
+.वर्ड-रैप { वर्ड-ब्रेक: ब्रेक-ऑल; }
+.word-nowrap { वर्ड-ब्रेक: कीप-ऑल; }
 
-@media (--breakpoint-not-small) {
-  .word-normal-ns { word-break: normal; }
-  .word-wrap-ns { word-break: break-all; }
-  .word-nowrap-ns { word-break: keep-all; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .शब्द-सामान्य-एनएस { शब्द-विराम: सामान्य; }
+  .वर्ड-रैप-एनएस { वर्ड-ब्रेक: ब्रेक-ऑल; }
+  .word-nowrap-ns { वर्ड-ब्रेक: कीप-ऑल; }
 }
 
-@media (--breakpoint-medium) {
-  .word-normal-m { word-break: normal; }
-  .word-wrap-m { word-break: break-all; }
-  .word-nowrap-m { word-break: keep-all; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .शब्द-सामान्य-एम { शब्द-विराम: सामान्य; }
+  .वर्ड-रैप-एम { वर्ड-ब्रेक: ब्रेक-ऑल; }
+  .word-nowrap-m { वर्ड-ब्रेक: कीप-ऑल; }
 }
 
-@media (--breakpoint-large) {
-  .word-normal-l { word-break: normal; }
-  .word-wrap-l { word-break: break-all; }
-  .word-nowrap-l { word-break: keep-all; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .शब्द-सामान्य-एल { शब्द-विराम: सामान्य; }
+  .वर्ड-रैप-एल { वर्ड-ब्रेक: ब्रेक-ऑल; }
+  .word-nowrap-l { वर्ड-ब्रेक: कीप-ऑल; }
 }
