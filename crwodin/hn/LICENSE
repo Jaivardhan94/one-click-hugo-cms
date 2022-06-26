@@ -1,22 +1,22 @@
-Copyright (c) 2016 Netlify <hello@netlify.com>
+कॉपीराइट (सी) 2016 नेटलिफाई <hello@netlify.com>
 
-MIT License
+एमआईटी लाइसेंस
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+एतद्द्वारा अनुमति प्राप्त करने वाले किसी भी व्यक्ति को नि:शुल्क अनुमति दी जाती है
+इस सॉफ़्टवेयर और संबद्ध दस्तावेज़ीकरण फ़ाइलों की एक प्रति (द
+"सॉफ़्टवेयर"), बिना किसी प्रतिबंध के सॉफ़्टवेयर से निपटने के लिए, जिसमें शामिल हैं
+बिना किसी सीमा के उपयोग, प्रतिलिपि बनाने, संशोधित करने, विलय करने, प्रकाशित करने के अधिकार,
+सॉफ़्टवेयर की प्रतियां वितरित, उपलाइसेंस, और/या बेचने, और करने के लिए
+उन व्यक्तियों को अनुमति दें जिनके लिए सॉफ़्टवेयर ऐसा करने के लिए प्रस्तुत किया गया है, के अधीन
+निम्नलिखित शर्तें:
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+उपरोक्त कॉपीराइट नोटिस और यह अनुमति नोटिस होगा
+सॉफ़्टवेयर की सभी प्रतियों या महत्वपूर्ण भागों में शामिल है।
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+सॉफ़्टवेयर किसी भी प्रकार की वारंटी के बिना "जैसा है" प्रदान किया जाता है,
+व्यक्त या निहित, जिसमें वारंटी शामिल है लेकिन इन्हीं तक सीमित नहीं है
+व्यापारिकता, किसी विशेष उद्देश्य के लिए उपयुक्तता और
+गैर उल्लंघन। किसी भी स्थिति में लेखक या कॉपीराइट धारक नहीं होंगे
+किसी भी कार्रवाई में किसी भी दावे, क्षति या अन्य दायित्व के लिए उत्तरदायी
+अनुबंध, अपकार या अन्यथा, से उत्पन्न, बाहर या संबंध में
+सॉफ़्टवेयर के साथ या सॉफ़्टवेयर में उपयोग या अन्य व्यवहार के साथ।
