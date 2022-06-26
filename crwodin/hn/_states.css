@@ -1,41 +1,41 @@
-/* Focus states */
-input:focus, textarea:focus, a:focus, button:focus {
-  box-shadow: inset 0 0 0 2px var(--primary);
-  outline: 0!important;
+/* फोकस स्टेट्स */
+इनपुट: फोकस, टेक्स्टरेरा: फोकस, ए: फोकस, बटन: फोकस {
+  बॉक्स-छाया: इनसेट 0 0 0 2px var(--primary);
+  रूपरेखा: 0! महत्वपूर्ण;
 }
 
-.raise {
-  transition: var(--hover-transition);
-  transform: translateY(0) translateZ(0);
+।उठाना {
+  संक्रमण: var (--होवर-संक्रमण);
+  ट्रांसफॉर्म: ट्रांसलेट वाई (0) ट्रांसलेटजेड (0);
 }
 
-.raise:hover,
-.raise:focus {
-  transition: var(--hover-transition);
-  transform: translateY(-.12rem) translateZ(0);
+.raise: होवर,
+उठाएँ: फोकस {
+  संक्रमण: var (--होवर-संक्रमण);
+  ट्रांसफॉर्म: ट्रांसलेट वाई (-.12रेम) ट्रांसलेटजेड (0);
 }
 
-.raise:active {
-  transition: var(--hover-transition);
-  opacity: .5;
+उठाएँ: सक्रिय {
+  संक्रमण: var (--होवर-संक्रमण);
+  अस्पष्टता: .5;
 }
 
-.hide-child .child {
-  opacity: 0;
-  transition: opacity .15s ease-in;
+.छुपा-बच्चा .बच्चा {
+  अस्पष्टता: 0;
+  संक्रमण: अस्पष्टता .15s आसानी से;
 }
-.hide-child:hover  .child,
-.hide-child:focus  .child,
+.हाइड-चाइल्ड: होवर .चाइल्ड,
+.हाइड-चाइल्ड: फोकस .चाइल्ड,
 .hide-child:active .child {
-  opacity: 1;
-  transition: opacity .15s ease-in;
+  अस्पष्टता: 1;
+  संक्रमण: अस्पष्टता .15s आसानी से;
 }
 
-.underline-hover:hover,
-.underline-hover:focus {
-  text-decoration: underline;
+अंडरलाइन-होवर: होवर,
+अंडरलाइन-होवर: फोकस {
+  पाठ-सजावट: रेखांकित;
 }
 
-.pointer:hover {
-  cursor: pointer;
+सूचक: होवर {
+  कर्सर: सूचक;
 }
