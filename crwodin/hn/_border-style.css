@@ -1,25 +1,25 @@
-.b--dotted { border-style: dotted; }
-.b--dashed { border-style: dashed; }
-.b--solid {  border-style: solid; }
-.b--none {   border-style: none; }
+.b--बिंदीदार { सीमा-शैली: बिंदीदार; }
+.b--डैश्ड {बॉर्डर-स्टाइल: डैश्ड; }
+.b--सॉलिड { बॉर्डर-स्टाइल: सॉलिड; }
+.b--कोई नहीं { सीमा-शैली: कोई नहीं; }
 
-@media (--breakpoint-not-small) {
-  .b--dotted-ns { border-style: dotted; }
-  .b--dashed-ns { border-style: dashed; }
-  .b--solid-ns {  border-style: solid; }
-  .b--none-ns {   border-style: none; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .b--dotted-ns { सीमा-शैली: बिंदीदार; }
+  .b--dashed-ns { सीमा-शैली: धराशायी; }
+  .b--सॉलिड-एनएस { बॉर्डर-स्टाइल: सॉलिड; }
+  .b--none-ns { सीमा-शैली: कोई नहीं; }
 }
 
-@media (--breakpoint-medium) {
-  .b--dotted-m { border-style: dotted; }
-  .b--dashed-m { border-style: dashed; }
-  .b--solid-m {  border-style: solid; }
-  .b--none-m {   border-style: none; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .b--बिंदीदार-एम { सीमा-शैली: बिंदीदार; }
+  .बी--धराशायी-एम {सीमा-शैली: धराशायी; }
+  .b--सॉलिड-एम { बॉर्डर-स्टाइल: सॉलिड; }
+  .b--none-m { सीमा-शैली: कोई नहीं; }
 }
 
-@media (--breakpoint-large) {
-  .b--dotted-l { border-style: dotted; }
-  .b--dashed-l { border-style: dashed; }
-  .b--solid-l {  border-style: solid; }
-  .b--none-l {   border-style: none; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .b--dotted-l { सीमा-शैली: बिंदीदार; }
+  .b--dashed-l { सीमा-शैली: धराशायी; }
+  .b--सॉलिड-एल { बॉर्डर-स्टाइल: सॉलिड; }
+  .b--none-l { सीमा-शैली: कोई नहीं; }
 }
