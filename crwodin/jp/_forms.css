@@ -1,76 +1,76 @@
-fieldset
-{
-  position: relative;
+フィールドセット
+{{
+  位置：相対;
 }
 
 .input-reset {
-  -webkit-appearance: none;
-  -moz-appearance: none;
+  -webkit-外観：なし;
+  -moz-外観：なし;
 }
 
-.button-reset::-moz-focus-inner,
-.input-reset::-moz-focus-inner {
-  border: 0;
-  padding: 0;
+.button-reset ::-moz-focus-inner、
+.input-reset ::-moz-focus-inner {
+  ボーダー：0;
+  パディング：0;
 }
 
-input, textarea {
-  background-color: var(--grey-2);
-  border-radius: var(--border-radius);
-  padding: 12px 16px 10px;
-  font-size: var(--spacing-medium);
-  line-height: 1.25;
-  position: relative;
-  transition: var(--hover-transition);
-  z-index: 2;
-  &:focus {
-    background-color: var(--white);
+input、textarea {
+  背景色：var（-grey-2）;
+  border-radius：var（-border-radius）;
+  パディング：12px 16px 10px;
+  font-size：var（-spacing-medium）;
+  行の高さ：1.25;
+  位置：相対;
+  遷移：var（-hover-transition）;
+  z-index：2;
+  ＆：集中 {
+    背景色：var（-white）;
   }
-  &:focus + label {
-    opacity: 1;
-    pointer-events: auto;
-    transform: translateY(-120%);
+  ＆：フォーカス+ラベル{
+    不透明度：1;
+    ポインタイベント：自動;
+    変換：translateY（-120％）;
   }
 }
 
 ::-webkit-input-placeholder {
-   color: var(--black);
-   font-size: var(--spacing-medium);
-   line-height: normal;
+   色：var（-黒）;
+   font-size：var（-spacing-medium）;
+   行の高さ：通常;
 }
 
-:-moz-placeholder {
-   color: var(--black);
-   font-size: var(--spacing-medium);
-   line-height: normal;
+：-moz-placeholder {
+   色：var（-黒）;
+   font-size：var（-spacing-medium）;
+   行の高さ：通常;
 }
 
 ::-moz-placeholder {
-   color: var(--black);
-   font-size: var(--spacing-medium);
-   line-height: normal;
+   色：var（-黒）;
+   font-size：var（-spacing-medium）;
+   行の高さ：通常;
 }
 
-:-ms-input-placeholder {
-   color: var(--black);
-   font-size: var(--spacing-medium);
-   line-height: normal;
+：-ms-input-placeholder {
+   色：var（-黒）;
+   font-size：var（-spacing-medium）;
+   行の高さ：通常;
 }
 
-label
-{
-  font-size: .875rem;
-  font-weight: 800;
-  color: var(--white);
-  background-color: var(--primary);
-  border-radius: var(--border-radius);
-  padding: var(--spacing-extra-small) var(--spacing-small);
-  position: absolute;
-  left: 0;
-  top: 0;
-  pointer-events: none;
-  opacity: 0;
-  line-height: 1;
-  transition: var(--hover-transition);
-  z-index: 2;
+ラベル
+{{
+  フォントサイズ：.875rem;
+  フォントの太さ：800;
+  色：var（-white）;
+  背景色：var（-primary）;
+  border-radius：var（-border-radius）;
+  パディング：var（-spacing-extra-small）var（-spacing-small）;
+  位置：絶対;
+  左：0;
+  上：0;
+  ポインタイベント：なし;
+  不透明度：0;
+  行の高さ：1;
+  遷移：var（-hover-transition）;
+  z-index：2;
 }
