@@ -1,10 +1,10 @@
 env:
   browser: true
-parser: babel-eslint
+parser: बेबेल-एस्लिंट
 parserOptions:
   ecmaVersion: 6
 plugins:
-  - "import"
+  - "आयात"
 rules:
   #Possible Errors
   #https://github.com/eslint/eslint/tree/master/docs/rules#possible-errors
@@ -33,8 +33,8 @@ rules:
   comma-spacing: 2
   eol-last: 2
   eqeqeq:
-    - "error"
-    - "smart"
+    - "गलती"
+    - "होशियार"
   indent:
     - 2
     - 2
@@ -54,28 +54,28 @@ rules:
   no-trailing-spaces: 2
   object-curly-spacing:
     - 2
-    - "never"
+    - "कभी नहीँ"
   quotes:
     - 2
-    - "double"
-    - "avoid-escape"
+    - "दोहरा"
+    - "बचना-बचाना"
   semi: 2
   space-before-blocks:
     - 2
-    - "always"
+    - "हमेशा"
   space-before-function-paren:
     - 2
-    - "never"
+    - "कभी नहीँ"
   space-in-parens:
     - 2
-    - "never"
+    - "कभी नहीँ"
   space-infix-ops: 2
   space-unary-ops: 2
   #ECMAScript 6
   #http://eslint.org/docs/rules/#ecmascript-6
   arrow-parens:
     - 2
-    - "always"
+    - "हमेशा"
   arrow-spacing:
     - 2
     - 
@@ -86,7 +86,7 @@ rules:
   #JSX
   jsx-quotes:
     - 2
-    - "prefer-double"
+    - "पसंद-दोहरा"
   #Import
   import/no-unresolved:
     - 1
@@ -98,14 +98,14 @@ rules:
   #https://github.com/eslint/eslint/tree/master/docs/rules#strict-mode
   strict:
     - 2
-    - "global"
+    - "वैश्विक"
   #Variables
   #https://github.com/eslint/eslint/tree/master/docs/rules#variables
   no-undef: 2
   no-unused-vars:
     - 2
     - 
-      - "args\": \"none"
+      - "args\": \"कोई नहीं"
 #Global scoped method and vars
 globals:
   __dirname: true
