@@ -1,21 +1,21 @@
-.lh-solid { line-height: 1; }
-.lh-title { line-height: 1.25; }
-.lh-copy  { line-height: 1.5; }
+.lh-実線{線の高さ：1; }
+.lh-title {行の高さ：1.25; }
+.lh-copy {line-height：1.5; }
 
-@media (--breakpoint-not-small) {
-  .lh-solid-ns { line-height: 1; }
-  .lh-title-ns { line-height: 1.25; }
-  .lh-copy-ns  { line-height: 1.5; }
+@media（--breakpoint-not-small）{
+  .lh-solid-ns {line-height：1; }
+  .lh-title-ns {行の高さ：1.25; }
+  .lh-copy-ns {行の高さ：1.5; }
 }
 
-@media (--breakpoint-medium) {
-  .lh-solid-m { line-height: 1; }
-  .lh-title-m { line-height: 1.25; }
-  .lh-copy-m  { line-height: 1.5; }
+@media（--breakpoint-medium）{
+  .lh-solid-m {line-height：1; }
+  .lh-title-m {行の高さ：1.25; }
+  .lh-copy-m {行の高さ：1.5; }
 }
 
-@media (--breakpoint-large) {
-  .lh-solid-l { line-height: 1; }
-  .lh-title-l { line-height: 1.25; }
-  .lh-copy-l  { line-height: 1.5; }
+@media（--breakpoint-large）{
+  .lh-solid-l {line-height：1; }
+  .lh-title-l {行の高さ：1.25; }
+  .lh-copy-l {行の高さ：1.5; }
 }
