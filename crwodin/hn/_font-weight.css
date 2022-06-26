@@ -1,54 +1,54 @@
-.normal { font-weight: normal; }
-.b      { font-weight: var(--bold-font-weight); }
-.fw1    { font-weight: 100; }
-.fw2    { font-weight: 200; }
-.fw3    { font-weight: 300; }
-.fw4    { font-weight: 400; }
-.fw5    { font-weight: 500; }
-.fw6    { font-weight: 600; }
-.fw7    { font-weight: 700; }
-.fw8    { font-weight: 800; }
-.fw9    { font-weight: 900; }
+सामान्य {फ़ॉन्ट-वजन: सामान्य; }
+.b {फ़ॉन्ट-वेट: var (--बोल्ड-फ़ॉन्ट-वेट); }
+.fw1 {फ़ॉन्ट-वेट: 100; }
+.fw2 {फ़ॉन्ट-वेट: 200; }
+.fw3 {फ़ॉन्ट-वेट: 300; }
+.fw4 {फ़ॉन्ट-वेट: 400; }
+.fw5 {फ़ॉन्ट-वेट: 500; }
+.fw6 {फ़ॉन्ट-वेट: 600; }
+.fw7 {फ़ॉन्ट-वेट: 700; }
+.fw8 {फ़ॉन्ट-वेट: 800; }
+.fw9 {फ़ॉन्ट-वेट: 900; }
 
 
-@media (--breakpoint-not-small) {
-  .normal-ns { font-weight: normal; }
-  .b-ns      { font-weight: var(--bold-font-weight); }
-  .fw1-ns    { font-weight: 100; }
-  .fw2-ns    { font-weight: 200; }
-  .fw3-ns    { font-weight: 300; }
-  .fw4-ns    { font-weight: 400; }
-  .fw5-ns    { font-weight: 500; }
-  .fw6-ns    { font-weight: 600; }
-  .fw7-ns    { font-weight: 700; }
-  .fw8-ns    { font-weight: 800; }
-  .fw9-ns    { font-weight: 900; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .सामान्य-एनएस {फ़ॉन्ट-वजन: सामान्य; }
+  .b-ns {फ़ॉन्ट-वेट: var(--bold-font-weight); }
+  .fw1-ns {फ़ॉन्ट-वेट: 100; }
+  .fw2-ns {फ़ॉन्ट-वेट: 200; }
+  .fw3-ns {फ़ॉन्ट-वेट: 300; }
+  .fw4-ns {फ़ॉन्ट-वेट: 400; }
+  .fw5-ns {फ़ॉन्ट-वेट: 500; }
+  .fw6-ns {फ़ॉन्ट-वेट: 600; }
+  .fw7-ns {फ़ॉन्ट-वेट: 700; }
+  .fw8-ns {फ़ॉन्ट-वेट: 800; }
+  .fw9-ns {फ़ॉन्ट-वेट: 900; }
 }
 
-@media (--breakpoint-medium) {
-  .normal-m { font-weight: normal; }
-  .b-m      { font-weight: var(--bold-font-weight); }
-  .fw1-m    { font-weight: 100; }
-  .fw2-m    { font-weight: 200; }
-  .fw3-m    { font-weight: 300; }
-  .fw4-m    { font-weight: 400; }
-  .fw5-m    { font-weight: 500; }
-  .fw6-m    { font-weight: 600; }
-  .fw7-m    { font-weight: 700; }
-  .fw8-m    { font-weight: 800; }
-  .fw9-m    { font-weight: 900; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .सामान्य-एम {फ़ॉन्ट-वजन: सामान्य; }
+  .bm {फ़ॉन्ट-वेट: var (--बोल्ड-फ़ॉन्ट-वेट); }
+  .fw1-m {फ़ॉन्ट-वेट: 100; }
+  .fw2-m {फ़ॉन्ट-वेट: 200; }
+  .fw3-m {फ़ॉन्ट-वेट: 300; }
+  .fw4-m {फ़ॉन्ट-वेट: 400; }
+  .fw5-m {फ़ॉन्ट-वेट: 500; }
+  .fw6-m {फ़ॉन्ट-वेट: 600; }
+  .fw7-m {फ़ॉन्ट-वेट: 700; }
+  .fw8-m {फ़ॉन्ट-वेट: 800; }
+  .fw9-m {फ़ॉन्ट-वेट: 900; }
 }
 
-@media (--breakpoint-large) {
-  .normal-l { font-weight: normal; }
-  .b-l      { font-weight: var(--bold-font-weight); }
-  .fw1-l    { font-weight: 100; }
-  .fw2-l    { font-weight: 200; }
-  .fw3-l    { font-weight: 300; }
-  .fw4-l    { font-weight: 400; }
-  .fw5-l    { font-weight: 500; }
-  .fw6-l    { font-weight: 600; }
-  .fw7-l    { font-weight: 700; }
-  .fw8-l    { font-weight: 800; }
-  .fw9-l    { font-weight: 900; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .सामान्य-एल {फ़ॉन्ट-वजन: सामान्य; }
+  .bl {फ़ॉन्ट-वेट: var (--बोल्ड-फ़ॉन्ट-वेट); }
+  .fw1-l {फ़ॉन्ट-वेट: 100; }
+  .fw2-l {फ़ॉन्ट-वेट: 200; }
+  .fw3-l {फ़ॉन्ट-वेट: 300; }
+  .fw4-l {फ़ॉन्ट-वेट: 400; }
+  .fw5-l {फ़ॉन्ट-वेट: 500; }
+  .fw6-l {फ़ॉन्ट-वेट: 600; }
+  .fw7-l {फ़ॉन्ट-वेट: 700; }
+  .fw8-l {फ़ॉन्ट-वेट: 800; }
+  .fw9-l {फ़ॉन्ट-वेट: 900; }
 }
