@@ -1,8 +1,8 @@
-pre {
-  overflow-x: auto;
-  overflow-y: hidden;
-  overflow: scroll;
-  margin-bottom: var(--spacing-medium);
-  background-color: var(--grey-1);
-  padding: var(--spacing-small);
+पूर्व {
+  अतिप्रवाह-एक्स: ऑटो;
+  अतिप्रवाह-वाई: छिपा हुआ;
+  अतिप्रवाह: स्क्रॉल;
+  मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम);
+  पृष्ठभूमि-रंग: var (--ग्रे -1);
+  पैडिंग: var (--स्पेसिंग-छोटा);
 }
