@@ -1,51 +1,51 @@
-.bw0 { border-width: 0; }
-.bw1 { border-width: .125rem; }
-.bw2 { border-width: var(--spacing-extra-small); }
-.bw3 { border-width: var(--spacing-small); }
-.bw4 { border-width: var(--spacing-medium); }
-.bw5 { border-width: 2rem; }
+.bw0 { सीमा-चौड़ाई: 0; }
+.bw1 { सीमा-चौड़ाई: .125rem; }
+.bw2 {बॉर्डर-चौड़ाई: var(--spacing-extra-small); }
+.bw3 {बॉर्डर-चौड़ाई: var(--spacing-small); }
+.bw4 {बॉर्डर-चौड़ाई: var(--spacing-medium); }
+.bw5 {सीमा-चौड़ाई: 2rem; }
 
-/* Resets */
-.bt-0 { border-top-width: 0; }
-.br-0 { border-right-width: 0; }
-.bb-0 { border-bottom-width: 0; }
-.bl-0 { border-left-width: 0; }
+/* रीसेट करता है */
+.bt-0 {बॉर्डर-टॉप-चौड़ाई: 0; }
+.br-0 { सीमा-दाएं-चौड़ाई: 0; }
+.bb-0 {सीमा-नीचे-चौड़ाई: 0; }
+.bl-0 {बॉर्डर-बाएं-चौड़ाई: 0; }
 
-@media (--breakpoint-not-small) {
-  .bw0-ns { border-width: 0; }
-  .bw1-ns { border-width: .125rem; }
-  .bw2-ns { border-width: var(--spacing-extra-small); }
-  .bw3-ns { border-width: var(--spacing-small); }
-  .bw4-ns { border-width: var(--spacing-medium); }
-  .bw5-ns { border-width: 2rem; }
-  .bt-0-ns { border-top-width: 0; }
-  .br-0-ns { border-right-width: 0; }
-  .bb-0-ns { border-bottom-width: 0; }
-  .bl-0-ns { border-left-width: 0; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .bw0-ns { सीमा-चौड़ाई: 0; }
+  .bw1-ns { सीमा-चौड़ाई: .125rem; }
+  .bw2-ns { सीमा-चौड़ाई: var (--spacing-अतिरिक्त-छोटा); }
+  .bw3-ns { सीमा-चौड़ाई: var (-- रिक्ति-छोटा); }
+  .bw4-ns {बॉर्डर-चौड़ाई: var(--spacing-medium); }
+  .bw5-ns { सीमा-चौड़ाई: 2rem; }
+  .bt-0-ns { सीमा-शीर्ष-चौड़ाई: 0; }
+  .br-0-ns { सीमा-दाएं-चौड़ाई: 0; }
+  .bb-0-ns { सीमा-नीचे-चौड़ाई: 0; }
+  .bl-0-ns { सीमा-बाएं-चौड़ाई: 0; }
 }
 
-@media (--breakpoint-medium) {
-  .bw0-m { border-width: 0; }
-  .bw1-m { border-width: .125rem; }
-  .bw2-m { border-width: var(--spacing-extra-small); }
-  .bw3-m { border-width: var(--spacing-small); }
-  .bw4-m { border-width: var(--spacing-medium); }
-  .bw5-m { border-width: 2rem; }
-  .bt-0-m { border-top-width: 0; }
-  .br-0-m { border-right-width: 0; }
-  .bb-0-m { border-bottom-width: 0; }
-  .bl-0-m { border-left-width: 0; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .bw0-m { सीमा-चौड़ाई: 0; }
+  .bw1-m { सीमा-चौड़ाई: .125rem; }
+  .bw2-m { सीमा-चौड़ाई: var (--spacing-अतिरिक्त-छोटा); }
+  .bw3-m { सीमा-चौड़ाई: var(--spacing-small); }
+  .bw4-m {बॉर्डर-चौड़ाई: var(--spacing-medium); }
+  .bw5-m { सीमा-चौड़ाई: 2rem; }
+  .bt-0-m { बॉर्डर-टॉप-चौड़ाई: 0; }
+  .br-0-m { सीमा-दाएं-चौड़ाई: 0; }
+  .bb-0-m { सीमा-नीचे-चौड़ाई: 0; }
+  .bl-0-m { सीमा-बाएं-चौड़ाई: 0; }
 }
 
-@media (--breakpoint-large) {
-  .bw0-l { border-width: 0; }
-  .bw1-l { border-width: .125rem; }
-  .bw2-l { border-width: var(--spacing-extra-small); }
-  .bw3-l { border-width: var(--spacing-small); }
-  .bw4-l { border-width: var(--spacing-medium); }
-  .bw5-l { border-width: 2rem; }
-  .bt-0-l { border-top-width: 0; }
-  .br-0-l { border-right-width: 0; }
-  .bb-0-l { border-bottom-width: 0; }
-  .bl-0-l { border-left-width: 0; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .bw0-l { सीमा-चौड़ाई: 0; }
+  .bw1-l { सीमा-चौड़ाई: .125rem; }
+  .bw2-l { सीमा-चौड़ाई: var (--spacing-अतिरिक्त-छोटा); }
+  .bw3-l {बॉर्डर-चौड़ाई: var(--spacing-small); }
+  .bw4-l {बॉर्डर-चौड़ाई: var(--spacing-medium); }
+  .bw5-l { सीमा-चौड़ाई: 2rem; }
+  .bt-0-l { बॉर्डर-टॉप-चौड़ाई: 0; }
+  .br-0-l { सीमा-दाएं-चौड़ाई: 0; }
+  .bb-0-l { सीमा-नीचे-चौड़ाई: 0; }
+  .bl-0-l { सीमा-बाएं-चौड़ाई: 0; }
 }
