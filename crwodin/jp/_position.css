@@ -1,25 +1,25 @@
-.static { position: static; }
-.relative  { position: relative; }
-.absolute  { position: absolute; }
-.fixed  { position: fixed; }
+.static {位置：静的; }
+.relative {位置：相対; }
+.absolute {位置：絶対; }
+.fixed {位置：固定; }
 
-@media (--breakpoint-not-small) {
-  .static-ns { position: static; }
-  .relative-ns  { position: relative; }
-  .absolute-ns  { position: absolute; }
-  .fixed-ns  { position: fixed; }
+@media（--breakpoint-not-small）{
+  .static-ns {位置：静的; }
+  .relative-ns {位置：相対; }
+  .absolute-ns {位置：絶対; }
+  .fixed-ns {位置：固定; }
 }
 
-@media (--breakpoint-medium) {
-  .static-m { position: static; }
-  .relative-m  { position: relative; }
-  .absolute-m  { position: absolute; }
-  .fixed-m  { position: fixed; }
+@media（--breakpoint-medium）{
+  .static-m {位置：静的; }
+  .relative-m {位置：相対; }
+  .absolute-m {位置：絶対; }
+  .fixed-m {位置：固定; }
 }
 
-@media (--breakpoint-large) {
-  .static-l { position: static; }
-  .relative-l  { position: relative; }
-  .absolute-l  { position: absolute; }
-  .fixed-l  { position: fixed; }
+@media（--breakpoint-large）{
+  .static-l {位置：静的; }
+  .relative-l {位置：相対; }
+  .absolute-l {位置：絶対; }
+  .fixed-l {位置：固定; }
 }
