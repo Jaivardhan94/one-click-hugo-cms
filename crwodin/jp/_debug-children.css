@@ -1,3 +1,3 @@
-.debug * { outline: 1px solid gold; }
-.debug-white * { outline: 1px solid white; }
-.debug-black * { outline: 1px solid black; }
+.debug * {アウトライン：1pxソリッドゴールド; }
+.debug-white * {アウトライン：1pxソリッドホワイト; }
+.debug-black * {アウトライン：1px黒一色; }
