@@ -1,76 +1,76 @@
-fieldset
+फ़ील्डसेट
 {
-  position: relative;
+  स्थिति: रिश्तेदार;
 }
 
-.input-reset {
-  -webkit-appearance: none;
-  -moz-appearance: none;
+इनपुट-रीसेट {
+  -वेबकिट-उपस्थिति: कोई नहीं;
+  -मोज़-उपस्थिति: कोई नहीं;
 }
 
-.button-reset::-moz-focus-inner,
-.input-reset::-moz-focus-inner {
-  border: 0;
-  padding: 0;
+.बटन-रीसेट::-मोज़-फोकस-इनर,
+.इनपुट-रीसेट::-मोज-फोकस-इनर {
+  सीमा: 0;
+  पैडिंग: 0;
 }
 
-input, textarea {
-  background-color: var(--grey-2);
-  border-radius: var(--border-radius);
-  padding: 12px 16px 10px;
-  font-size: var(--spacing-medium);
-  line-height: 1.25;
-  position: relative;
-  transition: var(--hover-transition);
-  z-index: 2;
-  &:focus {
-    background-color: var(--white);
+इनपुट, टेक्सटेरिया {
+  पृष्ठभूमि-रंग: वर(--ग्रे-2);
+  सीमा-त्रिज्या: var (--सीमा-त्रिज्या);
+  पैडिंग: 12px 16px 10px;
+  फ़ॉन्ट-आकार: var(--spacing-medium);
+  लाइन-ऊंचाई: 1.25;
+  स्थिति: रिश्तेदार;
+  संक्रमण: var (--होवर-संक्रमण);
+  जेड-इंडेक्स: 2;
+  &:केंद्र {
+    पृष्ठभूमि-रंग: वर (--सफेद);
   }
-  &:focus + label {
-    opacity: 1;
-    pointer-events: auto;
-    transform: translateY(-120%);
+  &:फोकस + लेबल {
+    अस्पष्टता: 1;
+    सूचक-घटनाएँ: ऑटो;
+    ट्रांसफॉर्म: ट्रांसलेट वाई (-120%);
   }
 }
 
-::-webkit-input-placeholder {
-   color: var(--black);
-   font-size: var(--spacing-medium);
-   line-height: normal;
+::-वेबकिट-इनपुट-प्लेसहोल्डर {
+   रंग: वर (--काला);
+   फ़ॉन्ट-आकार: var(--spacing-medium);
+   रेखा-ऊंचाई: सामान्य;
 }
 
-:-moz-placeholder {
-   color: var(--black);
-   font-size: var(--spacing-medium);
-   line-height: normal;
+:-मोज-प्लेसहोल्डर {
+   रंग: वर (--काला);
+   फ़ॉन्ट-आकार: var(--spacing-medium);
+   रेखा-ऊंचाई: सामान्य;
 }
 
-::-moz-placeholder {
-   color: var(--black);
-   font-size: var(--spacing-medium);
-   line-height: normal;
+::-मोज-प्लेसहोल्डर {
+   रंग: वर (--काला);
+   फ़ॉन्ट-आकार: var(--spacing-medium);
+   रेखा-ऊंचाई: सामान्य;
 }
 
-:-ms-input-placeholder {
-   color: var(--black);
-   font-size: var(--spacing-medium);
-   line-height: normal;
+:-ms-इनपुट-प्लेसहोल्डर {
+   रंग: वर (--काला);
+   फ़ॉन्ट-आकार: var(--spacing-medium);
+   रेखा-ऊंचाई: सामान्य;
 }
 
-label
+लेबल
 {
-  font-size: .875rem;
-  font-weight: 800;
-  color: var(--white);
-  background-color: var(--primary);
-  border-radius: var(--border-radius);
-  padding: var(--spacing-extra-small) var(--spacing-small);
-  position: absolute;
-  left: 0;
-  top: 0;
-  pointer-events: none;
-  opacity: 0;
-  line-height: 1;
-  transition: var(--hover-transition);
-  z-index: 2;
+  फ़ॉन्ट-आकार: .875rem;
+  फ़ॉन्ट-वजन: 800;
+  रंग: वर (--सफेद);
+  पृष्ठभूमि-रंग: var (--प्राथमिक);
+  सीमा-त्रिज्या: var (--सीमा-त्रिज्या);
+  पैडिंग: var(--spacing-extra-small) var(--spacing-small);
+  स्थिति: निरपेक्ष;
+  बाएं: 0;
+  शीर्ष: 0;
+  सूचक-घटनाएँ: कोई नहीं;
+  अस्पष्टता: 0;
+  लाइन-ऊंचाई: 1;
+  संक्रमण: var (--होवर-संक्रमण);
+  जेड-इंडेक्स: 2;
 }
