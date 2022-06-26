@@ -1,9 +1,9 @@
-const webpack = require('webpack');
-const path = require('path');
-const CopyWebpackPlugin = require('copy-webpack-plugin');
-const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const AssetsPlugin = require('assets-webpack-plugin');
-const HtmlWebpackPlugin = require('html-webpack-plugin');
+const webpack = require('वेबपैक');
+const path = require('रास्ता');
+const CopyWebpackPlugin = require('कॉपी-वेबपैक-प्लगइन');
+const MiniCssExtractPlugin = require('मिनी-सीएसएस-निकालें-प्लगइन');
+const AssetsPlugin = require('संपत्ति-वेबपैक-प्लगइन');
+const HtmlWebpackPlugin = require('एचटीएमएल-वेबपैक-प्लगइन');
 module.exports = {
   entry: {
     main: path.join(__dirname, 'src', 'index.js'),
@@ -14,10 +14,10 @@ module.exports = {
     rules: [
       {
         test: /\.((png)|(eot)|(woff)|(woff2)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
-        loader: 'file-loader?name=/[hash].[ext]'
+        loader: 'फ़ाइल लोडर?नाम=/[hash]।[ext]'
       },
       {
-        loader: 'babel-loader',
+        loader: 'बेबेल-लोडर',
         test: /\.js?$/,
         exclude: /node_modules/,
         query: { cacheDirectory: true }
@@ -26,11 +26,11 @@ module.exports = {
         test: /\.(sa|sc|c)ss$/,
         exclude: /node_modules/,
         use: [
-          'style-loader',
+          'स्टाइल लोडर',
           MiniCssExtractPlugin.loader,
-          'css-loader',
-          'postcss-loader',
-          'sass-loader'
+          'सीएसएस-लोडर',
+          'पोस्टसीएसएस-लोडर',
+          'सास-लोडर'
         ]
       }
     ]
