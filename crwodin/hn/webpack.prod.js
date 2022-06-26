@@ -1,13 +1,13 @@
-const merge = require('webpack-merge');
-const TerserPlugin = require('terser-webpack-plugin');
-const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
-const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const merge = require('वेबपैक-मर्ज');
+const TerserPlugin = require('टेरसर-वेबपैक-प्लगइन');
+const OptimizeCSSAssetsPlugin = require('अनुकूलन-सीएसएस-संपत्ति-वेबपैक-प्लगइन');
+const MiniCssExtractPlugin = require('मिनी-सीएसएस-निकालें-प्लगइन');
 const common = require('./webpack.common.js');
 module.exports = merge(common, {
-  mode: 'production',
+  mode: 'उत्पादन',
   output: {
-    filename: '[name].[hash:5].js',
-    chunkFilename: '[id].[hash:5].css'
+    filename: '[name][हैश: 5]। जेएस',
+    chunkFilename: '[id].[हैश:5].css'
   },
   optimization: {
     minimizer: [
