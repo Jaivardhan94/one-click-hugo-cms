@@ -1,105 +1,105 @@
 .bg-center { 
-  background-repeat: no-repeat;
-  background-position: center center;
+  background-repeat：no-repeat;
+  背景位置：中央中央;
 }
 
 .bg-top {
-  background-repeat: no-repeat;
-  background-position: top center;
+  background-repeat：no-repeat;
+  背景位置：上部中央;
 }
 
 .bg-right {
-  background-repeat: no-repeat;
-  background-position: center right;
+  background-repeat：no-repeat;
+  背景位置：中道右派;
 }
 
 .bg-bottom {
-  background-repeat: no-repeat;
-  background-position: bottom center;
+  background-repeat：no-repeat;
+  背景位置：中央下;
 }
 
-.bg-left {
-  background-repeat: no-repeat;
-  background-position: center left;
+.bg-左{
+  background-repeat：no-repeat;
+  背景位置：中央左;
 }
 
-@media (--breakpoint-not-small) {
+@media（--breakpoint-not-small）{
   .bg-center-ns {
-    background-repeat: no-repeat;
-    background-position: center center;
+    background-repeat：no-repeat;
+    背景位置：中央中央;
   }
 
   .bg-top-ns {
-    background-repeat: no-repeat;
-    background-position: top center;
+    background-repeat：no-repeat;
+    背景位置：上部中央;
   }
 
   .bg-right-ns {
-    background-repeat: no-repeat;
-    background-position: center right;
+    background-repeat：no-repeat;
+    背景位置：中道右派;
   }
 
   .bg-bottom-ns {
-    background-repeat: no-repeat;
-    background-position: bottom center;
+    background-repeat：no-repeat;
+    背景位置：中央下;
   }
 
   .bg-left-ns {
-    background-repeat: no-repeat;
-    background-position: center left;
+    background-repeat：no-repeat;
+    背景位置：中央左;
   }
 }
 
-@media (--breakpoint-medium) {
+@media（--breakpoint-medium）{
   .bg-center-m {
-    background-repeat: no-repeat;
-    background-position: center center;
+    background-repeat：no-repeat;
+    背景位置：中央中央;
   }
 
   .bg-top-m {
-    background-repeat: no-repeat;
-    background-position: top center;
+    background-repeat：no-repeat;
+    背景位置：上部中央;
   }
 
   .bg-right-m {
-    background-repeat: no-repeat;
-    background-position: center right;
+    background-repeat：no-repeat;
+    背景位置：中道右派;
   }
 
   .bg-bottom-m {
-    background-repeat: no-repeat;
-    background-position: bottom center;
+    background-repeat：no-repeat;
+    背景位置：中央下;
   }
 
   .bg-left-m {
-    background-repeat: no-repeat;
-    background-position: center left;
+    background-repeat：no-repeat;
+    背景位置：中央左;
   }
 }
 
-@media (--breakpoint-large) {
+@media（--breakpoint-large）{
   .bg-center-l {
-    background-repeat: no-repeat;
-    background-position: center center;
+    background-repeat：no-repeat;
+    背景位置：中央中央;
   }
 
   .bg-top-l {
-    background-repeat: no-repeat;
-    background-position: top center;
+    background-repeat：no-repeat;
+    背景位置：上部中央;
   }
 
   .bg-right-l {
-    background-repeat: no-repeat;
-    background-position: center right;
+    background-repeat：no-repeat;
+    背景位置：中道右派;
   }
 
   .bg-bottom-l {
-    background-repeat: no-repeat;
-    background-position: bottom center;
+    background-repeat：no-repeat;
+    背景位置：中央下;
   }
 
   .bg-left-l {
-    background-repeat: no-repeat;
-    background-position: center left;
+    background-repeat：no-repeat;
+    背景位置：中央左;
   }
 }
