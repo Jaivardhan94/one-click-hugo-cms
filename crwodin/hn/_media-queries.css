@@ -1,5 +1,5 @@
-@custom-media --breakpoint-not-small screen and (min-width: 40em);
+@ कस्टम-मीडिया --ब्रेकपॉइंट-नॉट-स्मॉल स्क्रीन और (न्यूनतम-चौड़ाई: 40em);
 
-@custom-media --breakpoint-medium screen and (min-width: 50em);
+@ कस्टम-मीडिया --ब्रेकपॉइंट-मध्यम स्क्रीन और (न्यूनतम-चौड़ाई: 50em);
 
-@custom-media --breakpoint-large screen and (min-width: 60em);
+@ कस्टम-मीडिया --ब्रेकपॉइंट-बड़ी स्क्रीन और (न्यूनतम-चौड़ाई: 60em);
