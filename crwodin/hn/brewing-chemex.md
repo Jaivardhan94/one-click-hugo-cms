@@ -1,24 +1,28 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: Chemex के साथ शराब बनाने के लिए एक शुरुआती गाइड
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+  केमेक्स के साथ शराब बनाना शायद एक जटिल, समय लेने वाली परीक्षा की तरह लगता है, लेकिन एक बार जब आप इस प्रक्रिया के अभ्यस्त हो जाते हैं, तो यह एक सुखदायक अनुष्ठान बन जाता है जो हर बार प्रयास के लायक होता है।
 image: /img/blog-chemex.jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+इस
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+ **</a> में हम घर पर** के साथ आश्चर्यजनक कॉफी बनाने के लिए आवश्यक सभी चरणों पर एक नज़र डालेंगे। केमेक्स कॉफ़ीमेकर एक मैनुअल, पोर-ओवर स्टाइल ग्लास-कंटेनर कॉफ़ीमेकर है जिसका आविष्कार पीटर श्लुम्बोहम ने 1941 में किया था, और जिसका निर्माण चिकोपी, मैसाचुसेट्स\* में केमेक्स कॉर्पोरेशन द्वारा किया जा रहा है।</p> 
 
-## The little secrets of Chemex brewing
+1958 में, [इलिनोइस इंस्टीट्यूट ऑफ टेक्नोलॉजी](https://www.spacefarm.digital) के डिजाइनरों ने कहा कि केमेक्स कॉफ़ीमेकर *"आधुनिक समय के सर्वश्रेष्ठ-डिज़ाइन किए गए उत्पादों में से एक"*है, और इसलिए इसे न्यूयॉर्क शहर में आधुनिक कला संग्रहालय के संग्रह में शामिल किया गया है। .
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+## केमेक्स ब्रूइंग के छोटे रहस्य
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+केमेक्स कॉफ़ीमेकर में एक घंटे के आकार का ग्लास फ्लास्क होता है जिसमें एक शंक्वाकार फ़नल जैसी गर्दन होती है (एक एर्लेनमेयर फ्लास्क की बेलनाकार गर्दन के बजाय) और मालिकाना फिल्टर का उपयोग करता है, जो बंधुआ कागज से बना होता है (मानक पेपर फिल्टर की तुलना में मोटा-गेज पेपर। ड्रिप-मेथड कॉफ़ीमेकर) जो अधिकांश कॉफ़ी ऑइल को हटाता है, कॉफ़ी को ऐसे स्वाद के साथ बनाना जो अन्य कॉफ़ी-मेकिंग सिस्टम में पीसे गए कॉफ़ी से अलग है; इसके अलावा, केमेक्स कॉफी फिल्टर का मोटा कागज कैफेस्टोल को हटाने में मदद कर सकता है, कॉफी के तेल में पाया जाने वाला कोलेस्ट्रॉल युक्त यौगिक। यहां तीन महत्वपूर्ण युक्तियां दी गई हैं जिन्हें नए लोग भूल जाते हैं:
+
+1. हमेशा समर्पित Chemex फ़िल्टर खरीदें।
+2. एक पैमाने का प्रयोग करें, इसे देखने की कोशिश न करें।
+3. कांच को पहले से गरम करना कभी न छोड़ें।
+4. समय महत्वपूर्ण है, घड़ी को मत भूलना।
+
+केमेक्स की सबसे विशिष्ट विशेषता गर्दन के चारों ओर हीटप्रूफ लकड़ी का कॉलर है, जो इसे गर्म पानी से भरे होने पर संभालने और डालने की अनुमति देता है। इसे घुमाया जाता है, फिर इसे कांच के गले में फिट करने के लिए दो भागों में विभाजित किया जाता है। दो टुकड़ों को एक बंधे हुए चमड़े के पेटी द्वारा ढीले ढंग से रखा जाता है। टुकड़े कसकर बंधे नहीं हैं और अभी भी थोड़ा आगे बढ़ सकते हैं, शंक्वाकार कांच के आकार द्वारा बनाए रखा जाता है।
+
+आधुनिकतावाद और सटीक निर्माण के समय युद्ध के बाद लोकप्रिय हो गए एक डिजाइन टुकड़े के लिए, प्राकृतिक लकड़ी का यह जुड़ाव और कांच के बने पदार्थ की प्रयोगशाला प्रकृति के साथ हाथ से बंधे गाँठ की जैविक प्रकृति इसकी उपस्थिति की एक विशिष्ट विशेषता थी।
