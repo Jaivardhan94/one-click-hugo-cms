@@ -1,198 +1,198 @@
-.flex { display: flex; }
-.inline-flex { display: inline-flex; }
+.फ्लेक्स {डिस्प्ले: फ्लेक्स; }
+.इनलाइन-फ्लेक्स {डिस्प्ले: इनलाइन-फ्लेक्स; }
 
-/* 1. Fix for Chrome 44 bug.
+/* 1. क्रोम 44 बग के लिए फिक्स।
  * https://code.google.com/p/chromium/issues/detail?id=506893 */
-.flex-auto {
-  flex: 1 1 auto;
-  min-width: 0; /* 1 */
-  min-height: 0; /* 1 */
+.फ्लेक्स-ऑटो {
+  फ्लेक्स: 1 1 ऑटो;
+  न्यूनतम-चौड़ाई: 0; /* 1 */
+  न्यूनतम ऊंचाई: 0; /* 1 */
 }
 
-.flex-none { flex: none; }
+फ्लेक्स-कोई नहीं {फ्लेक्स: कोई नहीं; }
 
-.flex-column  { flex-direction: column; }
-.flex-row     { flex-direction: row; }
-.flex-wrap    { flex-wrap: wrap; }
+फ्लेक्स-कॉलम {फ्लेक्स-दिशा: कॉलम; }
+फ्लेक्स-पंक्ति {फ्लेक्स-दिशा: पंक्ति; }
+.फ्लेक्स-रैप {फ्लेक्स-रैप: रैप; }
 
-.items-start    { align-items: flex-start; }
-.items-end      { align-items: flex-end; }
-.items-center   { align-items: center; }
-.items-baseline { align-items: baseline; }
-.items-stretch  { align-items: stretch; }
+.आइटम-स्टार्ट {संरेखित-आइटम: फ्लेक्स-स्टार्ट; }
+.items-end { align-items: flex-end; }
+.items-center { align-items: center; }
+.आइटम-बेसलाइन {संरेखित-आइटम: बेसलाइन; }
+आइटम-खिंचाव {संरेखित-आइटम: खिंचाव; }
 
-.self-start    { align-self: flex-start; }
-.self-end      { align-self: flex-end; }
-.self-center   { align-self: center; }
-.self-baseline { align-self: baseline; }
-.self-stretch  { align-self: stretch; }
+.सेल्फ-स्टार्ट {अलाइन-सेल्फ: फ्लेक्स-स्टार्ट; }
+.self-end { align-self: flex-end; }
+.self-center { align-self: center; }
+.सेल्फ-बेसलाइन { एलाइन-सेल्फ: बेसलाइन; }
+.स्व-खिंचाव {संरेखण-स्व: खिंचाव; }
 
-.justify-start   { justify-content: flex-start; }
-.justify-end     { justify-content: flex-end; }
-.justify-center  { justify-content: center; }
-.justify-between { justify-content: space-between; }
-.justify-around  { justify-content: space-around; }
+.जस्टिफाई-स्टार्ट {जस्टिफाई-कंटेंट: फ्लेक्स-स्टार्ट; }
+.जस्टिफाई-एंड {जस्टिफाई-कंटेंट: फ्लेक्स-एंड; }
+.जस्टिफाई-सेंटर { जस्टिफाई-कंटेंट: सेंटर; }
+.जस्टिफाई-बीच {जस्टिफाई-कंटेंट: स्पेस-बीच; }
+.जस्टिफाई-अराउंड {जस्टिफाई-कंटेंट: स्पेस-अराउंड; }
 
-.content-start   { align-content: flex-start; }
-.content-end     { align-content: flex-end; }
-.content-center  { align-content: center; }
-.content-between { align-content: space-between; }
-.content-around  { align-content: space-around; }
-.content-stretch { align-content: stretch; }
+सामग्री-प्रारंभ {संरेखित-सामग्री: फ्लेक्स-प्रारंभ; }
+सामग्री-अंत {संरेखित-सामग्री: फ्लेक्स-अंत; }
+.content-center { align-content: center; }
+.सामग्री-बीच {संरेखित-सामग्री: अंतरिक्ष-बीच; }
+.सामग्री-आसपास {संरेखित-सामग्री: अंतरिक्ष-चारों ओर; }
+.सामग्री-खिंचाव {संरेखित-सामग्री: खिंचाव; }
 
-.order-0 { order: 0; }
-.order-1 { order: 1; }
-.order-2 { order: 2; }
-.order-3 { order: 3; }
-.order-4 { order: 4; }
-.order-5 { order: 5; }
-.order-6 { order: 6; }
-.order-7 { order: 7; }
-.order-8 { order: 8; }
-.order-last { order: 99999; }
+.आदेश-0 {आदेश: 0; }
+.आदेश-1 {आदेश: 1; }
+.आदेश-2 {आदेश: 2; }
+.आदेश-3 {आदेश: 3; }
+.आदेश-4 {आदेश: 4; }
+.आदेश-5 {आदेश: 5; }
+.आदेश-6 {आदेश: 6; }
+.आदेश-7 {आदेश: 7; }
+.आदेश-8 {आदेश: 8; }
+.आदेश-अंतिम {आदेश: 99999; }
 
-@media (--breakpoint-not-small) {
-  .flex-ns { display: flex; }
-  .inline-flex-ns { display: inline-flex; }
-  .flex-auto-ns {
-    flex: 1 1 auto;
-    min-width: 0; /* 1 */
-    min-height: 0; /* 1 */
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .flex-ns {डिस्प्ले: फ्लेक्स; }
+  .इनलाइन-फ्लेक्स-एनएस {डिस्प्ले: इनलाइन-फ्लेक्स; }
+  .फ्लेक्स-ऑटो-एनएस {
+    फ्लेक्स: 1 1 ऑटो;
+    न्यूनतम-चौड़ाई: 0; /* 1 */
+    न्यूनतम ऊंचाई: 0; /* 1 */
   }
-  .flex-none-ns { flex: none; }
-  .flex-column-ns { flex-direction: column; }
-  .flex-row-ns     { flex-direction: row; }
-  .flex-wrap-ns { flex-wrap: wrap; }
+  .flex-none-ns {फ्लेक्स: कोई नहीं; }
+  .फ्लेक्स-कॉलम-एनएस {फ्लेक्स-दिशा: कॉलम; }
+  .फ्लेक्स-पंक्ति-एनएस {फ्लेक्स-दिशा: पंक्ति; }
+  .फ्लेक्स-रैप-एनएस {फ्लेक्स-रैप: रैप; }
   .items-start-ns { align-items: flex-start; }
   .items-end-ns { align-items: flex-end; }
   .items-center-ns { align-items: center; }
-  .items-baseline-ns { align-items: baseline; }
-  .items-stretch-ns { align-items: stretch; }
+  .आइटम-बेसलाइन-एनएस { एलाइन-आइटम: बेसलाइन; }
+  आइटम-खिंचाव-एनएस {संरेखित-आइटम: खिंचाव; }
 
   .self-start-ns { align-self: flex-start; }
   .self-end-ns { align-self: flex-end; }
   .self-center-ns { align-self: center; }
-  .self-baseline-ns { align-self: baseline; }
-  .self-stretch-ns { align-self: stretch; }
+  .सेल्फ-बेसलाइन-एनएस { एलाइन-सेल्फ: बेसलाइन; }
+  .स्व-खिंचाव-एनएस {संरेखण-स्व: खिंचाव; }
 
-  .justify-start-ns { justify-content: flex-start; }
-  .justify-end-ns { justify-content: flex-end; }
-  .justify-center-ns { justify-content: center; }
-  .justify-between-ns { justify-content: space-between; }
-  .justify-around-ns { justify-content: space-around; }
+  .जस्टिफाई-स्टार्ट-एनएस {जस्टिफाई-कंटेंट: फ्लेक्स-स्टार्ट; }
+  .जस्टिफाई-एंड-एनएस {जस्टिफाई-कंटेंट: फ्लेक्स-एंड; }
+  .जस्टिफाई-सेंटर-एनएस { जस्टिफाई-कंटेंट: सेंटर; }
+  .जस्टिफाई-बीच-एनएस {जस्टिफाई-कंटेंट: स्पेस-बीच; }
+  .जस्टिफाई-अराउंड-एनएस {जस्टिफाई-कंटेंट: स्पेस-अराउंड; }
 
-  .content-start-ns { align-content: flex-start; }
+  .सामग्री-प्रारंभ-एनएस {संरेखित-सामग्री: फ्लेक्स-प्रारंभ; }
   .content-end-ns { align-content: flex-end; }
   .content-center-ns { align-content: center; }
-  .content-between-ns { align-content: space-between; }
-  .content-around-ns { align-content: space-around; }
-  .content-stretch-ns { align-content: stretch; }
+  .सामग्री-बीच-एनएस {संरेखित-सामग्री: अंतरिक्ष-बीच; }
+  .सामग्री-आसपास-एनएस {संरेखित-सामग्री: अंतरिक्ष-चारों ओर; }
+  .सामग्री-खिंचाव-एनएस {संरेखित-सामग्री: खिंचाव; }
 
-  .order-0-ns { order: 0; }
-  .order-1-ns { order: 1; }
-  .order-2-ns { order: 2; }
-  .order-3-ns { order: 3; }
-  .order-4-ns { order: 4; }
-  .order-5-ns { order: 5; }
-  .order-6-ns { order: 6; }
-  .order-7-ns { order: 7; }
-  .order-8-ns { order: 8; }
-  .order-last-ns { order: 99999; }
+  .ऑर्डर-0-एनएस {आदेश: 0; }
+  .ऑर्डर-1-एनएस {आदेश: 1; }
+  .ऑर्डर-2-एनएस {आदेश: 2; }
+  .आदेश-3-एनएस {आदेश: 3; }
+  .आदेश-4-एनएस {आदेश: 4; }
+  .आदेश-5-एनएस {आदेश: 5; }
+  .आदेश-6-एनएस {आदेश: 6; }
+  .आदेश-7-एनएस {आदेश: 7; }
+  .आदेश-8-एनएस {आदेश: 8; }
+  .आदेश-अंतिम-एनएस {आदेश: 99999; }
 }
-@media (--breakpoint-medium) {
-  .flex-m { display: flex; }
-  .inline-flex-m { display: inline-flex; }
-  .flex-auto-m {
-    flex: 1 1 auto;
-    min-width: 0; /* 1 */
-    min-height: 0; /* 1 */
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .फ्लेक्स-एम {डिस्प्ले: फ्लेक्स; }
+  .इनलाइन-फ्लेक्स-एम {डिस्प्ले: इनलाइन-फ्लेक्स; }
+  .फ्लेक्स-ऑटो-एम {
+    फ्लेक्स: 1 1 ऑटो;
+    न्यूनतम-चौड़ाई: 0; /* 1 */
+    न्यूनतम ऊंचाई: 0; /* 1 */
   }
-  .flex-none-m { flex: none; }
-  .flex-column-m { flex-direction: column; }
-  .flex-row-m     { flex-direction: row; }
-  .flex-wrap-m { flex-wrap: wrap; }
+  .flex-none-m {फ्लेक्स: कोई नहीं; }
+  .फ्लेक्स-कॉलम-एम {फ्लेक्स-दिशा: कॉलम; }
+  फ्लेक्स-पंक्ति-एम {फ्लेक्स-दिशा: पंक्ति; }
+  .फ्लेक्स-रैप-एम {फ्लेक्स-रैप: रैप; }
   .items-start-m { align-items: flex-start; }
   .items-end-m { align-items: flex-end; }
   .items-center-m { align-items: center; }
-  .items-baseline-m { align-items: baseline; }
-  .items-stretch-m { align-items: stretch; }
+  .आइटम-बेसलाइन-एम {संरेखित-आइटम: बेसलाइन; }
+  .आइटम-खिंचाव-एम {संरेखित-आइटम: खिंचाव; }
 
   .self-start-m { align-self: flex-start; }
   .self-end-m { align-self: flex-end; }
   .self-center-m { align-self: center; }
-  .self-baseline-m { align-self: baseline; }
-  .self-stretch-m { align-self: stretch; }
+  .सेल्फ-बेसलाइन-एम { एलाइन-सेल्फ: बेसलाइन; }
+  स्व-खिंचाव-एम {संरेखण-स्व: खिंचाव; }
 
-  .justify-start-m { justify-content: flex-start; }
-  .justify-end-m { justify-content: flex-end; }
-  .justify-center-m { justify-content: center; }
-  .justify-between-m { justify-content: space-between; }
-  .justify-around-m { justify-content: space-around; }
+  .जस्टिफाई-स्टार्ट-एम {जस्टिफाई-कंटेंट: फ्लेक्स-स्टार्ट; }
+  .जस्टिफाई-एंड-एम {जस्टिफाई-कंटेंट: फ्लेक्स-एंड; }
+  .जस्टिफाई-सेंटर-एम { जस्टिफाई-कंटेंट: सेंटर; }
+  .जस्टिफाई-बीच-एम {जस्टिफाई-कंटेंट: स्पेस-बीच; }
+  .जस्टिफाई-अराउंड-एम {जस्टिफाई-कंटेंट: स्पेस-अराउंड; }
 
-  .content-start-m { align-content: flex-start; }
+  .सामग्री-प्रारंभ-एम {संरेखित-सामग्री: फ्लेक्स-प्रारंभ; }
   .content-end-m { align-content: flex-end; }
   .content-center-m { align-content: center; }
-  .content-between-m { align-content: space-between; }
-  .content-around-m { align-content: space-around; }
-  .content-stretch-m { align-content: stretch; }
+  .सामग्री-बीच-एम {संरेखित-सामग्री: अंतरिक्ष-बीच; }
+  .सामग्री-आसपास-एम {संरेखित-सामग्री: अंतरिक्ष-चारों ओर; }
+  .सामग्री-खिंचाव-एम {संरेखित-सामग्री: खिंचाव; }
 
-  .order-0-m { order: 0; }
-  .order-1-m { order: 1; }
-  .order-2-m { order: 2; }
-  .order-3-m { order: 3; }
-  .order-4-m { order: 4; }
-  .order-5-m { order: 5; }
-  .order-6-m { order: 6; }
-  .order-7-m { order: 7; }
-  .order-8-m { order: 8; }
-  .order-last-m { order: 99999; }
+  .ऑर्डर-0-एम {आदेश: 0; }
+  .ऑर्डर-1-एम {आदेश: 1; }
+  .ऑर्डर-2-एम {आदेश: 2; }
+  .ऑर्डर-3-एम {आदेश: 3; }
+  .आदेश-4-एम {आदेश: 4; }
+  .आदेश-5-एम {आदेश: 5; }
+  .आदेश-6-एम {आदेश: 6; }
+  .ऑर्डर-7-एम {आदेश: 7; }
+  .आदेश-8-एम {आदेश: 8; }
+  .आदेश-अंतिम-एम {आदेश: 99999; }
 }
 
-@media (--breakpoint-large) {
-  .flex-l { display: flex; }
-  .inline-flex-l { display: inline-flex; }
-  .flex-auto-l {
-    flex: 1 1 auto;
-    min-width: 0; /* 1 */
-    min-height: 0; /* 1 */
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .फ्लेक्स-एल {डिस्प्ले: फ्लेक्स; }
+  .इनलाइन-फ्लेक्स-एल {डिस्प्ले: इनलाइन-फ्लेक्स; }
+  .फ्लेक्स-ऑटो-एल {
+    फ्लेक्स: 1 1 ऑटो;
+    न्यूनतम-चौड़ाई: 0; /* 1 */
+    न्यूनतम ऊंचाई: 0; /* 1 */
   }
-  .flex-none-l { flex: none; }
-  .flex-column-l { flex-direction: column; }
-  .flex-row-l { flex-direction: row; }
-  .flex-wrap-l { flex-wrap: wrap; }
+  .flex-none-l {फ्लेक्स: कोई नहीं; }
+  .फ्लेक्स-कॉलम-एल {फ्लेक्स-दिशा: कॉलम; }
+  .फ्लेक्स-पंक्ति-एल {फ्लेक्स-दिशा: पंक्ति; }
+  .फ्लेक्स-रैप-एल {फ्लेक्स-रैप: रैप; }
   .items-start-l { align-items: flex-start; }
   .items-end-l { align-items: flex-end; }
   .items-center-l { align-items: center; }
-  .items-baseline-l { align-items: baseline; }
-  .items-stretch-l { align-items: stretch; }
+  .आइटम-बेसलाइन-एल { एलाइन-आइटम: बेसलाइन; }
+  .आइटम-खिंचाव-एल {संरेखित-आइटम: खिंचाव; }
 
   .self-start-l { align-self: flex-start; }
   .self-end-l { align-self: flex-end; }
   .self-center-l { align-self: center; }
-  .self-baseline-l { align-self: baseline; }
-  .self-stretch-l { align-self: stretch; }
+  .सेल्फ-बेसलाइन-एल { एलाइन-सेल्फ: बेसलाइन; }
+  .स्व-खिंचाव-एल {संरेखण-स्व: खिंचाव; }
 
-  .justify-start-l { justify-content: flex-start; }
-  .justify-end-l { justify-content: flex-end; }
-  .justify-center-l { justify-content: center; }
-  .justify-between-l { justify-content: space-between; }
-  .justify-around-l { justify-content: space-around; }
+  .जस्टिफाई-स्टार्ट-एल {जस्टिफाई-कंटेंट: फ्लेक्स-स्टार्ट; }
+  .जस्टिफाई-एंड-एल {जस्टिफाई-कंटेंट: फ्लेक्स-एंड; }
+  .जस्टिफाई-सेंटर-एल { जस्टिफाई-कंटेंट: सेंटर; }
+  .जस्टिफाई-बीच-एल {जस्टिफाई-कंटेंट: स्पेस-बीच; }
+  .जस्टिफाई-अराउंड-एल {जस्टिफाई-कंटेंट: स्पेस-अराउंड; }
 
-  .content-start-l { align-content: flex-start; }
+  .सामग्री-प्रारंभ-एल {संरेखित-सामग्री: फ्लेक्स-प्रारंभ; }
   .content-end-l { align-content: flex-end; }
   .content-center-l { align-content: center; }
-  .content-between-l { align-content: space-between; }
-  .content-around-l { align-content: space-around; }
-  .content-stretch-l { align-content: stretch; }
+  .सामग्री-बीच-एल {संरेखित-सामग्री: अंतरिक्ष-बीच; }
+  .सामग्री-आसपास-एल {संरेखित-सामग्री: अंतरिक्ष-चारों ओर; }
+  .सामग्री-खिंचाव-एल {संरेखित-सामग्री: खिंचाव; }
 
-  .order-0-l { order: 0; }
-  .order-1-l { order: 1; }
-  .order-2-l { order: 2; }
-  .order-3-l { order: 3; }
-  .order-4-l { order: 4; }
-  .order-5-l { order: 5; }
-  .order-6-l { order: 6; }
-  .order-7-l { order: 7; }
-  .order-8-l { order: 8; }
-  .order-last-l { order: 99999; }
+  .आदेश-0-एल {आदेश: 0; }
+  .आदेश-1-एल {आदेश: 1; }
+  .ऑर्डर-2-एल {आदेश: 2; }
+  .आदेश-3-एल {आदेश: 3; }
+  .आदेश-4-एल {आदेश: 4; }
+  .आदेश-5-एल {आदेश: 5; }
+  .आदेश-6-एल {आदेश: 6; }
+  .आदेश-7-एल {आदेश: 7; }
+  .आदेश-8-एल {आदेश: 8; }
+  .आदेश-अंतिम-एल {आदेश: 99999; }
 }
