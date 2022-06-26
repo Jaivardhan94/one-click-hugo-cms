@@ -1,21 +1,21 @@
-.ws-normal { white-space: normal; }
-.nowrap { white-space: nowrap; }
-.pre { white-space: pre; }
+.ws-normal {空白：通常; }
+.nowrap {空白：nowrap; }
+.pre {空白：pre; }
 
-@media (--breakpoint-not-small) {
-  .ws-normal-ns { white-space: normal; }
-  .nowrap-ns { white-space: nowrap; }
-  .pre-ns { white-space: pre; }
+@media（--breakpoint-not-small）{
+  .ws-normal-ns {空白：通常; }
+  .nowrap-ns {空白：nowrap; }
+  .pre-ns {空白：pre; }
 }
 
-@media (--breakpoint-medium) {
-  .ws-normal-m { white-space: normal; }
-  .nowrap-m { white-space: nowrap; }
-  .pre-m { white-space: pre; }
+@media（--breakpoint-medium）{
+  .ws-normal-m {空白：通常; }
+  .nowrap-m {空白：nowrap; }
+  .pre-m {空白：pre; }
 }
 
-@media (--breakpoint-large) {
-  .ws-normal-l { white-space: normal; }
-  .nowrap-l { white-space: nowrap; }
-  .pre-l { white-space: pre; }
+@media（--breakpoint-large）{
+  .ws-normal-l {空白：通常; }
+  .nowrap-l {空白：nowrap; }
+  .pre-l {空白：pre; }
 }
