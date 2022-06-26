@@ -1,30 +1,30 @@
-table
+मेज़
 {
-  border-radius: var(--border-radius);
-  overflow: hidden;
+  सीमा-त्रिज्या: var (--सीमा-त्रिज्या);
+  बहुत ज्यादा गोपनीय;
 }
 
-td, th {
-  padding: $spacing-medium;
+टीडी, वें {
+  पैडिंग: $spacing-मीडियम;
 }
 
-th:not(:first-child), td:not(:first-child) {
-  text-align: right;
+वें: नहीं (: पहला बच्चा), टीडी: नहीं (: पहला बच्चा) {
+  टेक्स्ट-एलाइन: राइट;
 }
 
-th {
-  color: var(--grey-3);
-  font-weight: 700;
-  white-space: nowrap;
+वां {
+  रंग: वर(--ग्रे-3);
+  फ़ॉन्ट-वजन: 700;
+  व्हाइट-स्पेस: अब्रैप;
    {
-    white-space: wrap;
+    सफेद जगह: लपेटो;
   }
 }
 
-tr th {
-  text-align: center;
+ट्र वें {
+  पाठ-संरेखण: केंद्र;
 }
 
-tbody tr:nth-child(even) {
-  background-color: var(--grey-1);
+tbody tr:nth-child(यहां तक कि) {
+  पृष्ठभूमि-रंग: var (--ग्रे -1);
 }
