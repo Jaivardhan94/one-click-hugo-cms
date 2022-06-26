@@ -1,119 +1,119 @@
-.top-0    { top:    0; }
-.right-0  { right:  0; }
-.bottom-0 { bottom: 0; }
-.left-0   { left:   0; }
+.टॉप -0 {शीर्ष: 0; }
+.राइट-0 {दाएं: 0; }
+.नीचे-0 {नीचे: 0; }
+.बाएं-0 {बाएं: 0; }
 
-.top-1    { top:    var(--spacing-medium); }
-.right-1  { right:  var(--spacing-medium); }
-.bottom-1 { bottom: var(--spacing-medium); }
-.left-1   { left:   var(--spacing-medium); }
+.top-1 {शीर्ष: var(--spacing-medium); }
+.right-1 {दाएं: var(--spacing-medium); }
+.नीचे-1 {नीचे: var(--spacing-medium); }
+.बाएं-1 {बाएं: var(--spacing-medium); }
 
-.top-2    { top:    2rem; }
-.right-2  { right:  2rem; }
-.bottom-2 { bottom: 2rem; }
-.left-2   { left:   2rem; }
+.टॉप-2 {शीर्ष: 2रेम; }
+राइट-2 {दाएं: 2रेम; }
+.नीचे-2 {नीचे: 2रेम; }
+.बाएं-2 {बाएं: 2रेम; }
 
-.top--1    { top:    -var(--spacing-medium); }
-.right--1  { right:  -var(--spacing-medium); }
-.bottom--1 { bottom: -var(--spacing-medium); }
-.left--1   { left:   -var(--spacing-medium); }
+.top--1 {शीर्ष: -var(--spacing-medium); }
+.right--1 {दाएं: -var(--spacing-medium); }
+.नीचे--1 {नीचे: -var(--spacing-medium); }
+.बाएं--1 {बाएं: -var(--spacing-medium); }
 
-.top--2    { top:    -2rem; }
-.right--2  { right:  -2rem; }
-.bottom--2 { bottom: -2rem; }
-.left--2   { left:   -2rem; }
+.टॉप--2 {टॉप: -2रेम; }
+राइट--2 {दाएं: -2rem; }
+.नीचे--2 {नीचे: -2रेम; }
+बाएं--2 {बाएं: -2रेम; }
 
 
-.absolute--fill {
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+.निरपेक्ष--भरें {
+  शीर्ष: 0;
+  दाएं: 0;
+  नीचे: 0;
+  बाएं: 0;
 }
 
-@media (--breakpoint-not-small) {
-  .top-0-ns     { top:   0; }
-  .left-0-ns    { left:  0; }
-  .right-0-ns   { right: 0; }
-  .bottom-0-ns  { bottom: 0; }
-  .top-1-ns     { top:   var(--spacing-medium); }
-  .left-1-ns    { left:  var(--spacing-medium); }
-  .right-1-ns   { right: var(--spacing-medium); }
-  .bottom-1-ns  { bottom: var(--spacing-medium); }
-  .top-2-ns     { top:   2rem; }
-  .left-2-ns    { left:  2rem; }
-  .right-2-ns   { right: 2rem; }
-  .bottom-2-ns  { bottom: 2rem; }
-  .top--1-ns    { top:    -var(--spacing-medium); }
-  .right--1-ns  { right:  -var(--spacing-medium); }
-  .bottom--1-ns { bottom: -var(--spacing-medium); }
-  .left--1-ns   { left:   -var(--spacing-medium); }
-  .top--2-ns    { top:    -2rem; }
-  .right--2-ns  { right:  -2rem; }
-  .bottom--2-ns { bottom: -2rem; }
-  .left--2-ns   { left:   -2rem; }
-  .absolute--fill-ns {
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .टॉप-0-एनएस {शीर्ष: 0; }
+  .बाएं-0-एनएस {बाएं: 0; }
+  .राइट-0-एनएस {दाएं: 0; }
+  .नीचे-0-एनएस {नीचे: 0; }
+  .top-1-ns {शीर्ष: var(--spacing-medium); }
+  .बाएं-1-एनएस {बाएं: var(--spacing-medium); }
+  .right-1-ns {दाएं: var(--spacing-medium); }
+  .bottom-1-ns {नीचे: var(--spacing-medium); }
+  .टॉप-2-एनएस {शीर्ष: 2रेम; }
+  बाएं-2-एनएस {बाएं: 2रेम; }
+  राइट-2-एनएस {दाएं: 2रेम; }
+  .नीचे-2-एनएस {नीचे: 2रेम; }
+  .top--1-ns { शीर्ष: -var(--spacing-medium); }
+  .right--1-ns {दाएं: -var(--spacing-medium); }
+  .bottom--1-ns { नीचे: -var(--spacing-medium); }
+  .बाएं--1-एनएस {बाएं: -var(--spacing-medium); }
+  .टॉप--2-एनएस {शीर्ष: -2रेम; }
+  राइट--2-एनएस {दाएं: -2रेम; }
+  .नीचे--2-एनएस {नीचे: -2रेम; }
+  .बाएं--2-एनएस {बाएं: -2रेम; }
+  .निरपेक्ष--भरण-एनएस {
+    शीर्ष: 0;
+    दाएं: 0;
+    नीचे: 0;
+    बाएं: 0;
   }
 }
 
-@media (--breakpoint-medium) {
-  .top-0-m     { top:   0; }
-  .left-0-m    { left:  0; }
-  .right-0-m   { right: 0; }
-  .bottom-0-m  { bottom: 0; }
-  .top-1-m     { top:   var(--spacing-medium); }
-  .left-1-m    { left:  var(--spacing-medium); }
-  .right-1-m   { right: var(--spacing-medium); }
-  .bottom-1-m  { bottom: var(--spacing-medium); }
-  .top-2-m     { top:   2rem; }
-  .left-2-m    { left:  2rem; }
-  .right-2-m   { right: 2rem; }
-  .bottom-2-m  { bottom: 2rem; }
-  .top--1-m    { top:    -var(--spacing-medium); }
-  .right--1-m  { right:  -var(--spacing-medium); }
-  .bottom--1-m { bottom: -var(--spacing-medium); }
-  .left--1-m   { left:   -var(--spacing-medium); }
-  .top--2-m    { top:    -2rem; }
-  .right--2-m  { right:  -2rem; }
-  .bottom--2-m { bottom: -2rem; }
-  .left--2-m   { left:   -2rem; }
-  .absolute--fill-m {
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .टॉप-0-एम {शीर्ष: 0; }
+  .बाएं-0-मी {बाएं: 0; }
+  .राइट-0-एम {दाएं: 0; }
+  .नीचे-0-मी { नीचे: 0; }
+  .top-1-m {शीर्ष: var(--spacing-medium); }
+  .बाएं-1-एम {बाएं: var(--spacing-medium); }
+  .right-1-m {दाएं: var(--spacing-medium); }
+  .bottom-1-m { नीचे: var(--spacing-medium); }
+  .टॉप-2-एम {शीर्ष: 2रेम; }
+  .बाएं-2-मी {बाएं: 2रेम; }
+  राइट-2-एम {दाएं: 2रेम; }
+  .नीचे-2-एम {नीचे: 2रेम; }
+  .top--1-m { शीर्ष: -var(--spacing-medium); }
+  राइट--1-एम {दाएं: -वर (--स्पेसिंग-मीडियम); }
+  .bottom--1-m { नीचे: -var(--spacing-medium); }
+  .बाएं--1-एम {बाएं: -var(--spacing-medium); }
+  .टॉप--2-एम {शीर्ष: -2रेम; }
+  राइट--2-एम {दाएं: -2रेम; }
+  .नीचे--2-मी { नीचे: -2rem; }
+  .बाएं--2-मी {बाएं: -2रेम; }
+  .निरपेक्ष--भरण-एम {
+    शीर्ष: 0;
+    दाएं: 0;
+    नीचे: 0;
+    बाएं: 0;
   }
 }
 
-@media (--breakpoint-large) {
-  .top-0-l     { top:   0; }
-  .left-0-l    { left:  0; }
-  .right-0-l   { right: 0; }
-  .bottom-0-l  { bottom: 0; }
-  .top-1-l     { top:   var(--spacing-medium); }
-  .left-1-l    { left:  var(--spacing-medium); }
-  .right-1-l   { right: var(--spacing-medium); }
-  .bottom-1-l  { bottom: var(--spacing-medium); }
-  .top-2-l     { top:   2rem; }
-  .left-2-l    { left:  2rem; }
-  .right-2-l   { right: 2rem; }
-  .bottom-2-l  { bottom: 2rem; }
-  .top--1-l    { top:    -var(--spacing-medium); }
-  .right--1-l  { right:  -var(--spacing-medium); }
-  .bottom--1-l { bottom: -var(--spacing-medium); }
-  .left--1-l   { left:   -var(--spacing-medium); }
-  .top--2-l    { top:    -2rem; }
-  .right--2-l  { right:  -2rem; }
-  .bottom--2-l { bottom: -2rem; }
-  .left--2-l   { left:   -2rem; }
-  .absolute--fill-l {
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .टॉप-0-एल {शीर्ष: 0; }
+  .बाएं-0-एल {बाएं: 0; }
+  .राइट-0-एल {दाएं: 0; }
+  .नीचे-0-एल {नीचे: 0; }
+  .top-1-l {शीर्ष: var(--spacing-medium); }
+  .बाएं-1-एल {बाएं: var(--spacing-medium); }
+  .right-1-l {दाएं: var(--spacing-medium); }
+  .bottom-1-l { नीचे: var(--spacing-medium); }
+  .टॉप-2-एल {शीर्ष: 2रेम; }
+  .बाएं-2-एल {बाएं: 2रेम; }
+  राइट-2-एल {दाएं: 2रेम; }
+  .नीचे-2-एल {नीचे: 2रेम; }
+  .top--1-l { शीर्ष: -var(--spacing-medium); }
+  राइट--1-एल {दाएं: -वर (--स्पेसिंग-मीडियम); }
+  .bottom--1-l { नीचे: -var(--spacing-medium); }
+  .बाएं--1-एल {बाएं: -var(--spacing-माध्यम); }
+  .टॉप--2-एल {शीर्ष: -2रेम; }
+  .दाएं--2-एल {दाएं: -2रेम; }
+  .नीचे--2-एल {नीचे: -2rem; }
+  .बाएं--2-एल {बाएं: -2रेम; }
+  .निरपेक्ष--भरें-एल {
+    शीर्ष: 0;
+    दाएं: 0;
+    नीचे: 0;
+    बाएं: 0;
   }
 }
