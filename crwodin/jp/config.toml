@@ -1,5 +1,2 @@
-baseurl = "/"
 languageCode = "en-us"
-languageLang = "en"
-title = "ホームページ"
-disableKinds = [ "RSS", "分類法", "taxonomyTerm" ]
+title = "私の新しいNetlifyVictorHugoサイト"
