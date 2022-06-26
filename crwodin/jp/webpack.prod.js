@@ -1,13 +1,13 @@
-const merge = require('webpack-merge');
+const merge = require('webpack-マージ');
 const TerserPlugin = require('terser-webpack-plugin');
-const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
+const OptimizeCSSAssetsPlugin = require('最適化-css-assets-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const common = require('./webpack.common.js');
 module.exports = merge(common, {
-  mode: 'production',
+  mode: '製造',
   output: {
-    filename: '[name].[hash:5].js',
-    chunkFilename: '[id].[hash:5].css'
+    filename: '[name][hash：5] .js',
+    chunkFilename: '[id][ハッシュ：5] .css'
   },
   optimization: {
     minimizer: [
