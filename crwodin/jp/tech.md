@@ -1,15 +1,17 @@
 ---
-title: 'tech'
-date: 2018-11-14T19:02:50-07:00
-draft: false
+title: '技術'
+date: 2018-11-14T19：02：50-07：00
+draft: 間違い
 ---
 
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
+# [ヴィクトル・ユーゴー](https://github.com/netlify-templates/victor-hugo)
 
-## A Hugo boilerplate for creating truly epic websites
+## 真に壮大なウェブサイトを作成するためのHugo定型文
 
 <img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
 
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
+これは、静的サイトジェネレーターとして [Hugo](https://gohugo.io/) を使用し、アセットパイプラインとして [を使用するための定型文](https://webpack.js.org/)。 Victor</a> は、CSSおよびJavaScriptのコンパイル [変換に](https://babeljs.io/) および [を使用するように設定しました。 このプロジェクトは、0MITライセンス](http://postcss.org/)でリリースされてい。 その意味と保証を必ず理解してください。</p> 
 
-## Enjoy!! 😸
+
+
+## 楽しみ！！ 😸
