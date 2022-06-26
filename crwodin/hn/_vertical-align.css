@@ -1,25 +1,25 @@
-.v-base     { vertical-align: baseline; }
-.v-mid      { vertical-align: middle; }
-.v-top      { vertical-align: top; }
-.v-btm      { vertical-align: bottom; }
+.v-आधार {ऊर्ध्वाधर-संरेखण: आधार रेखा; }
+.v-मध्य {ऊर्ध्वाधर-संरेखण: मध्य; }
+.v-शीर्ष {ऊर्ध्वाधर-संरेखण: शीर्ष; }
+.v-btm {ऊर्ध्वाधर-संरेखण: नीचे; }
 
-@media (--breakpoint-not-small) {
-  .v-base-ns     { vertical-align: baseline; }
-  .v-mid-ns      { vertical-align: middle; }
-  .v-top-ns      { vertical-align: top; }
-  .v-btm-ns      { vertical-align: bottom; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .v-आधार-एनएस {ऊर्ध्वाधर-संरेखण: आधार रेखा; }
+  .v-मध्य-एनएस { लंबवत-संरेखण: मध्य; }
+  .v-top-ns { लंबवत-संरेखण: शीर्ष; }
+  .v-btm-ns {ऊर्ध्वाधर-संरेखण: नीचे; }
 }
 
-@media (--breakpoint-medium) {
-  .v-base-m     { vertical-align: baseline; }
-  .v-mid-m      { vertical-align: middle; }
-  .v-top-m      { vertical-align: top; }
-  .v-btm-m      { vertical-align: bottom; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .v-आधार-एम {ऊर्ध्वाधर-संरेखण: आधार रेखा; }
+  .v-मध्य-एम {ऊर्ध्वाधर-संरेखण: मध्य; }
+  .v-top-m { लंबवत-संरेखण: शीर्ष; }
+  .v-btm-m {ऊर्ध्वाधर-संरेखण: नीचे; }
 }
 
-@media (--breakpoint-large) {
-  .v-base-l     { vertical-align: baseline; }
-  .v-mid-l      { vertical-align: middle; }
-  .v-top-l      { vertical-align: top; }
-  .v-btm-l      { vertical-align: bottom; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .v-आधार-एल {ऊर्ध्वाधर-संरेखण: आधार रेखा; }
+  .v-मध्य-एल {ऊर्ध्वाधर-संरेखण: मध्य; }
+  .v-top-l {ऊर्ध्वाधर-संरेखण: शीर्ष; }
+  .v-btm-l {ऊर्ध्वाधर-संरेखण: नीचे; }
 }
