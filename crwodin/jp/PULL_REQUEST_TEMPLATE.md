@@ -11,7 +11,7 @@ Please provide enough information so that others can review your pull request.
 The first three fields are mandatory:
 -->
 
-**- Summary**
+**- 概要**
 
 
 <!--
@@ -19,7 +19,7 @@ Explain the **motivation** for making this change.
 What existing problem does the pull request solve?
 -->
 
-**- Test plan**
+**-テスト計画**
 
 
 <!--
@@ -27,7 +27,7 @@ Demonstrate the code is solid.
 Example: The exact commands you ran and their output, screenshots / videos if the pull request changes UI.
 -->
 
-**- Description for the changelog**
+**-変更ログの説明**
 
 
 <!--
@@ -35,4 +35,4 @@ Write a short (one line) summary that describes the changes in this
 pull request for inclusion in the changelog:
 -->
 
-**- A picture of a cute animal (not mandatory but encouraged)**
+**-かわいい動物の写真（必須ではありませんが、推奨されています）**
