@@ -1,918 +1,918 @@
-.pa0 { padding: var(--spacing-none); }
-.pa1 { padding: var(--spacing-extra-small); }
-.pa2 { padding: var(--spacing-small); }
-.pa3 { padding: var(--spacing-medium); }
-.pa4 { padding: var(--spacing-large); }
-.pa5 { padding: var(--spacing-extra-large); }
-.pa6 { padding: var(--spacing-extra-extra-large); }
-.pa7 { padding: var(--spacing-extra-extra-extra-large); }
+.pa0 {पैडिंग: var(--spacing-none); }
+.pa1 { पैडिंग: var(--spacing-extra-small); }
+.pa2 {पैडिंग: var(--spacing-small); }
+.pa3 { पैडिंग: var (--स्पेसिंग-मीडियम); }
+.pa4 { पैडिंग: var (--स्पेसिंग-लार्ज); }
+.pa5 {पैडिंग: var(--spacing-extra-large); }
+.pa6 { पैडिंग: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+.pa7 { पैडिंग: var(--spacing-extra-extra-extra-large); }
 
-.pl0 { padding-left: var(--spacing-none); }
-.pl1 { padding-left: var(--spacing-extra-small); }
-.pl2 { padding-left: var(--spacing-small); }
-.pl3 { padding-left: var(--spacing-medium); }
-.pl4 { padding-left: var(--spacing-large); }
-.pl5 { padding-left: var(--spacing-extra-large); }
-.pl6 { padding-left: var(--spacing-extra-extra-large); }
-.pl7 { padding-left: var(--spacing-extra-extra-extra-large); }
+.pl0 {पैडिंग-लेफ्ट: var(--spacing-none); }
+.pl1 { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-स्मॉल); }
+.pl2 {पैडिंग-लेफ्ट: var(--spacing-small); }
+.pl3 { पैडिंग-लेफ्ट: var (--स्पेसिंग-मीडियम); }
+.pl4 {पैडिंग-लेफ्ट: var (--स्पेसिंग-लार्ज); }
+.pl5 { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+.pl6 { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+.pl7 { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-.pr0 { padding-right: var(--spacing-none); }
-.pr1 { padding-right: var(--spacing-extra-small); }
-.pr2 { padding-right: var(--spacing-small); }
-.pr3 { padding-right: var(--spacing-medium); }
-.pr4 { padding-right: var(--spacing-large); }
-.pr5 { padding-right: var(--spacing-extra-large); }
-.pr6 { padding-right: var(--spacing-extra-extra-large); }
-.pr7 { padding-right: var(--spacing-extra-extra-extra-large); }
+.pr0 { पैडिंग-राइट: var(--spacing-none); }
+.pr1 { पैडिंग-राइट: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+.pr2 { पैडिंग-राइट: var (--स्पेसिंग-छोटा); }
+.pr3 { पैडिंग-राइट: var (--स्पेसिंग-मीडियम); }
+.pr4 {पैडिंग-राइट: var (--स्पेसिंग-लार्ज); }
+.pr5 { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+.pr6 { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+.pr7 { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-.pb0 { padding-bottom: var(--spacing-none); }
-.pb1 { padding-bottom: var(--spacing-extra-small); }
-.pb2 { padding-bottom: var(--spacing-small); }
-.pb3 { padding-bottom: var(--spacing-medium); }
-.pb4 { padding-bottom: var(--spacing-large); }
-.pb5 { padding-bottom: var(--spacing-extra-large); }
-.pb6 { padding-bottom: var(--spacing-extra-extra-large); }
-.pb7 { padding-bottom: var(--spacing-extra-extra-extra-large); }
+.pb0 {पैडिंग-बॉटम: var(--spacing-none); }
+.pb1 { पैडिंग-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+.pb2 {पैडिंग-बॉटम: var(--spacing-small); }
+.pb3 { पैडिंग-बॉटम: var (--स्पेसिंग-मीडियम); }
+.pb4 {पैडिंग-बॉटम: var (--स्पेसिंग-लार्ज); }
+.pb5 { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+.pb6 { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+.pb7 { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-.pt0 { padding-top: var(--spacing-none); }
-.pt1 { padding-top: var(--spacing-extra-small); }
-.pt2 { padding-top: var(--spacing-small); }
-.pt3 { padding-top: var(--spacing-medium); }
-.pt4 { padding-top: var(--spacing-large); }
-.pt5 { padding-top: var(--spacing-extra-large); }
-.pt6 { padding-top: var(--spacing-extra-extra-large); }
-.pt7 { padding-top: var(--spacing-extra-extra-extra-large); }
+.pt0 {पैडिंग-टॉप: var(--spacing-none); }
+.pt1 { पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+.pt2 { पैडिंग-टॉप: var (--स्पेसिंग-छोटा); }
+.pt3 { पैडिंग-टॉप: var (--स्पेसिंग-मीडियम); }
+.pt4 {पैडिंग-टॉप: var (--स्पेसिंग-लार्ज); }
+.pt5 {पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+.pt6 { पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+.pt7 { पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
 .pv0 {
-  padding-top: var(--spacing-none);
-  padding-bottom: var(--spacing-none);
+  पैडिंग-टॉप: var (--स्पेसिंग-कोई नहीं);
+  पैडिंग-बॉटम: var(--spacing-none);
 }
 .pv1 {
-  padding-top: var(--spacing-extra-small);
-  padding-bottom: var(--spacing-extra-small);
+  पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा);
+  पैडिंग-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा);
 }
 .pv2 {
-  padding-top: var(--spacing-small);
-  padding-bottom: var(--spacing-small);
+  पैडिंग-टॉप: var (--स्पेसिंग-छोटा);
+  पैडिंग-बॉटम: var (--स्पेसिंग-छोटा);
 }
 .pv3 {
-  padding-top: var(--spacing-medium);
-  padding-bottom: var(--spacing-medium);
+  पैडिंग-टॉप: var (--स्पेसिंग-मीडियम);
+  पैडिंग-बॉटम: var (--स्पेसिंग-मीडियम);
 }
 .pv4 {
-  padding-top: var(--spacing-large);
-  padding-bottom: var(--spacing-large);
+  पैडिंग-टॉप: var (--स्पेसिंग-लार्ज);
+  पैडिंग-बॉटम: var (--स्पेसिंग-लार्ज);
 }
 .pv5 {
-  padding-top: var(--spacing-extra-large);
-  padding-bottom: var(--spacing-extra-large);
+  पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+  पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
 }
 .pv6 {
-  padding-top: var(--spacing-extra-extra-large);
-  padding-bottom: var(--spacing-extra-extra-large);
+  पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
 }
 
 .pv7 {
-  padding-top: var(--spacing-extra-extra-extra-large);
-  padding-bottom: var(--spacing-extra-extra-extra-large);
+  पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+  पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
 }
 
 .ph0 {
-  padding-left: var(--spacing-none);
-  padding-right: var(--spacing-none);
+  पैडिंग-लेफ्ट: var(--spacing-none);
+  पैडिंग-राइट: var (--स्पेसिंग-कोई नहीं);
 }
 
 .ph1 {
-  padding-left: var(--spacing-extra-small);
-  padding-right: var(--spacing-extra-small);
+  पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-छोटा);
+  पैडिंग-राइट: var (--स्पेसिंग-अतिरिक्त-छोटा);
 }
 
 .ph2 {
-  padding-left: var(--spacing-small);
-  padding-right: var(--spacing-small);
+  पैडिंग-लेफ्ट: var (--स्पेसिंग-छोटा);
+  पैडिंग-राइट: var (--स्पेसिंग-छोटा);
 }
 
 .ph3 {
-  padding-left: var(--spacing-medium);
-  padding-right: var(--spacing-medium);
+  पैडिंग-लेफ्ट: var (--स्पेसिंग-मीडियम);
+  पैडिंग-राइट: var (--स्पेसिंग-मीडियम);
 }
 
 .ph4 {
-  padding-left: var(--spacing-large);
-  padding-right: var(--spacing-large);
+  पैडिंग-लेफ्ट: var (--स्पेसिंग-लार्ज);
+  पैडिंग-राइट: var (--स्पेसिंग-लार्ज);
 }
 
 .ph5 {
-  padding-left: var(--spacing-extra-large);
-  padding-right: var(--spacing-extra-large);
+  पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+  पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
 }
 
 .ph6 {
-  padding-left: var(--spacing-extra-extra-large);
-  padding-right: var(--spacing-extra-extra-large);
+  पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
 }
 
 .ph7 {
-  padding-left: var(--spacing-extra-extra-extra-large);
-  padding-right: var(--spacing-extra-extra-extra-large);
+  पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
 }
 
-.ma0  {  margin: var(--spacing-none); }
-.ma1 {  margin: var(--spacing-extra-small); }
-.ma2  {  margin: var(--spacing-small); }
-.ma3  {  margin: var(--spacing-medium); }
-.ma4  {  margin: var(--spacing-large); }
-.ma5  {  margin: var(--spacing-extra-large); }
-.ma6 {  margin: var(--spacing-extra-extra-large); }
-.ma7 { margin: var(--spacing-extra-extra-extra-large); }
+.ma0 { मार्जिन: var(--spacing-none); }
+.ma1 { मार्जिन: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+.ma2 {मार्जिन: var(--spacing-small); }
+.ma3 { मार्जिन: var (--स्पेसिंग-मीडियम); }
+.ma4 {मार्जिन: var(--spacing-large); }
+.ma5 {मार्जिन: var(--spacing-extra-large); }
+.ma6 {मार्जिन: var(--spacing-extra-extra-large); }
+.ma7 {मार्जिन: var(--spacing-extra-extra-extra-large); }
 
-.ml0  {  margin-left: var(--spacing-none); }
-.ml1 {  margin-left: var(--spacing-extra-small); }
-.ml2  {  margin-left: var(--spacing-small); }
-.ml3  {  margin-left: var(--spacing-medium); }
-.ml4  {  margin-left: var(--spacing-large); }
-.ml5  {  margin-left: var(--spacing-extra-large); }
-.ml6 {  margin-left: var(--spacing-extra-extra-large); }
-.ml7 { margin-left: var(--spacing-extra-extra-extra-large); }
+.ml0 {मार्जिन-बाएं: var(--spacing-none); }
+.ml1 {मार्जिन-बाएं: var(--spacing-extra-small); }
+.ml2 {मार्जिन-बाएं: var(--spacing-small); }
+.ml3 {मार्जिन-बाएं: var(--spacing-medium); }
+.ml4 {मार्जिन-बाएं: var(--spacing-large); }
+.ml5 {मार्जिन-बाएं: var(--spacing-extra-large); }
+.ml6 { मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+.ml7 {मार्जिन-बाएं: var(--spacing-extra-extra-extra-large); }
 
-.mr0  {  margin-right: var(--spacing-none); }
-.mr1 {  margin-right: var(--spacing-extra-small); }
-.mr2  {  margin-right: var(--spacing-small); }
-.mr3  {  margin-right: var(--spacing-medium); }
-.mr4  {  margin-right: var(--spacing-large); }
-.mr5  {  margin-right: var(--spacing-extra-large); }
-.mr6 {  margin-right: var(--spacing-extra-extra-large); }
-.mr7 { margin-right: var(--spacing-extra-extra-extra-large); }
+.mr0 {मार्जिन-दाएं: var(--spacing-none); }
+.mr1 { मार्जिन-राइट: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+.mr2 {मार्जिन-दाएं: var(--spacing-small); }
+.mr3 {मार्जिन-दाएं: var(--spacing-medium); }
+.mr4 {मार्जिन-दाएं: var(--spacing-large); }
+.mr5 {मार्जिन-दाएं: var(--spacing-extra-large); }
+.mr6 { मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+.mr7 { मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-.mb0  {  margin-bottom: var(--spacing-none); }
-.mb1 {  margin-bottom: var(--spacing-extra-small); }
-.mb2  {  margin-bottom: var(--spacing-small); }
-.mb3  {  margin-bottom: var(--spacing-medium); }
-.mb4  {  margin-bottom: var(--spacing-large); }
-.mb5  {  margin-bottom: var(--spacing-extra-large); }
-.mb6 {  margin-bottom: var(--spacing-extra-extra-large); }
-.mb7 { margin-bottom: var(--spacing-extra-extra-extra-large); }
+.mb0 {मार्जिन-बॉटम: var(--spacing-none); }
+.mb1 {मार्जिन-बॉटम: var(--spacing-extra-small); }
+.mb2 {मार्जिन-बॉटम: var(--spacing-small); }
+.mb3 {मार्जिन-बॉटम: var(--spacing-medium); }
+.mb4 { मार्जिन-बॉटम: var (--स्पेसिंग-लार्ज); }
+.mb5 { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+.mb6 { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+.mb7 { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-.mt0  {  margin-top: var(--spacing-none); }
-.mt1 {  margin-top: var(--spacing-extra-small); }
-.mt2  {  margin-top: var(--spacing-small); }
-.mt3  {  margin-top: var(--spacing-medium); }
-.mt4  {  margin-top: var(--spacing-large); }
-.mt5  {  margin-top: var(--spacing-extra-large); }
-.mt6 {  margin-top: var(--spacing-extra-extra-large); }
-.mt7 { margin-top: var(--spacing-extra-extra-extra-large); }
+.mt0 {मार्जिन-टॉप: var(--spacing-none); }
+.mt1 { मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+.mt2 {मार्जिन-टॉप: var(--spacing-small); }
+.mt3 {मार्जिन-टॉप: var(--spacing-medium); }
+.mt4 { मार्जिन-टॉप: var (--स्पेसिंग-लार्ज); }
+.mt5 { मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+.mt6 { मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+.mt7 { मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-.mv0   {
-  margin-top: var(--spacing-none);
-  margin-bottom: var(--spacing-none);
+.एमवी0 {
+  मार्जिन-टॉप: var (--स्पेसिंग-कोई नहीं);
+  मार्जिन-बॉटम: var(--spacing-none);
 }
-.mv1  {
-  margin-top: var(--spacing-extra-small);
-  margin-bottom: var(--spacing-extra-small);
+.एमवी1 {
+  मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा);
+  मार्जिन-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा);
 }
-.mv2   {
-  margin-top: var(--spacing-small);
-  margin-bottom: var(--spacing-small);
+.mv2 {
+  मार्जिन-टॉप: var (--स्पेसिंग-छोटा);
+  मार्जिन-बॉटम: var (--स्पेसिंग-छोटा);
 }
-.mv3   {
-  margin-top: var(--spacing-medium);
-  margin-bottom: var(--spacing-medium);
+.एमवी3 {
+  मार्जिन-टॉप: var (--स्पेसिंग-मीडियम);
+  मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम);
 }
-.mv4   {
-  margin-top: var(--spacing-large);
-  margin-bottom: var(--spacing-large);
+.एमवी4 {
+  मार्जिन-टॉप: var (--स्पेसिंग-लार्ज);
+  मार्जिन-बॉटम: var (--स्पेसिंग-लार्ज);
 }
-.mv5   {
-  margin-top: var(--spacing-extra-large);
-  margin-bottom: var(--spacing-extra-large);
+.एमवी5 {
+  मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+  मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
 }
-.mv6  {
-  margin-top: var(--spacing-extra-extra-large);
-  margin-bottom: var(--spacing-extra-extra-large);
+.एमवी6 {
+  मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
 }
-.mv7  {
-  margin-top: var(--spacing-extra-extra-extra-large);
-  margin-bottom: var(--spacing-extra-extra-extra-large);
-}
-
-.mh0   {
-  margin-left: var(--spacing-none);
-  margin-right: var(--spacing-none);
-}
-.mh1   {
-  margin-left: var(--spacing-extra-small);
-  margin-right: var(--spacing-extra-small);
-}
-.mh2   {
-  margin-left: var(--spacing-small);
-  margin-right: var(--spacing-small);
-}
-.mh3   {
-  margin-left: var(--spacing-medium);
-  margin-right: var(--spacing-medium);
-}
-.mh4   {
-  margin-left: var(--spacing-large);
-  margin-right: var(--spacing-large);
-}
-.mh5   {
-  margin-left: var(--spacing-extra-large);
-  margin-right: var(--spacing-extra-large);
-}
-.mh6  {
-  margin-left: var(--spacing-extra-extra-large);
-  margin-right: var(--spacing-extra-extra-large);
-}
-.mh7  {
-  margin-left: var(--spacing-extra-extra-extra-large);
-  margin-right: var(--spacing-extra-extra-extra-large);
+.एमवी7 {
+  मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+  मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
 }
 
-.mhn1 { margin-left: -var(--spacing-extra-small); margin-right: -var(--spacing-extra-small); }
-.mhn2 { margin-left: -var(--spacing-small); margin-right: -var(--spacing-small); }
-.mhn3 { margin-left: -var(--spacing-medium); margin-right: -var(--spacing-medium); }
+.mh0 {
+  मार्जिन-बाएं: var(--spacing-none);
+  मार्जिन-राइट: var (--स्पेसिंग-कोई नहीं);
+}
+.mh1 {
+  मार्जिन-बाएं: var (--स्पेसिंग-अतिरिक्त-छोटा);
+  मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-छोटा);
+}
+.mh2 {
+  मार्जिन-बाएं: var (--स्पेसिंग-छोटा);
+  मार्जिन-दाएं: var (--स्पेसिंग-छोटा);
+}
+एमएच3 {
+  मार्जिन-लेफ्ट: var (--स्पेसिंग-मीडियम);
+  मार्जिन-राइट: var (--स्पेसिंग-मीडियम);
+}
+.mh4 {
+  मार्जिन-लेफ्ट: var (--स्पेसिंग-लार्ज);
+  मार्जिन-राइट: var (--स्पेसिंग-लार्ज);
+}
+एमएच5 {
+  मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+  मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+}
+.mh6 {
+  मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+}
+.mh7 {
+  मार्जिन-बाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+  मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+}
 
-@media (--breakpoint-not-small) {
-  .pa0-ns  {  padding: var(--spacing-none); }
-  .pa1-ns {  padding: var(--spacing-extra-small); }
-  .pa2-ns  {  padding: var(--spacing-small); }
-  .pa3-ns  {  padding: var(--spacing-medium); }
-  .pa4-ns  {  padding: var(--spacing-large); }
-  .pa5-ns  {  padding: var(--spacing-extra-large); }
-  .pa6-ns {  padding: var(--spacing-extra-extra-large); }
-  .pa7-ns { padding: var(--spacing-extra-extra-extra-large); }
+.mhn1 { मार्जिन-बाएं: -var(--spacing-extra-small); मार्जिन-दाएं: -वर (--स्पेसिंग-अतिरिक्त-छोटा); }
+.mhn2 {मार्जिन-बाएं: -var(--spacing-small); मार्जिन-दाएं: -वर (--स्पेसिंग-छोटा); }
+.mhn3 {मार्जिन-बाएं: -var(--spacing-medium); मार्जिन-दाएं: -var(--spacing-medium); }
 
-  .pl0-ns  {  padding-left: var(--spacing-none); }
-  .pl1-ns {  padding-left: var(--spacing-extra-small); }
-  .pl2-ns  {  padding-left: var(--spacing-small); }
-  .pl3-ns  {  padding-left: var(--spacing-medium); }
-  .pl4-ns  {  padding-left: var(--spacing-large); }
-  .pl5-ns  {  padding-left: var(--spacing-extra-large); }
-  .pl6-ns {  padding-left: var(--spacing-extra-extra-large); }
-  .pl7-ns { padding-left: var(--spacing-extra-extra-extra-large); }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .pa0-ns { पैडिंग: var(--spacing-none); }
+  .pa1-ns { पैडिंग: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pa2-ns { पैडिंग: var(--spacing-small); }
+  .pa3-ns { पैडिंग: var(--spacing-medium); }
+  .pa4-ns { पैडिंग: var (--स्पेसिंग-लार्ज); }
+  .pa5-ns { पैडिंग: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pa6-ns { पैडिंग: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pa7-ns { पैडिंग: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-  .pr0-ns  {  padding-right: var(--spacing-none); }
-  .pr1-ns {  padding-right: var(--spacing-extra-small); }
-  .pr2-ns  {  padding-right: var(--spacing-small); }
-  .pr3-ns  {  padding-right: var(--spacing-medium); }
-  .pr4-ns  {  padding-right: var(--spacing-large); }
-  .pr5-ns {   padding-right: var(--spacing-extra-large); }
-  .pr6-ns {  padding-right: var(--spacing-extra-extra-large); }
-  .pr7-ns { padding-right: var(--spacing-extra-extra-extra-large); }
+  .pl0-ns { पैडिंग-लेफ्ट: var(--spacing-none); }
+  .pl1-ns { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-स्मॉल); }
+  .pl2-ns { पैडिंग-लेफ्ट: var (--स्पेसिंग-स्मॉल); }
+  .pl3-ns { पैडिंग-लेफ्ट: var (--स्पेसिंग-मीडियम); }
+  .pl4-ns { पैडिंग-लेफ्ट: var (--स्पेसिंग-लार्ज); }
+  .pl5-ns { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pl6-ns { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pl7-ns { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-  .pb0-ns  {  padding-bottom: var(--spacing-none); }
-  .pb1-ns {  padding-bottom: var(--spacing-extra-small); }
-  .pb2-ns  {  padding-bottom: var(--spacing-small); }
-  .pb3-ns  {  padding-bottom: var(--spacing-medium); }
-  .pb4-ns  {  padding-bottom: var(--spacing-large); }
-  .pb5-ns  {  padding-bottom: var(--spacing-extra-large); }
-  .pb6-ns {  padding-bottom: var(--spacing-extra-extra-large); }
-  .pb7-ns { padding-bottom: var(--spacing-extra-extra-extra-large); }
+  .pr0-ns { पैडिंग-राइट: var(--spacing-none); }
+  .pr1-ns { पैडिंग-राइट: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pr2-ns { पैडिंग-राइट: var (--स्पेसिंग-छोटा); }
+  .pr3-ns { पैडिंग-राइट: var (--स्पेसिंग-मीडियम); }
+  .pr4-ns { पैडिंग-राइट: var (--स्पेसिंग-लार्ज); }
+  .pr5-ns { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pr6-ns { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pr7-ns { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-  .pt0-ns  {  padding-top: var(--spacing-none); }
-  .pt1-ns {  padding-top: var(--spacing-extra-small); }
-  .pt2-ns  {  padding-top: var(--spacing-small); }
-  .pt3-ns  {  padding-top: var(--spacing-medium); }
-  .pt4-ns  {  padding-top: var(--spacing-large); }
-  .pt5-ns  {  padding-top: var(--spacing-extra-large); }
-  .pt6-ns {  padding-top: var(--spacing-extra-extra-large); }
-  .pt7-ns { padding-top: var(--spacing-extra-extra-extra-large); }
+  .pb0-ns { पैडिंग-बॉटम: var(--spacing-none); }
+  .pb1-ns { पैडिंग-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pb2-ns { पैडिंग-बॉटम: var (--स्पेसिंग-छोटा); }
+  .pb3-ns { पैडिंग-बॉटम: var (--स्पेसिंग-मीडियम); }
+  .pb4-ns { पैडिंग-बॉटम: var (--स्पेसिंग-लार्ज); }
+  .pb5-ns { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pb6-ns { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pb7-ns { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-  .pv0-ns {
-    padding-top: var(--spacing-none);
-    padding-bottom: var(--spacing-none);
+  .pt0-ns { पैडिंग-टॉप: var(--spacing-none); }
+  .pt1-ns { पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pt2-ns { पैडिंग-टॉप: var (--स्पेसिंग-छोटा); }
+  .pt3-ns { पैडिंग-टॉप: var (--स्पेसिंग-मीडियम); }
+  .pt4-ns { पैडिंग-टॉप: var (--स्पेसिंग-लार्ज); }
+  .pt5-ns { पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pt6-ns { पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pt7-ns { पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा); }
+
+  .pv0-एनएस {
+    पैडिंग-टॉप: var (--स्पेसिंग-कोई नहीं);
+    पैडिंग-बॉटम: var(--spacing-none);
   }
   .pv1-ns {
-    padding-top: var(--spacing-extra-small);
-    padding-bottom: var(--spacing-extra-small);
+    पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा);
+    पैडिंग-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा);
   }
-  .pv2-ns {
-    padding-top: var(--spacing-small);
-    padding-bottom: var(--spacing-small);
+  .pv2-एनएस {
+    पैडिंग-टॉप: var (--स्पेसिंग-छोटा);
+    पैडिंग-बॉटम: var (--स्पेसिंग-छोटा);
   }
-  .pv3-ns {
-    padding-top: var(--spacing-medium);
-    padding-bottom: var(--spacing-medium);
+  .pv3-एनएस {
+    पैडिंग-टॉप: var (--स्पेसिंग-मीडियम);
+    पैडिंग-बॉटम: var (--स्पेसिंग-मीडियम);
   }
-  .pv4-ns {
-    padding-top: var(--spacing-large);
-    padding-bottom: var(--spacing-large);
+  .pv4-एनएस {
+    पैडिंग-टॉप: var (--स्पेसिंग-लार्ज);
+    पैडिंग-बॉटम: var (--स्पेसिंग-लार्ज);
   }
-  .pv5-ns {
-    padding-top: var(--spacing-extra-large);
-    padding-bottom: var(--spacing-extra-large);
+  .pv5-एनएस {
+    पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
   }
-  .pv6-ns {
-    padding-top: var(--spacing-extra-extra-large);
-    padding-bottom: var(--spacing-extra-extra-large);
+  .pv6-एनएस {
+    पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
-  .pv7-ns {
-    padding-top: var(--spacing-extra-extra-extra-large);
-    padding-bottom: var(--spacing-extra-extra-extra-large);
+  .pv7-एनएस {
+    पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+    पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
-  .ph0-ns {
-    padding-left: var(--spacing-none);
-    padding-right: var(--spacing-none);
+  .ph0-एनएस {
+    पैडिंग-लेफ्ट: var(--spacing-none);
+    पैडिंग-राइट: var (--स्पेसिंग-कोई नहीं);
   }
   .ph1-ns {
-    padding-left: var(--spacing-extra-small);
-    padding-right: var(--spacing-extra-small);
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-छोटा);
+    पैडिंग-राइट: var (--स्पेसिंग-अतिरिक्त-छोटा);
   }
-  .ph2-ns {
-    padding-left: var(--spacing-small);
-    padding-right: var(--spacing-small);
+  .ph2-एनएस {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-छोटा);
+    पैडिंग-राइट: var (--स्पेसिंग-छोटा);
   }
-  .ph3-ns {
-    padding-left: var(--spacing-medium);
-    padding-right: var(--spacing-medium);
+  .ph3-एनएस {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-मीडियम);
+    पैडिंग-राइट: var (--स्पेसिंग-मीडियम);
   }
-  .ph4-ns {
-    padding-left: var(--spacing-large);
-    padding-right: var(--spacing-large);
+  .ph4-एनएस {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-लार्ज);
   }
-  .ph5-ns {
-    padding-left: var(--spacing-extra-large);
-    padding-right: var(--spacing-extra-large);
+  .ph5-एनएस {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
   }
-  .ph6-ns {
-    padding-left: var(--spacing-extra-extra-large);
-    padding-right: var(--spacing-extra-extra-large);
+  .ph6-एनएस {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
-  .ph7-ns {
-    padding-left: var(--spacing-extra-extra-extra-large);
-    padding-right: var(--spacing-extra-extra-extra-large);
-  }
-
-  .ma0-ns  {  margin: var(--spacing-none); }
-  .ma1-ns {  margin: var(--spacing-extra-small); }
-  .ma2-ns  {  margin: var(--spacing-small); }
-  .ma3-ns  {  margin: var(--spacing-medium); }
-  .ma4-ns  {  margin: var(--spacing-large); }
-  .ma5-ns  {  margin: var(--spacing-extra-large); }
-  .ma6-ns {  margin: var(--spacing-extra-extra-large); }
-  .ma7-ns { margin: var(--spacing-extra-extra-extra-large); }
-
-  .ml0-ns  {  margin-left: var(--spacing-none); }
-  .ml1-ns {  margin-left: var(--spacing-extra-small); }
-  .ml2-ns  {  margin-left: var(--spacing-small); }
-  .ml3-ns  {  margin-left: var(--spacing-medium); }
-  .ml4-ns  {  margin-left: var(--spacing-large); }
-  .ml5-ns  {  margin-left: var(--spacing-extra-large); }
-  .ml6-ns {  margin-left: var(--spacing-extra-extra-large); }
-  .ml7-ns { margin-left: var(--spacing-extra-extra-extra-large); }
-
-  .mr0-ns  {  margin-right: var(--spacing-none); }
-  .mr1-ns {  margin-right: var(--spacing-extra-small); }
-  .mr2-ns  {  margin-right: var(--spacing-small); }
-  .mr3-ns  {  margin-right: var(--spacing-medium); }
-  .mr4-ns  {  margin-right: var(--spacing-large); }
-  .mr5-ns  {  margin-right: var(--spacing-extra-large); }
-  .mr6-ns {  margin-right: var(--spacing-extra-extra-large); }
-  .mr7-ns { margin-right: var(--spacing-extra-extra-extra-large); }
-
-  .mb0-ns  {  margin-bottom: var(--spacing-none); }
-  .mb1-ns {  margin-bottom: var(--spacing-extra-small); }
-  .mb2-ns  {  margin-bottom: var(--spacing-small); }
-  .mb3-ns  {  margin-bottom: var(--spacing-medium); }
-  .mb4-ns  {  margin-bottom: var(--spacing-large); }
-  .mb5-ns  {  margin-bottom: var(--spacing-extra-large); }
-  .mb6-ns {  margin-bottom: var(--spacing-extra-extra-large); }
-  .mb7-ns { margin-bottom: var(--spacing-extra-extra-extra-large); }
-
-  .mt0-ns  {  margin-top: var(--spacing-none); }
-  .mt1-ns {  margin-top: var(--spacing-extra-small); }
-  .mt2-ns  {  margin-top: var(--spacing-small); }
-  .mt3-ns  {  margin-top: var(--spacing-medium); }
-  .mt4-ns  {  margin-top: var(--spacing-large); }
-  .mt5-ns  {  margin-top: var(--spacing-extra-large); }
-  .mt6-ns {  margin-top: var(--spacing-extra-extra-large); }
-  .mt7-ns { margin-top: var(--spacing-extra-extra-extra-large); }
-
-  .mv0-ns   {
-    margin-top: var(--spacing-none);
-    margin-bottom: var(--spacing-none);
-  }
-  .mv1-ns  {
-    margin-top: var(--spacing-extra-small);
-    margin-bottom: var(--spacing-extra-small);
-  }
-  .mv2-ns   {
-    margin-top: var(--spacing-small);
-    margin-bottom: var(--spacing-small);
-  }
-  .mv3-ns   {
-    margin-top: var(--spacing-medium);
-    margin-bottom: var(--spacing-medium);
-  }
-  .mv4-ns   {
-    margin-top: var(--spacing-large);
-    margin-bottom: var(--spacing-large);
-  }
-  .mv5-ns   {
-    margin-top: var(--spacing-extra-large);
-    margin-bottom: var(--spacing-extra-large);
-  }
-  .mv6-ns  {
-    margin-top: var(--spacing-extra-extra-large);
-    margin-bottom: var(--spacing-extra-extra-large);
-  }
-  .mv7-ns  {
-    margin-top: var(--spacing-extra-extra-extra-large);
-    margin-bottom: var(--spacing-extra-extra-extra-large);
+  .ph7-एनएस {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
 
-  .mh0-ns   {
-    margin-left: var(--spacing-none);
-    margin-right: var(--spacing-none);
+  .ma0-ns { मार्जिन: var(--spacing-none); }
+  .ma1-ns {मार्जिन: var(--spacing-extra-small); }
+  .ma2-ns { मार्जिन: var(--spacing-small); }
+  .ma3-ns { मार्जिन: var(--spacing-medium); }
+  .ma4-ns {मार्जिन: var(--spacing-large); }
+  .ma5-ns { मार्जिन: var(--spacing-extra-large); }
+  .ma6-ns {मार्जिन: var(--spacing-extra-extra-large); }
+  .ma7-ns { मार्जिन: var(--spacing-extra-extra-extra-large); }
+
+  .ml0-ns {मार्जिन-बाएं: var(--spacing-none); }
+  .ml1-ns {मार्जिन-बाएं: var(--spacing-extra-small); }
+  .ml2-ns {मार्जिन-बाएं: var(--spacing-small); }
+  .ml3-ns {मार्जिन-बाएं: var(--spacing-medium); }
+  .ml4-ns {मार्जिन-बाएं: var(--spacing-large); }
+  .ml5-ns { मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .ml6-ns { मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .ml7-ns {मार्जिन-बाएं: var(--spacing-extra-extra-extra-large); }
+
+  .mr0-ns { मार्जिन-दाएं: var(--spacing-none); }
+  .mr1-ns {मार्जिन-दाएं: var(--spacing-extra-small); }
+  .mr2-ns { मार्जिन-राइट: var (--स्पेसिंग-स्मॉल); }
+  .mr3-ns {मार्जिन-दाएं: var(--spacing-medium); }
+  .mr4-ns {मार्जिन-दाएं: var(--spacing-large); }
+  .mr5-ns { मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .mr6-ns { मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .mr7-ns { मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा); }
+
+  .mb0-ns { मार्जिन-बॉटम: var(--spacing-none); }
+  .mb1-ns {मार्जिन-बॉटम: var(--spacing-extra-small); }
+  .mb2-ns { मार्जिन-बॉटम: var (--स्पेसिंग-स्मॉल); }
+  .mb3-ns { मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम); }
+  .mb4-ns { मार्जिन-बॉटम: var (--स्पेसिंग-लार्ज); }
+  .mb5-ns { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .mb6-ns { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .mb7-ns { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+
+  .mt0-ns { मार्जिन-टॉप: var(--spacing-none); }
+  .mt1-ns { मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .mt2-ns { मार्जिन-टॉप: var(--spacing-small); }
+  .mt3-ns { मार्जिन-टॉप: var (--स्पेसिंग-मीडियम); }
+  .mt4-ns { मार्जिन-टॉप: var (--स्पेसिंग-लार्ज); }
+  .mt5-ns { मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .mt6-ns { मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .mt7-ns { मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा); }
+
+  .mv0-एनएस {
+    मार्जिन-टॉप: var (--स्पेसिंग-कोई नहीं);
+    मार्जिन-बॉटम: var(--spacing-none);
   }
-  .mh1-ns   {
-    margin-left: var(--spacing-extra-small);
-    margin-right: var(--spacing-extra-small);
+  .एमवी1-एनएस {
+    मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा);
+    मार्जिन-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा);
   }
-  .mh2-ns   {
-    margin-left: var(--spacing-small);
-    margin-right: var(--spacing-small);
+  .mv2-एनएस {
+    मार्जिन-टॉप: var (--स्पेसिंग-छोटा);
+    मार्जिन-बॉटम: var (--स्पेसिंग-छोटा);
   }
-  .mh3-ns   {
-    margin-left: var(--spacing-medium);
-    margin-right: var(--spacing-medium);
+  .mv3-एनएस {
+    मार्जिन-टॉप: var (--स्पेसिंग-मीडियम);
+    मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम);
   }
-  .mh4-ns   {
-    margin-left: var(--spacing-large);
-    margin-right: var(--spacing-large);
+  .एमवी4-एनएस {
+    मार्जिन-टॉप: var (--स्पेसिंग-लार्ज);
+    मार्जिन-बॉटम: var (--स्पेसिंग-लार्ज);
   }
-  .mh5-ns   {
-    margin-left: var(--spacing-extra-large);
-    margin-right: var(--spacing-extra-large);
+  .mv5-एनएस {
+    मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
   }
-  .mh6-ns  {
-    margin-left: var(--spacing-extra-extra-large);
-    margin-right: var(--spacing-extra-extra-large);
+  .mv6-एनएस {
+    मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
-  .mh7-ns  {
-    margin-left: var(--spacing-extra-extra-extra-large);
-    margin-right: var(--spacing-extra-extra-extra-large);
+  .mv7-एनएस {
+    मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+    मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
 
-  .mhn1-ns { margin-left: -var(--spacing-extra-small); margin-right: -var(--spacing-extra-small); }
-  .mhn2-ns { margin-left: -var(--spacing-small); margin-right: -var(--spacing-small); }
-  .mhn3-ns { margin-left: -var(--spacing-medium); margin-right: -var(--spacing-medium); }
-
-}
-
-@media (--breakpoint-medium) {
-  .pa0-m  {  padding: var(--spacing-none); }
-  .pa1-m {  padding: var(--spacing-extra-small); }
-  .pa2-m  {  padding: var(--spacing-small); }
-  .pa3-m  {  padding: var(--spacing-medium); }
-  .pa4-m  {  padding: var(--spacing-large); }
-  .pa5-m  {  padding: var(--spacing-extra-large); }
-  .pa6-m {  padding: var(--spacing-extra-extra-large); }
-  .pa7-m { padding: var(--spacing-extra-extra-extra-large); }
-
-  .pl0-m  {  padding-left: var(--spacing-none); }
-  .pl1-m {  padding-left: var(--spacing-extra-small); }
-  .pl2-m  {  padding-left: var(--spacing-small); }
-  .pl3-m  {  padding-left: var(--spacing-medium); }
-  .pl4-m  {  padding-left: var(--spacing-large); }
-  .pl5-m  {  padding-left: var(--spacing-extra-large); }
-  .pl6-m {  padding-left: var(--spacing-extra-extra-large); }
-  .pl7-m { padding-left: var(--spacing-extra-extra-extra-large); }
-
-  .pr0-m  {  padding-right: var(--spacing-none); }
-  .pr1-m {  padding-right: var(--spacing-extra-small); }
-  .pr2-m  {  padding-right: var(--spacing-small); }
-  .pr3-m  {  padding-right: var(--spacing-medium); }
-  .pr4-m  {  padding-right: var(--spacing-large); }
-  .pr5-m  {  padding-right: var(--spacing-extra-large); }
-  .pr6-m {  padding-right: var(--spacing-extra-extra-large); }
-  .pr7-m { padding-right: var(--spacing-extra-extra-extra-large); }
-
-  .pb0-m  {  padding-bottom: var(--spacing-none); }
-  .pb1-m {  padding-bottom: var(--spacing-extra-small); }
-  .pb2-m  {  padding-bottom: var(--spacing-small); }
-  .pb3-m  {  padding-bottom: var(--spacing-medium); }
-  .pb4-m  {  padding-bottom: var(--spacing-large); }
-  .pb5-m  {  padding-bottom: var(--spacing-extra-large); }
-  .pb6-m {  padding-bottom: var(--spacing-extra-extra-large); }
-  .pb7-m { padding-bottom: var(--spacing-extra-extra-extra-large); }
-
-  .pt0-m  {  padding-top: var(--spacing-none); }
-  .pt1-m {  padding-top: var(--spacing-extra-small); }
-  .pt2-m  {  padding-top: var(--spacing-small); }
-  .pt3-m  {  padding-top: var(--spacing-medium); }
-  .pt4-m  {  padding-top: var(--spacing-large); }
-  .pt5-m  {  padding-top: var(--spacing-extra-large); }
-  .pt6-m {  padding-top: var(--spacing-extra-extra-large); }
-  .pt7-m { padding-top: var(--spacing-extra-extra-extra-large); }
-
-  .pv0-m {
-    padding-top: var(--spacing-none);
-    padding-bottom: var(--spacing-none);
+  .mh0-एनएस {
+    मार्जिन-बाएं: var(--spacing-none);
+    मार्जिन-राइट: var (--स्पेसिंग-कोई नहीं);
   }
-  .pv1-m {
-    padding-top: var(--spacing-extra-small);
-    padding-bottom: var(--spacing-extra-small);
+  .mh1-ns {
+    मार्जिन-बाएं: var (--स्पेसिंग-अतिरिक्त-छोटा);
+    मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-छोटा);
   }
-  .pv2-m {
-    padding-top: var(--spacing-small);
-    padding-bottom: var(--spacing-small);
+  .mh2-एनएस {
+    मार्जिन-बाएं: var (--स्पेसिंग-छोटा);
+    मार्जिन-दाएं: var (--स्पेसिंग-छोटा);
   }
-  .pv3-m {
-    padding-top: var(--spacing-medium);
-    padding-bottom: var(--spacing-medium);
+  .mh3-एनएस {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-मीडियम);
+    मार्जिन-राइट: var (--स्पेसिंग-मीडियम);
   }
-  .pv4-m {
-    padding-top: var(--spacing-large);
-    padding-bottom: var(--spacing-large);
+  .mh4-एनएस {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-लार्ज);
+    मार्जिन-राइट: var (--स्पेसिंग-लार्ज);
   }
-  .pv5-m {
-    padding-top: var(--spacing-extra-large);
-    padding-bottom: var(--spacing-extra-large);
+  .mh5-एनएस {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
   }
-  .pv6-m {
-    padding-top: var(--spacing-extra-extra-large);
-    padding-bottom: var(--spacing-extra-extra-large);
+  .mh6-एनएस {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
-  .pv7-m {
-    padding-top: var(--spacing-extra-extra-extra-large);
-    padding-bottom: var(--spacing-extra-extra-extra-large);
+  .mh7-एनएस {
+    मार्जिन-बाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+    मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
   }
 
-  .ph0-m {
-    padding-left: var(--spacing-none);
-    padding-right: var(--spacing-none);
-  }
-  .ph1-m {
-    padding-left: var(--spacing-extra-small);
-    padding-right: var(--spacing-extra-small);
-  }
-  .ph2-m {
-    padding-left: var(--spacing-small);
-    padding-right: var(--spacing-small);
-  }
-  .ph3-m {
-    padding-left: var(--spacing-medium);
-    padding-right: var(--spacing-medium);
-  }
-  .ph4-m {
-    padding-left: var(--spacing-large);
-    padding-right: var(--spacing-large);
-  }
-  .ph5-m {
-    padding-left: var(--spacing-extra-large);
-    padding-right: var(--spacing-extra-large);
-  }
-  .ph6-m {
-    padding-left: var(--spacing-extra-extra-large);
-    padding-right: var(--spacing-extra-extra-large);
-  }
-  .ph7-m {
-    padding-left: var(--spacing-extra-extra-extra-large);
-    padding-right: var(--spacing-extra-extra-extra-large);
-  }
-
-  .ma0-m  {  margin: var(--spacing-none); }
-  .ma1-m {  margin: var(--spacing-extra-small); }
-  .ma2-m  {  margin: var(--spacing-small); }
-  .ma3-m  {  margin: var(--spacing-medium); }
-  .ma4-m  {  margin: var(--spacing-large); }
-  .ma5-m  {  margin: var(--spacing-extra-large); }
-  .ma6-m {  margin: var(--spacing-extra-extra-large); }
-  .ma7-m { margin: var(--spacing-extra-extra-extra-large); }
-
-  .ml0-m  {  margin-left: var(--spacing-none); }
-  .ml1-m {  margin-left: var(--spacing-extra-small); }
-  .ml2-m  {  margin-left: var(--spacing-small); }
-  .ml3-m  {  margin-left: var(--spacing-medium); }
-  .ml4-m  {  margin-left: var(--spacing-large); }
-  .ml5-m  {  margin-left: var(--spacing-extra-large); }
-  .ml6-m {  margin-left: var(--spacing-extra-extra-large); }
-  .ml7-m { margin-left: var(--spacing-extra-extra-extra-large); }
-
-  .mr0-m  {  margin-right: var(--spacing-none); }
-  .mr1-m {  margin-right: var(--spacing-extra-small); }
-  .mr2-m  {  margin-right: var(--spacing-small); }
-  .mr3-m  {  margin-right: var(--spacing-medium); }
-  .mr4-m  {  margin-right: var(--spacing-large); }
-  .mr5-m  {  margin-right: var(--spacing-extra-large); }
-  .mr6-m {  margin-right: var(--spacing-extra-extra-large); }
-  .mr7-m { margin-right: var(--spacing-extra-extra-extra-large); }
-
-  .mb0-m  {  margin-bottom: var(--spacing-none); }
-  .mb1-m {  margin-bottom: var(--spacing-extra-small); }
-  .mb2-m  {  margin-bottom: var(--spacing-small); }
-  .mb3-m  {  margin-bottom: var(--spacing-medium); }
-  .mb4-m  {  margin-bottom: var(--spacing-large); }
-  .mb5-m  {  margin-bottom: var(--spacing-extra-large); }
-  .mb6-m {  margin-bottom: var(--spacing-extra-extra-large); }
-  .mb7-m { margin-bottom: var(--spacing-extra-extra-extra-large); }
-
-  .mt0-m  {  margin-top: var(--spacing-none); }
-  .mt1-m {  margin-top: var(--spacing-extra-small); }
-  .mt2-m  {  margin-top: var(--spacing-small); }
-  .mt3-m  {  margin-top: var(--spacing-medium); }
-  .mt4-m  {  margin-top: var(--spacing-large); }
-  .mt5-m  {  margin-top: var(--spacing-extra-large); }
-  .mt6-m {  margin-top: var(--spacing-extra-extra-large); }
-  .mt7-m { margin-top: var(--spacing-extra-extra-extra-large); }
-
-  .mv0-m {
-    margin-top: var(--spacing-none);
-    margin-bottom: var(--spacing-none);
-  }
-  .mv1-m {
-    margin-top: var(--spacing-extra-small);
-    margin-bottom: var(--spacing-extra-small);
-  }
-  .mv2-m {
-    margin-top: var(--spacing-small);
-    margin-bottom: var(--spacing-small);
-  }
-  .mv3-m {
-    margin-top: var(--spacing-medium);
-    margin-bottom: var(--spacing-medium);
-  }
-  .mv4-m {
-    margin-top: var(--spacing-large);
-    margin-bottom: var(--spacing-large);
-  }
-  .mv5-m {
-    margin-top: var(--spacing-extra-large);
-    margin-bottom: var(--spacing-extra-large);
-  }
-  .mv6-m {
-    margin-top: var(--spacing-extra-extra-large);
-    margin-bottom: var(--spacing-extra-extra-large);
-  }
-  .mv7-m {
-    margin-top: var(--spacing-extra-extra-extra-large);
-    margin-bottom: var(--spacing-extra-extra-extra-large);
-  }
-
-  .mh0-m {
-    margin-left: var(--spacing-none);
-    margin-right: var(--spacing-none);
-  }
-  .mh1-m {
-    margin-left: var(--spacing-extra-small);
-    margin-right: var(--spacing-extra-small);
-  }
-  .mh2-m {
-    margin-left: var(--spacing-small);
-    margin-right: var(--spacing-small);
-  }
-  .mh3-m {
-    margin-left: var(--spacing-medium);
-    margin-right: var(--spacing-medium);
-  }
-  .mh4-m {
-    margin-left: var(--spacing-large);
-    margin-right: var(--spacing-large);
-  }
-  .mh5-m {
-    margin-left: var(--spacing-extra-large);
-    margin-right: var(--spacing-extra-large);
-  }
-  .mh6-m {
-    margin-left: var(--spacing-extra-extra-large);
-    margin-right: var(--spacing-extra-extra-large);
-  }
-  .mh7-m {
-    margin-left: var(--spacing-extra-extra-extra-large);
-    margin-right: var(--spacing-extra-extra-extra-large);
-  }
-
-  .mhn1-m { margin-left: -var(--spacing-extra-small); margin-right: -var(--spacing-extra-small); }
-  .mhn2-m { margin-left: -var(--spacing-small); margin-right: -var(--spacing-small); }
-  .mhn3-m { margin-left: -var(--spacing-medium); margin-right: -var(--spacing-medium); }
+  .mhn1-ns { मार्जिन-लेफ्ट: -var(--spacing-extra-small); मार्जिन-दाएं: -वर (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .mhn2-ns { मार्जिन-बाएं: -var(--spacing-small); मार्जिन-दाएं: -वर (--स्पेसिंग-छोटा); }
+  .mhn3-ns { मार्जिन-लेफ्ट: -var(--spacing-medium); मार्जिन-दाएं: -var(--spacing-medium); }
 
 }
 
-@media (--breakpoint-large) {
-  .pa0-l  {  padding: var(--spacing-none); }
-  .pa1-l {  padding: var(--spacing-extra-small); }
-  .pa2-l  {  padding: var(--spacing-small); }
-  .pa3-l  {  padding: var(--spacing-medium); }
-  .pa4-l  {  padding: var(--spacing-large); }
-  .pa5-l  {  padding: var(--spacing-extra-large); }
-  .pa6-l {  padding: var(--spacing-extra-extra-large); }
-  .pa7-l { padding: var(--spacing-extra-extra-extra-large); }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .pa0-m { पैडिंग: var(--spacing-none); }
+  .pa1-m { पैडिंग: var(--spacing-extra-small); }
+  .pa2-m { पैडिंग: var(--spacing-small); }
+  .pa3-m {पैडिंग: var(--spacing-medium); }
+  .pa4-m { पैडिंग: var(--spacing-large); }
+  .pa5-m { पैडिंग: var(--spacing-extra-large); }
+  .pa6-m { पैडिंग: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pa7-m { पैडिंग: var(--spacing-extra-extra-extra-large); }
 
-  .pl0-l  {  padding-left: var(--spacing-none); }
-  .pl1-l {  padding-left: var(--spacing-extra-small); }
-  .pl2-l  {  padding-left: var(--spacing-small); }
-  .pl3-l  {  padding-left: var(--spacing-medium); }
-  .pl4-l  {  padding-left: var(--spacing-large); }
-  .pl5-l  {  padding-left: var(--spacing-extra-large); }
-  .pl6-l {  padding-left: var(--spacing-extra-extra-large); }
-  .pl7-l { padding-left: var(--spacing-extra-extra-extra-large); }
+  .pl0-m { पैडिंग-लेफ्ट: var(--spacing-none); }
+  .pl1-m { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-स्मॉल); }
+  .pl2-m { पैडिंग-लेफ्ट: var(--spacing-small); }
+  .pl3-m { पैडिंग-लेफ्ट: var (--स्पेसिंग-मीडियम); }
+  .pl4-m { पैडिंग-लेफ्ट: var (--स्पेसिंग-लार्ज); }
+  .pl5-m { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pl6-m { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pl7-m { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-  .pr0-l  {  padding-right: var(--spacing-none); }
-  .pr1-l {  padding-right: var(--spacing-extra-small); }
-  .pr2-l  {  padding-right: var(--spacing-small); }
-  .pr3-l  {  padding-right: var(--spacing-medium); }
-  .pr4-l  {  padding-right: var(--spacing-large); }
-  .pr5-l  {  padding-right: var(--spacing-extra-large); }
-  .pr6-l {  padding-right: var(--spacing-extra-extra-large); }
-  .pr7-l { padding-right: var(--spacing-extra-extra-extra-large); }
+  .pr0-m { पैडिंग-राइट: var(--spacing-none); }
+  .pr1-m { पैडिंग-राइट: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pr2-m { पैडिंग-राइट: var (--स्पेसिंग-छोटा); }
+  .pr3-m { पैडिंग-राइट: var (--स्पेसिंग-मीडियम); }
+  .pr4-m { पैडिंग-राइट: var (--स्पेसिंग-लार्ज); }
+  .pr5-m { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pr6-m { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pr7-m { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-  .pb0-l  {  padding-bottom: var(--spacing-none); }
-  .pb1-l {  padding-bottom: var(--spacing-extra-small); }
-  .pb2-l  {  padding-bottom: var(--spacing-small); }
-  .pb3-l  {  padding-bottom: var(--spacing-medium); }
-  .pb4-l  {  padding-bottom: var(--spacing-large); }
-  .pb5-l  {  padding-bottom: var(--spacing-extra-large); }
-  .pb6-l {  padding-bottom: var(--spacing-extra-extra-large); }
-  .pb7-l { padding-bottom: var(--spacing-extra-extra-extra-large); }
+  .pb0-m { पैडिंग-बॉटम: var(--spacing-none); }
+  .pb1-m { पैडिंग-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pb2-m { पैडिंग-बॉटम: var (--स्पेसिंग-छोटा); }
+  .pb3-m { पैडिंग-बॉटम: var (--स्पेसिंग-मीडियम); }
+  .pb4-m { पैडिंग-बॉटम: var (--स्पेसिंग-लार्ज); }
+  .pb5-m { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pb6-m { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pb7-m { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-  .pt0-l  {  padding-top: var(--spacing-none); }
-  .pt1-l {  padding-top: var(--spacing-extra-small); }
-  .pt2-l  {  padding-top: var(--spacing-small); }
-  .pt3-l  {  padding-top: var(--spacing-medium); }
-  .pt4-l  {  padding-top: var(--spacing-large); }
-  .pt5-l  {  padding-top: var(--spacing-extra-large); }
-  .pt6-l {  padding-top: var(--spacing-extra-extra-large); }
-  .pt7-l { padding-top: var(--spacing-extra-extra-extra-large); }
+  .pt0-m { पैडिंग-टॉप: var(--spacing-none); }
+  .pt1-m { पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pt2-m { पैडिंग-टॉप: var (--स्पेसिंग-छोटा); }
+  .pt3-m { पैडिंग-टॉप: var (--स्पेसिंग-मीडियम); }
+  .pt4-m { पैडिंग-टॉप: var (--स्पेसिंग-लार्ज); }
+  .pt5-m { पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pt6-m { पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pt7-m { पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
 
-  .pv0-l {
-    padding-top: var(--spacing-none);
-    padding-bottom: var(--spacing-none);
+  .pv0-एम {
+    पैडिंग-टॉप: var (--स्पेसिंग-कोई नहीं);
+    पैडिंग-बॉटम: var(--spacing-none);
+  }
+  .pv1-एम {
+    पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा);
+    पैडिंग-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा);
+  }
+  .pv2-एम {
+    पैडिंग-टॉप: var (--स्पेसिंग-छोटा);
+    पैडिंग-बॉटम: var (--स्पेसिंग-छोटा);
+  }
+  .pv3-एम {
+    पैडिंग-टॉप: var (--स्पेसिंग-मीडियम);
+    पैडिंग-बॉटम: var (--स्पेसिंग-मीडियम);
+  }
+  .pv4-एम {
+    पैडिंग-टॉप: var (--स्पेसिंग-लार्ज);
+    पैडिंग-बॉटम: var (--स्पेसिंग-लार्ज);
+  }
+  .pv5-एम {
+    पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+  }
+  .pv6-एम {
+    पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  }
+  .pv7-एम {
+    पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+    पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  }
+
+  .ph0-एम {
+    पैडिंग-लेफ्ट: var(--spacing-none);
+    पैडिंग-राइट: var (--स्पेसिंग-कोई नहीं);
+  }
+  .ph1-एम {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-छोटा);
+    पैडिंग-राइट: var (--स्पेसिंग-अतिरिक्त-छोटा);
+  }
+  .ph2-एम {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-छोटा);
+    पैडिंग-राइट: var (--स्पेसिंग-छोटा);
+  }
+  .ph3-एम {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-मीडियम);
+    पैडिंग-राइट: var (--स्पेसिंग-मीडियम);
+  }
+  .ph4-एम {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-लार्ज);
+  }
+  .ph5-एम {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+  }
+  .ph6-एम {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  }
+  .ph7-एम {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  }
+
+  .ma0-m { मार्जिन: var(--spacing-none); }
+  .ma1-m {मार्जिन: var(--spacing-extra-small); }
+  .ma2-m { मार्जिन: var(--spacing-small); }
+  .ma3-m { मार्जिन: var(--spacing-medium); }
+  .ma4-m { मार्जिन: var(--spacing-large); }
+  .ma5-m { मार्जिन: var(--spacing-extra-large); }
+  .ma6-m {मार्जिन: var(--spacing-extra-extra-large); }
+  .ma7-m {मार्जिन: var(--spacing-extra-extra-extra-laर्ज); }
+
+  .ml0-m {मार्जिन-बाएं: var(--spacing-none); }
+  .ml1-m {मार्जिन-बाएं: var(--spacing-extra-small); }
+  .ml2-m {मार्जिन-बाएं: var(--spacing-small); }
+  .ml3-m {मार्जिन-बाएं: var(--spacing-medium); }
+  .ml4-m {मार्जिन-बाएं: var(--spacing-large); }
+  .ml5-m {मार्जिन-बाएं: var(--spacing-extra-large); }
+  .ml6-m {मार्जिन-बाएं: var(--spacing-extra-extra-large); }
+  .ml7-m { मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+
+  .mr0-m { मार्जिन-दाएं: var(--spacing-none); }
+  .mr1-m {मार्जिन-दाएं: var(--spacing-extra-small); }
+  .mr2-m {मार्जिन-दाएं: var(--spacing-small); }
+  .mr3-m {मार्जिन-दाएं: var(--spacing-medium); }
+  .mr4-m {मार्जिन-दाएं: var(--spacing-large); }
+  .mr5-m { मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .mr6-m { मार्जिन-दाएं: var (--spacing-अतिरिक्त-अतिरिक्त-बड़ा); }
+  .mr7-m { मार्जिन-दाएं: var (--spacing-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा); }
+
+  .mb0-m { मार्जिन-बॉटम: var(--spacing-none); }
+  .mb1-m { मार्जिन-बॉटम: var(--spacing-extra-small); }
+  .mb2-m { मार्जिन-बॉटम: var(--spacing-small); }
+  .mb3-m { मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम); }
+  .mb4-m { मार्जिन-बॉटम: var (--स्पेसिंग-लार्ज); }
+  .mb5-m { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .mb6-m { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .mb7-m { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+
+  .mt0-m { मार्जिन-टॉप: var(--spacing-none); }
+  .mt1-m { मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .mt2-m { मार्जिन-टॉप: var(--spacing-small); }
+  .mt3-m { मार्जिन-टॉप: var(--spacing-medium); }
+  .mt4-m { मार्जिन-टॉप: var (--स्पेसिंग-लार्ज); }
+  .mt5-m { मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .mt6-m { मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .mt7-m { मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा); }
+
+  .mv0-एम {
+    मार्जिन-टॉप: var (--स्पेसिंग-कोई नहीं);
+    मार्जिन-बॉटम: var(--spacing-none);
+  }
+  .एमवी1-एम {
+    मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा);
+    मार्जिन-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा);
+  }
+  .mv2-एम {
+    मार्जिन-टॉप: var (--स्पेसिंग-छोटा);
+    मार्जिन-बॉटम: var (--स्पेसिंग-छोटा);
+  }
+  .mv3-एम {
+    मार्जिन-टॉप: var (--स्पेसिंग-मीडियम);
+    मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम);
+  }
+  .mv4-एम {
+    मार्जिन-टॉप: var (--स्पेसिंग-लार्ज);
+    मार्जिन-बॉटम: var (--स्पेसिंग-लार्ज);
+  }
+  .mv5-एम {
+    मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+  }
+  .mv6-एम {
+    मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  }
+  .mv7-एम {
+    मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+    मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+  }
+
+  .mh0-एम {
+    मार्जिन-बाएं: var(--spacing-none);
+    मार्जिन-राइट: var (--स्पेसिंग-कोई नहीं);
+  }
+  एमएच1-एम {
+    मार्जिन-बाएं: var (--स्पेसिंग-अतिरिक्त-छोटा);
+    मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-छोटा);
+  }
+  .mh2-एम {
+    मार्जिन-बाएं: var (--स्पेसिंग-छोटा);
+    मार्जिन-दाएं: var (--स्पेसिंग-छोटा);
+  }
+  .mh3-एम {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-मीडियम);
+    मार्जिन-राइट: var (--स्पेसिंग-मीडियम);
+  }
+  .mh4-एम {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-लार्ज);
+    मार्जिन-राइट: var (--स्पेसिंग-लार्ज);
+  }
+  .mh5-एम {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+  }
+  .mh6-एम {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-बड़ा);
+  }
+  .mh7-एम {
+    मार्जिन-बाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+    मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+  }
+
+  .mhn1-m { मार्जिन-बाएं: -var(--spacing-extra-small); मार्जिन-दाएं: -वर (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .mhn2-m { मार्जिन-बाएं: -var(--spacing-small); मार्जिन-दाएं: -वर (--स्पेसिंग-छोटा); }
+  .mhn3-m { मार्जिन-बाएं: -var(--spacing-medium); मार्जिन-दाएं: -var(--spacing-medium); }
+
+}
+
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .pa0-l { पैडिंग: var(--spacing-none); }
+  .pa1-l { पैडिंग: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pa2-l { पैडिंग: var(--spacing-small); }
+  .pa3-l { पैडिंग: var(--spacing-medium); }
+  .pa4-l { पैडिंग: var(--spacing-large); }
+  .pa5-l { पैडिंग: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pa6-l { पैडिंग: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pa7-l { पैडिंग: var(--spacing-extra-extra-extra-large); }
+
+  .pl0-l { पैडिंग-लेफ्ट: var(--spacing-none); }
+  .pl1-l { पैडिंग-लेफ्ट: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pl2-l { पैडिंग-लेफ्ट: var (--स्पेसिंग-छोटा); }
+  .pl3-l { पैडिंग-लेफ्ट: var (--स्पेसिंग-मीडियम); }
+  .pl4-l { पैडिंग-लेफ्ट: var (--स्पेसिंग-लार्ज); }
+  .pl5-l { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pl6-l { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pl7-l { पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+
+  .pr0-l { पैडिंग-राइट: var(--spacing-none); }
+  .pr1-l { पैडिंग-राइट: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pr2-l { पैडिंग-राइट: var (--स्पेसिंग-छोटा); }
+  .pr3-l { पैडिंग-राइट: var (--स्पेसिंग-मीडियम); }
+  .pr4-l { पैडिंग-राइट: var (--स्पेसिंग-लार्ज); }
+  .pr5-l { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pr6-l { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pr7-l { पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+
+  .pb0-l { पैडिंग-बॉटम: var(--spacing-none); }
+  .pb1-l { पैडिंग-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pb2-l { पैडिंग-बॉटम: var (--स्पेसिंग-छोटा); }
+  .pb3-l { पैडिंग-बॉटम: var (--स्पेसिंग-मीडियम); }
+  .pb4-l { पैडिंग-बॉटम: var (--स्पेसिंग-लार्ज); }
+  .pb5-l { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pb6-l { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pb7-l { पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+
+  .pt0-l { पैडिंग-टॉप: var(--spacing-none); }
+  .pt1-l { पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .pt2-l { पैडिंग-टॉप: var (--स्पेसिंग-छोटा); }
+  .pt3-l { पैडिंग-टॉप: var (--स्पेसिंग-मीडियम); }
+  .pt4-l { पैडिंग-टॉप: var (--स्पेसिंग-लार्ज); }
+  .pt5-l { पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .pt6-l { पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .pt7-l { पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा); }
+
+  .pv0-एल {
+    पैडिंग-टॉप: var (--स्पेसिंग-कोई नहीं);
+    पैडिंग-बॉटम: var(--spacing-none);
   }
   .pv1-l {
-    padding-top: var(--spacing-extra-small);
-    padding-bottom: var(--spacing-extra-small);
+    पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा);
+    पैडिंग-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा);
   }
-  .pv2-l {
-    padding-top: var(--spacing-small);
-    padding-bottom: var(--spacing-small);
+  .pv2-एल {
+    पैडिंग-टॉप: var (--स्पेसिंग-छोटा);
+    पैडिंग-बॉटम: var (--स्पेसिंग-छोटा);
   }
-  .pv3-l {
-    padding-top: var(--spacing-medium);
-    padding-bottom: var(--spacing-medium);
+  .pv3-एल {
+    पैडिंग-टॉप: var (--स्पेसिंग-मीडियम);
+    पैडिंग-बॉटम: var (--स्पेसिंग-मीडियम);
   }
-  .pv4-l {
-    padding-top: var(--spacing-large);
-    padding-bottom: var(--spacing-large);
+  .pv4-एल {
+    पैडिंग-टॉप: var (--स्पेसिंग-लार्ज);
+    पैडिंग-बॉटम: var (--स्पेसिंग-लार्ज);
   }
-  .pv5-l {
-    padding-top: var(--spacing-extra-large);
-    padding-bottom: var(--spacing-extra-large);
+  .pv5-एल {
+    पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
   }
-  .pv6-l {
-    padding-top: var(--spacing-extra-extra-large);
-    padding-bottom: var(--spacing-extra-extra-large);
+  .pv6-एल {
+    पैडिंग-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
-  .pv7-l {
-    padding-top: var(--spacing-extra-extra-extra-large);
-    padding-bottom: var(--spacing-extra-extra-extra-large);
-  }
-
-  .ph0-l {
-    padding-left: var(--spacing-none);
-    padding-right: var(--spacing-none);
-  }
-  .ph1-l {
-    padding-left: var(--spacing-extra-small);
-    padding-right: var(--spacing-extra-small);
-  }
-  .ph2-l {
-    padding-left: var(--spacing-small);
-    padding-right: var(--spacing-small);
-  }
-  .ph3-l {
-    padding-left: var(--spacing-medium);
-    padding-right: var(--spacing-medium);
-  }
-  .ph4-l {
-    padding-left: var(--spacing-large);
-    padding-right: var(--spacing-large);
-  }
-  .ph5-l {
-    padding-left: var(--spacing-extra-large);
-    padding-right: var(--spacing-extra-large);
-  }
-  .ph6-l {
-    padding-left: var(--spacing-extra-extra-large);
-    padding-right: var(--spacing-extra-extra-large);
-  }
-  .ph7-l {
-    padding-left: var(--spacing-extra-extra-extra-large);
-    padding-right: var(--spacing-extra-extra-extra-large);
+  .pv7-एल {
+    पैडिंग-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+    पैडिंग-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
 
-  .ma0-l  {  margin: var(--spacing-none); }
-  .ma1-l {  margin: var(--spacing-extra-small); }
-  .ma2-l  {  margin: var(--spacing-small); }
-  .ma3-l  {  margin: var(--spacing-medium); }
-  .ma4-l  {  margin: var(--spacing-large); }
-  .ma5-l  {  margin: var(--spacing-extra-large); }
-  .ma6-l {  margin: var(--spacing-extra-extra-large); }
-  .ma7-l { margin: var(--spacing-extra-extra-extra-large); }
-
-  .ml0-l  {  margin-left: var(--spacing-none); }
-  .ml1-l {  margin-left: var(--spacing-extra-small); }
-  .ml2-l  {  margin-left: var(--spacing-small); }
-  .ml3-l  {  margin-left: var(--spacing-medium); }
-  .ml4-l  {  margin-left: var(--spacing-large); }
-  .ml5-l  {  margin-left: var(--spacing-extra-large); }
-  .ml6-l {  margin-left: var(--spacing-extra-extra-large); }
-  .ml7-l { margin-left: var(--spacing-extra-extra-extra-large); }
-
-  .mr0-l  {  margin-right: var(--spacing-none); }
-  .mr1-l {  margin-right: var(--spacing-extra-small); }
-  .mr2-l  {  margin-right: var(--spacing-small); }
-  .mr3-l  {  margin-right: var(--spacing-medium); }
-  .mr4-l  {  margin-right: var(--spacing-large); }
-  .mr5-l  {  margin-right: var(--spacing-extra-large); }
-  .mr6-l {  margin-right: var(--spacing-extra-extra-large); }
-  .mr7-l { margin-right: var(--spacing-extra-extra-extra-large); }
-
-  .mb0-l  {  margin-bottom: var(--spacing-none); }
-  .mb1-l {  margin-bottom: var(--spacing-extra-small); }
-  .mb2-l  {  margin-bottom: var(--spacing-small); }
-  .mb3-l  {  margin-bottom: var(--spacing-medium); }
-  .mb4-l  {  margin-bottom: var(--spacing-large); }
-  .mb5-l  {  margin-bottom: var(--spacing-extra-large); }
-  .mb6-l {  margin-bottom: var(--spacing-extra-extra-large); }
-  .mb7-l { margin-bottom: var(--spacing-extra-extra-extra-large); }
-
-  .mt0-l  {  margin-top: var(--spacing-none); }
-  .mt1-l {  margin-top: var(--spacing-extra-small); }
-  .mt2-l  {  margin-top: var(--spacing-small); }
-  .mt3-l  {  margin-top: var(--spacing-medium); }
-  .mt4-l  {  margin-top: var(--spacing-large); }
-  .mt5-l  {  margin-top: var(--spacing-extra-large); }
-  .mt6-l {  margin-top: var(--spacing-extra-extra-large); }
-  .mt7-l { margin-top: var(--spacing-extra-extra-extra-large); }
-
-  .mv0-l {
-    margin-top: var(--spacing-none);
-    margin-bottom: var(--spacing-none);
+  .ph0-एल {
+    पैडिंग-लेफ्ट: var(--spacing-none);
+    पैडिंग-राइट: var (--स्पेसिंग-कोई नहीं);
   }
-  .mv1-l {
-    margin-top: var(--spacing-extra-small);
-    margin-bottom: var(--spacing-extra-small);
+  .ph1-एल {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-छोटा);
+    पैडिंग-राइट: var (--स्पेसिंग-अतिरिक्त-छोटा);
   }
-  .mv2-l {
-    margin-top: var(--spacing-small);
-    margin-bottom: var(--spacing-small);
+  .ph2-एल {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-छोटा);
+    पैडिंग-राइट: var (--स्पेसिंग-छोटा);
   }
-  .mv3-l {
-    margin-top: var(--spacing-medium);
-    margin-bottom: var(--spacing-medium);
+  .ph3-एल {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-मीडियम);
+    पैडिंग-राइट: var (--स्पेसिंग-मीडियम);
   }
-  .mv4-l {
-    margin-top: var(--spacing-large);
-    margin-bottom: var(--spacing-large);
+  .ph4-एल {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-लार्ज);
   }
-  .mv5-l {
-    margin-top: var(--spacing-extra-large);
-    margin-bottom: var(--spacing-extra-large);
+  .ph5-एल {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
   }
-  .mv6-l {
-    margin-top: var(--spacing-extra-extra-large);
-    margin-bottom: var(--spacing-extra-extra-large);
+  .ph6-एल {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
-  .mv7-l {
-    margin-top: var(--spacing-extra-extra-extra-large);
-    margin-bottom: var(--spacing-extra-extra-extra-large);
+  .ph7-एल {
+    पैडिंग-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    पैडिंग-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
 
-  .mh0-l {
-    margin-left: var(--spacing-none);
-    margin-right: var(--spacing-none);
+  .ma0-l { मार्जिन: var(--spacing-none); }
+  .ma1-l { मार्जिन: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .ma2-l { मार्जिन: var(--spacing-small); }
+  .ma3-l { मार्जिन: var(--spacing-medium); }
+  .ma4-l { मार्जिन: var(--spacing-large); }
+  .ma5-l { मार्जिन: var(--spacing-extra-large); }
+  .ma6-l { मार्जिन: var(--spacing-extra-extra-large); }
+  .ma7-l { मार्जिन: var(--spacing-extra-extra-extra-large); }
+
+  .ml0-l {मार्जिन-बाएं: var(--spacing-none); }
+  .ml1-l {मार्जिन-बाएं: var(--spacing-extra-small); }
+  .ml2-l {मार्जिन-बाएं: var(--spacing-small); }
+  .ml3-l {मार्जिन-बाएं: var(--spacing-medium); }
+  .ml4-l { मार्जिन-लेफ्ट: var (--स्पेसिंग-लार्ज); }
+  .ml5-l { मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .ml6-l { मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .ml7-l { मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+
+  .mr0-l { मार्जिन-दाएं: var(--spacing-none); }
+  .mr1-l { मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .mr2-l { मार्जिन-दाएं: var(--spacing-small); }
+  .mr3-l {मार्जिन-दाएं: var(--spacing-medium); }
+  .mr4-l { मार्जिन-राइट: var (--स्पेसिंग-लार्ज); }
+  .mr5-l { मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .mr6-l { मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .mr7-l { मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+
+  .mb0-l { मार्जिन-बॉटम: var(--spacing-none); }
+  .mb1-l { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-स्मॉल); }
+  .mb2-l { मार्जिन-बॉटम: var(--spacing-small); }
+  .mb3-l { मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम); }
+  .mb4-l { मार्जिन-बॉटम: var (--स्पेसिंग-लार्ज); }
+  .mb5-l { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .mb6-l { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+  .mb7-l { मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+
+  .mt0-l { मार्जिन-टॉप: var(--spacing-none); }
+  .mt1-l { मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .mt2-l { मार्जिन-टॉप: var (--स्पेसिंग-छोटा); }
+  .mt3-l { मार्जिन-टॉप: var (--स्पेसिंग-मीडियम); }
+  .mt4-l { मार्जिन-टॉप: var (--स्पेसिंग-लार्ज); }
+  .mt5-l { मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज); }
+  .mt6-l { मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-बड़ा); }
+  .mt7-l { मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज); }
+
+  .mv0-एल {
+    मार्जिन-टॉप: var (--स्पेसिंग-कोई नहीं);
+    मार्जिन-बॉटम: var(--spacing-none);
   }
-  .mh1-l {
-    margin-left: var(--spacing-extra-small);
-    margin-right: var(--spacing-extra-small);
+  .एमवी1-एल {
+    मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-छोटा);
+    मार्जिन-बॉटम: var (--स्पेसिंग-अतिरिक्त-छोटा);
   }
-  .mh2-l {
-    margin-left: var(--spacing-small);
-    margin-right: var(--spacing-small);
+  .mv2-एल {
+    मार्जिन-टॉप: var (--स्पेसिंग-छोटा);
+    मार्जिन-बॉटम: var (--स्पेसिंग-छोटा);
   }
-  .mh3-l {
-    margin-left: var(--spacing-medium);
-    margin-right: var(--spacing-medium);
+  .mv3-एल {
+    मार्जिन-टॉप: var (--स्पेसिंग-मीडियम);
+    मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम);
   }
-  .mh4-l {
-    margin-left: var(--spacing-large);
-    margin-right: var(--spacing-large);
+  .mv4-एल {
+    मार्जिन-टॉप: var (--स्पेसिंग-लार्ज);
+    मार्जिन-बॉटम: var (--स्पेसिंग-लार्ज);
   }
-  .mh5-l {
-    margin-left: var(--spacing-extra-large);
-    margin-right: var(--spacing-extra-large);
+  .mv5-एल {
+    मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
   }
-  .mh6-l {
-    margin-left: var(--spacing-extra-extra-large);
-    margin-right: var(--spacing-extra-extra-large);
+  .mv6-एल {
+    मार्जिन-टॉप: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
-  .mh7-l {
-    margin-left: var(--spacing-extra-extra-extra-large);
-    margin-right: var(--spacing-extra-extra-extra-large);
+  .mv7-एल {
+    मार्जिन-टॉप: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+    मार्जिन-बॉटम: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
   }
 
-  .mhn1-l { margin-left: -var(--spacing-extra-small); margin-right: -var(--spacing-extra-small); }
-  .mhn2-l { margin-left: -var(--spacing-small); margin-right: -var(--spacing-small); }
-  .mhn3-l { margin-left: -var(--spacing-medium); margin-right: -var(--spacing-medium); }
+  .mh0-एल {
+    मार्जिन-बाएं: var(--spacing-none);
+    मार्जिन-राइट: var (--स्पेसिंग-कोई नहीं);
+  }
+  .एमएच1-एल {
+    मार्जिन-बाएं: var (--स्पेसिंग-अतिरिक्त-छोटा);
+    मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-छोटा);
+  }
+  .mh2-एल {
+    मार्जिन-बाएं: var (--स्पेसिंग-छोटा);
+    मार्जिन-दाएं: var (--स्पेसिंग-छोटा);
+  }
+  .mh3-एल {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-मीडियम);
+    मार्जिन-राइट: var (--स्पेसिंग-मीडियम);
+  }
+  .mh4-एल {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-लार्ज);
+    मार्जिन-राइट: var (--स्पेसिंग-लार्ज);
+  }
+  .mh5-एल {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+    मार्जिन-राइट: var (--स्पेसिंग-एक्स्ट्रा-लार्ज);
+  }
+  .mh6-एल {
+    मार्जिन-लेफ्ट: var (--स्पेसिंग-एक्स्ट्रा-एक्स्ट्रा-लार्ज);
+    मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-बड़ा);
+  }
+  .mh7-एल {
+    मार्जिन-बाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+    मार्जिन-दाएं: var (--स्पेसिंग-अतिरिक्त-अतिरिक्त-अतिरिक्त-बड़ा);
+  }
+
+  .mhn1-l { मार्जिन-लेफ्ट: -var(--spacing-extra-small); मार्जिन-दाएं: -वर (--स्पेसिंग-अतिरिक्त-छोटा); }
+  .mhn2-l { मार्जिन-बाएं: -var(--spacing-small); मार्जिन-दाएं: -वर (--स्पेसिंग-छोटा); }
+  .mhn3-l { मार्जिन-बाएं: -var(--spacing-medium); मार्जिन-दाएं: -var(--spacing-medium); }
 }
