@@ -1,80 +1,80 @@
-/* Text colors */
+/* टेक्स्ट के रंग */
 
-.primary {
-  color: var(--primary);
+।मुख्य {
+  रंग: var (--प्राथमिक);
 }
 
-.highlight {
-  color: var(--highlight);
+।प्रमुखता से दिखाना {
+  रंग: var (--हाइलाइट);
 }
 
-.white {
-  color: var(--white);
+।सफेद {
+  रंग: वर (--सफेद);
 }
 
-.off-white {
-  color: var(--off-white);
+।धूमिल सफ़ेद {
+  रंग: var (--ऑफ-व्हाइट);
 }
 
-.grey-1 {
-  color: var(--grey-1);
+.ग्रे-1 {
+  रंग: वर (--ग्रे -1);
 }
 
-.grey-2 {
-  color: var(--grey-2);
+ग्रे-2 {
+  रंग: वर (--ग्रे-2);
 }
 
-.grey-3 {
-  color: var(--grey-3);
+.ग्रे-3 {
+  रंग: वर(--ग्रे-3);
 }
 
-.grey-4 {
-  color: var(--grey-4);
+.ग्रे-4 {
+  रंग: वर (--ग्रे -4);
 }
 
-.black {
-  color: var(--black);
+।काला {
+  रंग: वर (--काला);
 }
 
-.bg-primary {
-  background-color: var(--primary);
+.बीजी-प्राथमिक {
+  पृष्ठभूमि-रंग: var (--प्राथमिक);
 }
 
-.bg-highlight {
-  background-color: var(--highlight);
+.बीजी-हाइलाइट {
+  पृष्ठभूमि-रंग: var (--हाइलाइट);
 }
 
-.bg-white {
-  background-color: var(--white);
+.बीजी-सफेद {
+  पृष्ठभूमि-रंग: वर (--सफेद);
 }
 
-.bg-off-white {
-  background-color: var(--off-white);
+.बीजी-ऑफ-व्हाइट {
+  पृष्ठभूमि-रंग: var (--ऑफ-व्हाइट);
 }
 
-.bg-grey-1 {
-  background-color: var(--grey-1);
+.बीजी-ग्रे-1 {
+  पृष्ठभूमि-रंग: var (--ग्रे -1);
 }
 
-.bg-grey-2 {
-  background-color: var(--grey-2);
+.बीजी-ग्रे-2 {
+  पृष्ठभूमि-रंग: वर(--ग्रे-2);
 }
 
-.bg-grey-3 {
-  background-color: var(--grey-4);
+.बीजी-ग्रे-3 {
+  पृष्ठभूमि-रंग: वर(--ग्रे-4);
 }
 
-.bg-grey-4 {
-  background-color: var(--grey-4);
+.बीजी-ग्रे -4 {
+  पृष्ठभूमि-रंग: वर(--ग्रे-4);
 }
 
-.bg-black {
-  background-color: var(--black);
+.बीजी-ब्लैक {
+  पृष्ठभूमि-रंग: var (--काला);
 }
 
-.bg-fix-primary {
-  padding: 0 var(--spacing-small);
-  & :first-child {
-    box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
+.बीजी-फिक्स-प्राथमिक {
+  पैडिंग: 0 var (--स्पेसिंग-छोटा);
+  & :पहला बच्चा {
+    बॉक्स-छाया: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
   }
 }
