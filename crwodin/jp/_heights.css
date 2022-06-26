@@ -1,89 +1,89 @@
-.h1 { height: var(--spacing-medium); }
-.h2 { height: 2rem; }
-.h3 { height: 4rem; }
-.h4 { height: 8rem; }
-.h5 { height: 16rem; }
+.h1 {高さ：var（-spacing-medium）; }
+.h2 {高さ：2rem; }
+.h3 {高さ：4rem; }
+.h4 {高さ：8rem; }
+.h5 {高さ：16rem; }
 
-/* Height Percentages - Based off of height of parent */
+/*身長のパーセンテージ-親の身長に基づく*/
 
-.h-25 {  height:  25%; }
-.h-50 {  height:  50%; }
-.h-75 {  height:  75%; }
-.h-100 { height: 100%; }
+.h-25 {高さ：25％; }
+.h-50 {高さ：50％; }
+.h-75 {高さ：75％; }
+.h-100 {高さ：100％; }
 
-.min-h-100 { min-height: 100%; }
+.min-h-100 {min-height：100％; }
 
-/* Screen Height Percentage */
+/*画面の高さのパーセンテージ*/
 
-.vh-25 {  height:  25vh; }
-.vh-50 {  height:  50vh; }
-.vh-75 {  height:  75vh; }
-.vh-100 { height: 100vh; }
+.vh-25 {高さ：25vh; }
+.vh-50 {高さ：50vh; }
+.vh-75 {高さ：75vh; }
+.vh-100 {高さ：100vh; }
 
-.min-vh-100 { min-height: 100vh; }
+.min-vh-100 {min-height：100vh; }
 
 
-/* String Properties */
+/*文字列のプロパティ*/
 
-.h-auto {     height: auto; }
-.h-inherit {  height: inherit; }
+.h-auto {高さ：自動; }
+.h-継承{高さ：継承; }
 
-@media (--breakpoint-not-small) {
-  .h1-ns {  height: var(--spacing-medium); }
-  .h2-ns {  height: 2rem; }
-  .h3-ns {  height: 4rem; }
-  .h4-ns {  height: 8rem; }
-  .h5-ns {  height: 16rem; }
-  .h-25-ns { height: 25%; }
-  .h-50-ns { height: 50%; }
-  .h-75-ns { height: 75%; }
-  .h-100-ns { height: 100%; }
-  .min-h-100-ns { min-height: 100%; }
-  .vh-25-ns {  height:  25vh; }
-  .vh-50-ns {  height:  50vh; }
-  .vh-75-ns {  height:  75vh; }
-  .vh-100-ns { height: 100vh; }
-  .min-vh-100-ns { min-height: 100vh; }
-  .h-auto-ns { height: auto; }
-  .h-inherit-ns { height: inherit; }
+@media（--breakpoint-not-small）{
+  .h1-ns {高さ：var（-spacing-medium）; }
+  .h2-ns {高さ：2rem; }
+  .h3-ns {高さ：4rem; }
+  .h4-ns {高さ：8rem; }
+  .h5-ns {高さ：16rem; }
+  .h-25-ns {高さ：25％; }
+  .h-50-ns {高さ：50％; }
+  .h-75-ns {高さ：75％; }
+  .h-100-ns {高さ：100％; }
+  .min-h-100-ns {min-height：100％; }
+  .vh-25-ns {高さ：25vh; }
+  .vh-50-ns {高さ：50vh; }
+  .vh-75-ns {高さ：75vh; }
+  .vh-100-ns {高さ：100vh; }
+  .min-vh-100-ns {min-height：100vh; }
+  .h-auto-ns {高さ：自動; }
+  .h-inherit-ns {高さ：継承; }
 }
 
-@media (--breakpoint-medium) {
-  .h1-m { height: var(--spacing-medium); }
-  .h2-m { height: 2rem; }
-  .h3-m { height: 4rem; }
-  .h4-m { height: 8rem; }
-  .h5-m { height: 16rem; }
-  .h-25-m { height: 25%; }
-  .h-50-m { height: 50%; }
-  .h-75-m { height: 75%; }
-  .h-100-m { height: 100%; }
-  .min-h-100-ns { min-height: 100%; }
-  .vh-25-m {  height:  25vh; }
-  .vh-50-m {  height:  50vh; }
-  .vh-75-m {  height:  75vh; }
-  .vh-100-m { height: 100vh; }
-  .min-vh-100-m { min-height: 100vh; }
-  .h-auto-m { height: auto; }
-  .h-inherit-m { height: inherit; }
+@media（--breakpoint-medium）{
+  .h1-m {高さ：var（-spacing-medium）; }
+  .h2-m {高さ：2rem; }
+  .h3-m {高さ：4rem; }
+  .h4-m {高さ：8rem; }
+  .h5-m {高さ：16rem; }
+  .h-25-m {高さ：25％; }
+  .h-50-m {高さ：50％; }
+  .h-75-m {高さ：75％; }
+  .h-100-m {高さ：100％; }
+  .min-h-100-ns {min-height：100％; }
+  .vh-25-m {高さ：25vh; }
+  .vh-50-m {高さ：50vh; }
+  .vh-75-m {高さ：75vh; }
+  .vh-100-m {高さ：100vh; }
+  .min-vh-100-m {min-height：100vh; }
+  .h-auto-m {高さ：自動; }
+  .h-inherit-m {高さ：継承; }
 }
 
-@media (--breakpoint-large) {
-  .h1-l { height: var(--spacing-medium); }
-  .h2-l { height: 2rem; }
-  .h3-l { height: 4rem; }
-  .h4-l { height: 8rem; }
-  .h5-l { height: 16rem; }
-  .h-25-l { height: 25%; }
-  .h-50-l { height: 50%; }
-  .h-75-l { height: 75%; }
-  .h-100-l { height: 100%; }
-  .min-h-100-l { min-height: 100%; }
-  .vh-25-l {  height:  25vh; }
-  .vh-50-l {  height:  50vh; }
-  .vh-75-l {  height:  75vh; }
-  .vh-100-l { height: 100vh; }
-  .min-vh-100-l { min-height: 100vh; }
-  .h-auto-l { height: auto; }
-  .h-inherit-l { height: inherit; }
+@media（--breakpoint-large）{
+  .h1-l {高さ：var（-spacing-medium）; }
+  .h2-l {高さ：2rem; }
+  .h3-l {高さ：4rem; }
+  .h4-l {高さ：8rem; }
+  .h5-l {高さ：16rem; }
+  .h-25-l {高さ：25％; }
+  .h-50-l {高さ：50％; }
+  .h-75-l {高さ：75％; }
+  .h-100-l {高さ：100％; }
+  .min-h-100-l {min-height：100％; }
+  .vh-25-l {高さ：25vh; }
+  .vh-50-l {高さ：50vh; }
+  .vh-75-l {高さ：75vh; }
+  .vh-100-l {高さ：100vh; }
+  .min-vh-100-l {min-height：100vh; }
+  .h-auto-l {高さ：自動; }
+  .h-inherit-l {高さ：継承; }
 }
