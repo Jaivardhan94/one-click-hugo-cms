@@ -1,21 +1,21 @@
-.outline { outline: 1px solid; }
-.outline-transparent { outline: 1px solid transparent; }
-.outline-0 { outline: 0; }
+आउटलाइन { आउटलाइन: 1px सॉलिड; }
+.रूपरेखा-पारदर्शी { बाह्यरेखा: 1px ठोस पारदर्शी; }
+.रूपरेखा-0 { रूपरेखा: 0; }
 
-@media (--breakpoint-not-small) {
-  .outline-ns { outline: 1px solid; }
-  .outline-transparent-ns { outline: 1px solid transparent; }
-  .outline-0-ns { outline: 0; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .outline-ns { आउटलाइन: 1px सॉलिड; }
+  .outline-transparent-ns { आउटलाइन: 1px सॉलिड ट्रांसपेरेंट; }
+  .रूपरेखा-0-एनएस { रूपरेखा: 0; }
 }
 
-@media (--breakpoint-medium) {
-  .outline-m { outline: 1px solid; }
-  .outline-transparent-m { outline: 1px solid transparent; }
-  .outline-0-m { outline: 0; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .outline-m { आउटलाइन: 1px सॉलिड; }
+  .outline-transparent-m { आउटलाइन: 1px सॉलिड ट्रांसपेरेंट; }
+  .आउटलाइन-0-एम { आउटलाइन: 0; }
 }
 
-@media (--breakpoint-medium) {
-  .outline-l { outline: 1px solid; }
-  .outline-transparent-l { outline: 1px solid transparent; }
-  .outline-0-l { outline: 0; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .outline-l { आउटलाइन: 1px सॉलिड; }
+  .outline-transparent-l { आउटलाइन: 1px सॉलिड ट्रांसपेरेंट; }
+  .आउटलाइन-0-एल { आउटलाइन: 0; }
 }
