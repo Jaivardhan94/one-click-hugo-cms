@@ -1,149 +1,149 @@
-html {
-  font-size: var(--font-size);
-  @media (--breakpoint-medium) {
-    font-size: var(--font-size-m);
+एचटीएमएल {
+  फ़ॉन्ट-आकार: var(--font-size);
+  @मीडिया (--ब्रेकपॉइंट-माध्यम) {
+    फ़ॉन्ट-आकार: var(--font-size-m);
   }
-  @media (--breakpoint-large) {
-    font-size: var(--font-size-l);
+  @मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+    फ़ॉन्ट-आकार: var(--font-size-l);
   }
-  background-color: var(--black);
+  पृष्ठभूमि-रंग: var (--काला);
 }
 
 
-body {
-  font-family: var(--font-family);
-  font-size: var(--spacing-medium);
-  line-height: var(--line-height);
-  font-weight: var(--body-font-weight);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: var(--off-white);
+तन {
+  फ़ॉन्ट-फ़ैमिली: var (--फ़ॉन्ट-फ़ैमिली);
+  फ़ॉन्ट-आकार: var(--spacing-medium);
+  लाइन-ऊंचाई: var (--लाइन-ऊंचाई);
+  फ़ॉन्ट-वेट: var (--बॉडी-फ़ॉन्ट-वेट);
+  -वेबकिट-फ़ॉन्ट-चिकनाई: एंटीअलाइज़्ड;
+  -मोज़-ओएसएक्स-फ़ॉन्ट-चिकनाई: ग्रेस्केल;
+  पृष्ठभूमि-रंग: var (--ऑफ-व्हाइट);
  }
 
-p {
-  margin-bottom: var(--spacing-medium);
-  max-width: 32rem;
+पी {
+  मार्जिन-बॉटम: var (--स्पेसिंग-मीडियम);
+  अधिकतम-चौड़ाई: 32rem;
 }
 
-strong {
-  font-weight: var(--bold-font-weight);
+बलवान {
+  फ़ॉन्ट-वजन: var (--बोल्ड-फ़ॉन्ट-वेट);
 }
 
-em {
-  font-style: italic;
+उन्हें {
+  फ़ॉन्ट-शैली: इटैलिक;
 }
 
-sup {
-  font-size: .6rem;
-  font-weight: 700;
-  vertical-align: super;
+समर्थन {
+  फ़ॉन्ट-आकार: .6rem;
+  फ़ॉन्ट-वजन: 700;
+  लंबवत-संरेखण: सुपर;
 }
 
-/* Measure is limited to ~66 characters */
-.measure {
-  max-width: 30em;
+/* माप ~66 वर्णों तक सीमित है */
+।मापना {
+  अधिकतम-चौड़ाई: 30em;
 }
 
-/* Measure is limited to ~80 characters */
-.measure-wide {
-  max-width: 34em;
+/* माप ~80 वर्णों तक सीमित है */
+.माप-वाइड {
+  अधिकतम-चौड़ाई: 34em;
 }
 
-/* Measure is limited to ~45 characters */
-.measure-narrow {
-  max-width: 25em;
+/* माप ~45 वर्णों तक सीमित है */
+माप-संकीर्ण {
+  अधिकतम-चौड़ाई: 25em;
 }
 
-/* Book paragraph style - paragraphs are indented with no vertical spacing. */
-.indent {
-  text-indent: 1em;
-  margin-top: 0;
-  margin-bottom: 0;
+/* पुस्तक अनुच्छेद शैली - अनुच्छेद बिना किसी लंबवत रिक्ति के इंडेंट किए जाते हैं। */
+इंडेंट {
+  टेक्स्ट इंडेंट: 1em;
+  मार्जिन-टॉप: 0;
+  मार्जिन-बॉटम: 0;
 }
 
-.small-caps {
-  font-variant: small-caps;
+।छोटी टोपियाँ {
+  फ़ॉन्ट-संस्करण: स्मॉल-कैप;
 }
 
-/* Combine this class with a width to truncate text (or just leave as is to truncate at width of containing element. */
+/* पाठ को छोटा करने के लिए इस वर्ग को एक चौड़ाई के साथ संयोजित करें (या केवल तत्व की चौड़ाई पर काट-छांट करने के लिए छोड़ दें। */
 
-.truncate {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+.छंटना {
+  व्हाइट-स्पेस: अब्रैप;
+  बहुत ज्यादा गोपनीय;
+  पाठ-अतिप्रवाह: इलिप्सिस;
 }
 
-@media (--breakpoint-not-small) {
-  .measure-ns  {
-    max-width: 30em;
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  माप-एनएस {
+    अधिकतम-चौड़ाई: 30em;
   }
-  .measure-wide-ns {
-    max-width: 34em;
+  .माप-वाइड-एनएस {
+    अधिकतम-चौड़ाई: 34em;
   }
-  .measure-narrow-ns {
-    max-width: 20em;
+  माप-संकीर्ण-एनएस {
+    अधिकतम-चौड़ाई: 20em;
   }
-  .indent-ns {
-    text-indent: 1em;
-    margin-top: 0;
-    margin-bottom: 0;
+  इंडेंट-एनएस {
+    टेक्स्ट इंडेंट: 1em;
+    मार्जिन-टॉप: 0;
+    मार्जिन-बॉटम: 0;
   }
-  .small-caps-ns {
-    font-variant: small-caps;
+  .स्मॉल-कैप्स-एनएस {
+    फ़ॉन्ट-संस्करण: स्मॉल-कैप;
   }
-  .truncate-ns {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-}
-
-@media (--breakpoint-medium) {
-  .measure-m {
-    max-width: 30em;
-  }
-  .measure-wide-m {
-    max-width: 34em;
-  }
-  .measure-narrow-m {
-    max-width: 20em;
-  }
-  .indent-m {
-    text-indent: 1em;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-  .small-caps-m {
-    font-variant: small-caps;
-  }
-  .truncate-m {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+  ट्रंकेट-एनएस {
+    व्हाइट-स्पेस: अब्रैप;
+    बहुत ज्यादा गोपनीय;
+    पाठ-अतिप्रवाह: इलिप्सिस;
   }
 }
 
-@media (--breakpoint-large) {
-  .measure-l {
-    max-width: 30em;
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .माप-एम {
+    अधिकतम-चौड़ाई: 30em;
   }
-  .measure-wide-l {
-    max-width: 34em;
+  .माप-चौड़ा-एम {
+    अधिकतम-चौड़ाई: 34em;
   }
-  .measure-narrow-l {
-    max-width: 20em;
+  माप-संकीर्ण-एम {
+    अधिकतम-चौड़ाई: 20em;
   }
-  .indent-l {
-    text-indent: 1em;
-    margin-top: 0;
-    margin-bottom: 0;
+  इंडेंट-एम {
+    टेक्स्ट इंडेंट: 1em;
+    मार्जिन-टॉप: 0;
+    मार्जिन-बॉटम: 0;
   }
-  .small-caps-l {
-    font-variant: small-caps;
+  .स्मॉल-कैप्स-एम {
+    फ़ॉन्ट-संस्करण: स्मॉल-कैप;
   }
-  .truncate-l {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+  ट्रंकेट-एम {
+    व्हाइट-स्पेस: अब्रैप;
+    बहुत ज्यादा गोपनीय;
+    पाठ-अतिप्रवाह: इलिप्सिस;
+  }
+}
+
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .माप-एल {
+    अधिकतम-चौड़ाई: 30em;
+  }
+  .माप-वाइड-एल {
+    अधिकतम-चौड़ाई: 34em;
+  }
+  .माप-संकीर्ण-एल {
+    अधिकतम-चौड़ाई: 20em;
+  }
+  इंडेंट-एल {
+    टेक्स्ट इंडेंट: 1em;
+    मार्जिन-टॉप: 0;
+    मार्जिन-बॉटम: 0;
+  }
+  .स्मॉल-कैप्स-एल {
+    फ़ॉन्ट-संस्करण: स्मॉल-कैप;
+  }
+  .ट्रंकेट-एल {
+    व्हाइट-स्पेस: अब्रैप;
+    बहुत ज्यादा गोपनीय;
+    पाठ-अतिप्रवाह: इलिप्सिस;
   }
 }
