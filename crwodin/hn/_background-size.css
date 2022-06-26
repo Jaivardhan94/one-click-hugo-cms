@@ -1,17 +1,17 @@
-.cover { background-size: cover!important; }
-.contain { background-size: contain!important; }
+कवर {पृष्ठभूमि-आकार: कवर! महत्वपूर्ण; }
+.contain {पृष्ठभूमि-आकार: सम्‍मिलित!महत्‍वपूर्ण; }
 
-@media (--breakpoint-not-small) {
-  .cover-ns { background-size: cover!important; }
-  .contain-ns { background-size: contain!important; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  कवर-एनएस {पृष्ठभूमि-आकार: कवर! महत्वपूर्ण; }
+  .contain-ns {पृष्ठभूमि-आकार: सम्‍मिलित!महत्‍वपूर्ण; }
 }
 
-@media (--breakpoint-medium) {
-  .cover-m { background-size: cover!important; }
-  .contain-m { background-size: contain!important; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  कवर-एम {पृष्ठभूमि-आकार: कवर! महत्वपूर्ण; }
+  .contain-m {पृष्ठभूमि-आकार: सम्‍मिलित!महत्‍वपूर्ण; }
 }
 
-@media (--breakpoint-large) {
-  .cover-l { background-size: cover!important; }
-  .contain-l { background-size: contain!important; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .कवर-एल {पृष्ठभूमि-आकार: कवर!महत्वपूर्ण; }
+  .contain-l {पृष्ठभूमि-आकार: सम्‍मिलित!महत्‍वपूर्ण; }
 }
