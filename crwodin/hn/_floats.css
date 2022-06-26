@@ -1,21 +1,21 @@
-.fl { float: left;  _display: inline; }
-.fr { float: right; _display: inline; }
-.fn { float: none; }
+.fl {फ्लोट: लेफ्ट; _प्रदर्शन: इनलाइन; }
+.fr {फ्लोट: दाएं; _प्रदर्शन: इनलाइन; }
+.fn {फ्लोट: कोई नहीं; }
 
-@media (--breakpoint-not-small) {
-  .fl-ns { float: left; _display: inline; }
-  .fr-ns { float: right; _display: inline; }
-  .fn-ns { float: none; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .fl-ns {फ्लोट: लेफ्ट; _प्रदर्शन: इनलाइन; }
+  .fr-ns {फ्लोट: दाएं; _प्रदर्शन: इनलाइन; }
+  .fn-ns {फ्लोट: कोई नहीं; }
 }
 
-@media (--breakpoint-medium) {
-  .fl-m { float: left; _display: inline; }
-  .fr-m { float: right; _display: inline; }
-  .fn-m { float: none; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .fl-m {फ्लोट: लेफ्ट; _प्रदर्शन: इनलाइन; }
+  .fr-m {फ्लोट: दाएं; _प्रदर्शन: इनलाइन; }
+  .fn-एम {फ्लोट: कोई नहीं; }
 }
 
-@media (--breakpoint-large) {
-  .fl-l { float: left; _display: inline; }
-  .fr-l { float: right; _display: inline; }
-  .fn-l { float: none; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .fl-l {फ्लोट: लेफ्ट; _प्रदर्शन: इनलाइन; }
+  .fr-l {फ्लोट: दाएं; _प्रदर्शन: इनलाइन; }
+  .fn-l {फ्लोट: कोई नहीं; }
 }
