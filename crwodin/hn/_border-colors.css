@@ -1,35 +1,35 @@
-.b--primary {
-  border-color: var(--primary);
+.बी--प्राथमिक {
+  सीमा-रंग: var (--प्राथमिक);
 }
 
-.b--highlight {
-  border-color: --var(--highlight);
+.बी--हाइलाइट {
+  सीमा-रंग: --var(--highlight);
 }
 
-.b--white {
-  border-color: var(--white);
+.बी - सफेद {
+  सीमा-रंग: वर (--सफेद);
 }
 
-.b--off-white {
-  border-color: var(--off-white);
+.बी-ऑफ-व्हाइट {
+  सीमा-रंग: var (--ऑफ-व्हाइट);
 }
 
-.b--grey-1 {
-  border-color: var(--grey-1);
+.बी--ग्रे-1 {
+  सीमा-रंग: var (--ग्रे -1);
 }
 
-.b--grey-2 {
-  border-color: var(--grey-2);
+.बी--ग्रे-2 {
+  सीमा-रंग: वर (--ग्रे-2);
 }
 
-.b--grey-3 {
-  border-color: var(--grey-3);
+.बी--ग्रे-3 {
+  सीमा-रंग: वर(--ग्रे-3);
 }
 
-.b--grey-4 {
-  border-color: var(--grey-4);
+.बी--ग्रे-4 {
+  सीमा-रंग: var (--ग्रे -4);
 }
 
-.b--black {
-  border-color: var(--black);
+.बी--ब्लैक {
+  सीमा-रंग: var (--काला);
 }
