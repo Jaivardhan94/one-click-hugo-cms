@@ -1,36 +1,36 @@
 /*
  
-  BOX SIZING
+  बॉक्स आकार:
 
 */
 
-html,
-body,
-div,
-article,
-section,
-main,
-footer,
-header,
-form,
-fieldset,
-pre,
-code,
-p,
-ul,
-ol,
-li,
-dl,
-dt,
-dd,
-textarea,
-input[type="email"],
-input[type="number"],
-input[type="password"],
-input[type="tel"],
-input[type="text"],
-input[type="url"],
-.border-box {
-  box-sizing: border-box;
+एचटीएमएल,
+तन,
+डिव,
+लेख,
+खंड,
+मुख्य,
+पाद लेख,
+शीर्षलेख,
+प्रपत्र,
+फ़ील्डसेट,
+पूर्व,
+कोड,
+पी,
+उल,
+राजभाषा,
+ली,
+डीएल,
+डीटी,
+डीडी,
+टेक्सटेरिया,
+इनपुट [प्रकार = "ईमेल"],
+इनपुट [प्रकार = "संख्या"],
+इनपुट [प्रकार = "पासवर्ड"],
+इनपुट [प्रकार = "दूरभाष"],
+इनपुट [प्रकार = "पाठ"],
+इनपुट [प्रकार = "यूआरएल"],
+.बॉर्डर-बॉक्स {
+  बॉक्स-साइज़िंग: बॉर्डर-बॉक्स;
 }
 
