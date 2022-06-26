@@ -1,67 +1,67 @@
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
-   License: none (public domain)
+   लाइसेंस: कोई नहीं (सार्वजनिक डोमेन)
 */
 
-html, body, div, span, applet, object, iframe,
+एचटीएमएल, बॉडी, डिव, स्पैन, एप्लेट, ऑब्जेक्ट, आईफ्रेम,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+ए, एबीबीआर, संक्षिप्त नाम, पता, बड़ा, उद्धरण, कोड,
+डेल, डीएफएन, ईएम, आईएमजी, आईएनएस, केबीडी, क्यू, एस, सैंप,
+छोटा, हड़ताल, मजबूत, उप, समर्थन, टीटी, वर,
+बी, यू, आई, सेंटर,
+डीएल, डीटी, डीडी, ओएल, उल, ली,
+फ़ील्डसेट, रूप, लेबल, किंवदंती,
+टेबल, कैप्शन, tbody, tfoot, thead, tr, th, td,
+लेख, एक तरफ, कैनवास, विवरण, एम्बेड,
+आकृति, अंजीर, पाद लेख, शीर्ष लेख, hgroup,
+मेनू, एनएवी, आउटपुट, रूबी, सेक्शन, सारांश,
+समय, चिह्न, ऑडियो, वीडियो {
+	मार्जिन: 0;
+	पैडिंग: 0;
+	सीमा: 0;
+	फ़ॉन्ट-आकार: 100%;
+	फ़ॉन्ट: विरासत में;
+	लंबवत-संरेखण: आधार रेखा;
 }
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-	display: block;
+/* पुराने ब्राउज़र के लिए HTML5 डिस्प्ले-रोल रीसेट */
+लेख, एक तरफ, विवरण, अंजीर, आंकड़ा,
+फूटर, हेडर, एचग्रुप, मेन्यू, नेवी, सेक्शन {
+	प्रदर्शन क्षेत्र;
 }
-body {
-	line-height: 1;
+तन {
+	लाइन-ऊंचाई: 1;
 }
-ol, ul {
-	list-style: none;
+ओल, उल {
+	सूची-शैली: कोई नहीं;
 }
-blockquote, q {
-	quotes: none;
+ब्लॉककोट, क्यू {
+	उद्धरण: कोई नहीं;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
+ब्लॉकक्वॉट: पहले, ब्लॉकक्वॉट: के बाद,
+क्यू: पहले, क्यू: के बाद {
+	विषय: '';
+	सामग्री: कोई नहीं;
 }
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-input, textarea {
-	font-size: var(--spacing-medium);
-	border: none;
-	font-family: inherit;
-	border: 0;
-	margin: 0;
+मेज़ {
+	सीमा-पतन: पतन;
+	सीमा-अंतर: 0;
 }
 
-button {
-	font-family: inherit;
-	border: 0;
-	margin: 0;
-	cursor: pointer;
+इनपुट, टेक्सटेरिया {
+	फ़ॉन्ट-आकार: var(--spacing-medium);
+	सीमा: कोई नहीं;
+	फ़ॉन्ट-परिवार: वारिस;
+	सीमा: 0;
+	मार्जिन: 0;
 }
 
-a {
-	color: inherit;
+बटन {
+	फ़ॉन्ट-परिवार: वारिस;
+	सीमा: 0;
+	मार्जिन: 0;
+	कर्सर: सूचक;
+}
+
+एक {
+	रंग: विरासत;
 }
