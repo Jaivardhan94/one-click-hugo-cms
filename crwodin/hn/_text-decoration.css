@@ -1,22 +1,22 @@
-.strike       { text-decoration: line-through; }
-.underline    { text-decoration: underline; }
-.no-underline { text-decoration: none; }
+.स्ट्राइक {पाठ-सजावट: लाइन-थ्रू; }
+.अंडरलाइन { टेक्स्ट-डेकोरेशन: अंडरलाइन; }
+.no-अंडरलाइन {पाठ-सजावट: कोई नहीं; }
 
 
-@media (--breakpoint-not-small) {
-  .strike-ns       { text-decoration: line-through; }
-  .underline-ns    { text-decoration: underline; }
-  .no-underline-ns { text-decoration: none; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .स्ट्राइक-एनएस { टेक्स्ट-डेकोरेशन: लाइन-थ्रू; }
+  .अंडरलाइन-एनएस { टेक्स्ट-डेकोरेशन: अंडरलाइन; }
+  .no-अंडरलाइन-एनएस {पाठ-सजावट: कोई नहीं; }
 }
 
-@media (--breakpoint-medium) {
-  .strike-m       { text-decoration: line-through; }
-  .underline-m    { text-decoration: underline; }
-  .no-underline-m { text-decoration: none; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .स्ट्राइक-एम { टेक्स्ट-डेकोरेशन: लाइन-थ्रू; }
+  .अंडरलाइन-एम { टेक्स्ट-डेकोरेशन: अंडरलाइन; }
+  .no-अंडरलाइन-एम { टेक्स्ट-डेकोरेशन: कोई नहीं; }
 }
 
-@media (--breakpoint-large) {
-  .strike-l       { text-decoration: line-through; }
-  .underline-l {    text-decoration: underline; }
-  .no-underline-l { text-decoration: none; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .स्ट्राइक-एल { टेक्स्ट-डेकोरेशन: लाइन-थ्रू; }
+  .underline-l { टेक्स्ट-डेकोरेशन: अंडरलाइन; }
+  .no-अंडरलाइन-एल { टेक्स्ट-डेकोरेशन: कोई नहीं; }
 }
