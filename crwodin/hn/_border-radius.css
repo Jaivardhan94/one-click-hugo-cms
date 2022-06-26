@@ -1,105 +1,105 @@
-.br0 {        border-radius: 0!important; }
+.br0 { सीमा-त्रिज्या: 0! महत्वपूर्ण; }
 
-.br1 {        border-radius: var(--border-radius); }
+.br1 { सीमा-त्रिज्या: var (--सीमा-त्रिज्या); }
 
-.br-100 {     border-radius: 100%; }
+.br-100 { सीमा-त्रिज्या: 100%; }
 
-.br-pill {    border-radius: 9999px; }
+.br-पिल { बॉर्डर-त्रिज्या: 9999px; }
 
-.br--bottom {
-		border-top-left-radius: 0;
-		border-top-right-radius: 0;
+.br--नीचे {
+		सीमा-शीर्ष-बाएं-त्रिज्या: 0;
+		सीमा-शीर्ष-दाएं-त्रिज्या: 0;
 }
-.br--top {
-		border-bottom-left-radius: 0;
-		border-bottom-right-radius: 0;
+.br--टॉप {
+		सीमा-नीचे-बाएं-त्रिज्या: 0;
+		सीमा-नीचे-दाएं-त्रिज्या: 0;
 }
-.br--right {
-		border-top-left-radius: 0;
-		border-bottom-left-radius: 0;
+.br--दाएं {
+		सीमा-शीर्ष-बाएं-त्रिज्या: 0;
+		सीमा-नीचे-बाएं-त्रिज्या: 0;
 }
-.br--left {
-		border-top-right-radius: 0;
-		border-bottom-right-radius: 0;
-}
-
-@media (--breakpoint-not-small) {
-.br0-ns {     border-radius: 0; }
-
-.br1-ns {     border-radius: var(--border-radius); }
-
-.br-100-ns {  border-radius: 100%; }
-
-.br-pill-ns { border-radius: 9999px; }
-
-.br--bottom-ns {
-		border-top-left-radius: 0;
-		border-top-right-radius: 0;
-}
-.br--top-ns {
-		border-bottom-left-radius: 0;
-		border-bottom-right-radius: 0;
-}
-.br--right-ns {
-		border-top-left-radius: 0;
-		border-bottom-left-radius: 0;
-}
-.br--left-ns {
-		border-top-right-radius: 0;
-		border-bottom-right-radius: 0;
-}
+.br--बाएं {
+		सीमा-शीर्ष-दाएं-त्रिज्या: 0;
+		सीमा-नीचे-दाएं-त्रिज्या: 0;
 }
 
-@media (--breakpoint-medium) {
-.br0-m {     border-radius: 0; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+.br0-ns { सीमा-त्रिज्या: 0; }
 
-.br1-m {     border-radius: var(--border-radius); }
+.br1-ns { सीमा-त्रिज्या: var (--सीमा-त्रिज्या); }
 
-.br-100-m {  border-radius: 100%; }
+.br-100-ns { सीमा-त्रिज्या: 100%; }
 
-.br-pill-m { border-radius: 9999px; }
+.br-पिल-एनएस { सीमा-त्रिज्या: 9999px; }
 
-.br--bottom-m {
-		border-top-left-radius: 0;
-		border-top-right-radius: 0;
+.br--नीचे-एनएस {
+		सीमा-शीर्ष-बाएं-त्रिज्या: 0;
+		सीमा-शीर्ष-दाएं-त्रिज्या: 0;
 }
-.br--top-m {
-		border-bottom-left-radius: 0;
-		border-bottom-right-radius: 0;
+.br--टॉप-एनएस {
+		सीमा-नीचे-बाएं-त्रिज्या: 0;
+		सीमा-नीचे-दाएं-त्रिज्या: 0;
 }
-.br--right-m {
-		border-top-left-radius: 0;
-		border-bottom-left-radius: 0;
+.br--दाएं-एनएस {
+		सीमा-शीर्ष-बाएं-त्रिज्या: 0;
+		सीमा-नीचे-बाएं-त्रिज्या: 0;
 }
-.br--left-m {
-		border-top-right-radius: 0;
-		border-bottom-right-radius: 0;
+.br--बाएं-एनएस {
+		सीमा-शीर्ष-दाएं-त्रिज्या: 0;
+		सीमा-नीचे-दाएं-त्रिज्या: 0;
 }
 }
 
-@media (--breakpoint-large) {
-.br0-l {     border-radius: 0; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+.br0-m { सीमा-त्रिज्या: 0; }
 
-.br1-l {     border-radius: var(--border-radius); }
+.br1-m { सीमा-त्रिज्या: var (--सीमा-त्रिज्या); }
 
-.br-100-l {  border-radius: 100%; }
+.br-100-m { सीमा-त्रिज्या: 100%; }
 
-.br-pill-l { border-radius: 9999px; }
+.br-पिल-एम { सीमा-त्रिज्या: 9999px; }
 
-.br--bottom-l {
-		border-radius-top-left: 0;
-		border-radius-top-right: 0;
+.br--नीचे-एम {
+		सीमा-शीर्ष-बाएं-त्रिज्या: 0;
+		सीमा-शीर्ष-दाएं-त्रिज्या: 0;
 }
-.br--top-l {
-		border-bottom-left-radius: 0;
-		border-bottom-right-radius: 0;
+.br--टॉप-एम {
+		सीमा-नीचे-बाएं-त्रिज्या: 0;
+		सीमा-नीचे-दाएं-त्रिज्या: 0;
 }
-.br--right-l {
-		border-top-left-radius: 0;
-		border-bottom-left-radius: 0;
+.br--दाएं-एम {
+		सीमा-शीर्ष-बाएं-त्रिज्या: 0;
+		सीमा-नीचे-बाएं-त्रिज्या: 0;
 }
-.br--left-l {
-		border-top-right-radius: 0;
-		border-bottom-right-radius: 0;
+.br--बाएं-एम {
+		सीमा-शीर्ष-दाएं-त्रिज्या: 0;
+		सीमा-नीचे-दाएं-त्रिज्या: 0;
+}
+}
+
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+.br0-l { सीमा-त्रिज्या: 0; }
+
+.br1-l { सीमा-त्रिज्या: var (--सीमा-त्रिज्या); }
+
+.br-100-l { सीमा-त्रिज्या: 100%; }
+
+.br-पिल-एल { बॉर्डर-त्रिज्या: 9999px; }
+
+.br--नीचे-एल {
+		सीमा-त्रिज्या-ऊपर-बाएँ: 0;
+		सीमा-त्रिज्या-शीर्ष-दाएं: 0;
+}
+.br--टॉप-एल {
+		सीमा-नीचे-बाएं-त्रिज्या: 0;
+		सीमा-नीचे-दाएं-त्रिज्या: 0;
+}
+.br--राइट-एल {
+		सीमा-शीर्ष-बाएं-त्रिज्या: 0;
+		सीमा-नीचे-बाएं-त्रिज्या: 0;
+}
+.br--बाएं-एल {
+		सीमा-शीर्ष-दाएं-त्रिज्या: 0;
+		सीमा-नीचे-दाएं-त्रिज्या: 0;
 }
 }
