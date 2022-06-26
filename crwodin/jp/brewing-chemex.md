@@ -1,24 +1,24 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Chemexを使用した醸造の初心者向けガイド
+date: 2017-01-04T15：04：10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+  Chemexで醸造することは、おそらく複雑で時間のかかる試練のように思えますが、プロセスに慣れると、毎回努力する価値のある心地よい儀式になります。
 image: /img/blog-chemex.jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+この [週](/wdwdw) では、自宅でChemexを使用して驚くべきコーヒーを作るために必要なすべての手順を **見ていき**。 Chemex Coffeemakerは、Peter Schlumbohmが1941年に発明した手動のポアオーバースタイルのガラス容器コーヒーメーカーであり、マサチューセッツ州チコピーにあるChemexCorporationによって引き続き製造されています\*。
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+1958年、 [イリノイ工科大学](https://www.spacefarm.digital) の設計者は、Chemexコーヒーメーカーは *「現代の最も優れたデザインの製品の1つ」*であり、ニューヨーク近代美術館のコレクションに含まれていると述べました。 。
 
-## The little secrets of Chemex brewing
+## Chemex醸造の小さな秘密
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Chemex Coffeemakerは、三角フラスコの円筒形の首ではなく、円錐形の漏斗状の首を備えた砂時計型のガラスフラスコで構成され、接着紙（標準の紙フィルターよりも厚いゲージの紙）で作られた独自のフィルターを使用します。ドリップ方式のコーヒーメーカー）ほとんどのコーヒーオイルを取り除き、他のコーヒー製造システムで淹れるコーヒーとは異なる味のコーヒーを淹れます。また、Chemexコーヒーフィルターの厚い紙は、コーヒーオイルに含まれるコレステロール含有化合物であるカフェストールの除去に役立つ場合があります。 初心者が忘れてしまう3つの重要なヒントを次に示します。
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+1. 常に専用のChemexフィルターを購入してください。
+2. 目盛りを使用し、目で見てはいけません。
+3. ガラスの予熱をスキップしないでください。
+4. タイミングが重要です。時計を忘れないでください。
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+Chemexの最も視覚的に特徴的な機能は、首の周りの耐熱性の木製カラーであり、お湯がいっぱいになったときに取り扱いて注ぐことができます。 これを回してから2つに分割し、ガラスの首にフィットさせます。 2つのピースは、結ばれた革ひもでゆるく固定されています。 ピースはしっかりと結ばれていませんが、円錐形のガラスの形状によって保持され、わずかに動くことができます。
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+モダニズムと精密製造の時代に戦後人気を博したデザイン作品にとって、天然木と手で結んだ結び目の有機的な性質とガラス製品の実験室的な性質とのこの並置は、その外観の特徴でした。
