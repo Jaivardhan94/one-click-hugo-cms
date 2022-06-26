@@ -1,5 +1,5 @@
 [build]
-command = "yarn build"
+command = "ヤーンビルド"
 publish = "dist"
 
   [build.environment]
@@ -8,4 +8,4 @@ publish = "dist"
   HUGO_VERSION = "0.55.6"
 
 [context.deploy-preview]
-command = "yarn build:preview"
+command = "糸のビルド：プレビュー"
