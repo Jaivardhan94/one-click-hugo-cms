@@ -1,33 +1,33 @@
-.clip {
-  position: fixed !important;
-  _position: absolute !important;
-  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-  clip: rect(1px, 1px, 1px, 1px);
+。クリップ {
+  位置：固定！重要;
+  _position：絶対！重要;
+  クリップ：rect（1px 1px 1px 1px）; / * IE6、IE7 * /
+  クリップ：rect（1px、1px、1px、1px）;
 }
 
-@media (--breakpoint-not-small) {
+@media（--breakpoint-not-small）{
   .clip-ns {
-    position: fixed !important;
-    _position: absolute !important;
-    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-    clip: rect(1px, 1px, 1px, 1px);
+    位置：固定！重要;
+    _position：絶対！重要;
+    クリップ：rect（1px 1px 1px 1px）; / * IE6、IE7 * /
+    クリップ：rect（1px、1px、1px、1px）;
   }
 }
 
-@media (--breakpoint-medium) {
+@media（--breakpoint-medium）{
   .clip-m {
-    position: fixed !important;
-    _position: absolute !important;
-    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-    clip: rect(1px, 1px, 1px, 1px);
+    位置：固定！重要;
+    _position：絶対！重要;
+    クリップ：rect（1px 1px 1px 1px）; / * IE6、IE7 * /
+    クリップ：rect（1px、1px、1px、1px）;
   }
 }
 
-@media (--breakpoint-large) {
+@media（--breakpoint-large）{
   .clip-l {
-    position: fixed !important;
-    _position: absolute !important;
-    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-    clip: rect(1px, 1px, 1px, 1px);
+    位置：固定！重要;
+    _position：絶対！重要;
+    クリップ：rect（1px 1px 1px 1px）; / * IE6、IE7 * /
+    クリップ：rect（1px、1px、1px、1px）;
   }
 }
