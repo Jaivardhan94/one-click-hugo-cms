@@ -1,15 +1,15 @@
-::selection {
-  background-color: var(--highlight);
+:: चयन {
+  पृष्ठभूमि-रंग: var (--हाइलाइट);
 }
 
-/* Used in the navbar */
-.divider-grey {
-  box-shadow: inset 0 -4px 0 var(--grey-1);
-  /* Link hover states */
-  & a {
-    transition: var(--hover-transition);
+/* नेवबार में प्रयुक्त */
+.विभक्त-ग्रे {
+  बॉक्स-छाया: इनसेट 0 -4px 0 var (--ग्रे -1);
+  /* लिंक होवर स्टेट्स */
+  & एक {
+    संक्रमण: var (--होवर-संक्रमण);
   }
-  & ul a:hover, & ul a:focus {
-    box-shadow: inset 0 -4px 0 var(--primary);
+  और उल ए: होवर, और उल ए: फोकस {
+    बॉक्स-छाया: इनसेट 0 -4px 0 var(--primary);
   }
 }
