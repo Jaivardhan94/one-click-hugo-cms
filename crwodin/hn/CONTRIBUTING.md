@@ -1,47 +1,47 @@
-# CONTRIBUTING
+# योगदान
 
-Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md).
+योगदान का हमेशा स्वागत है, चाहे वह कितना भी बड़ा या छोटा क्यों न हो। योगदान करने से पहले, कृपया [आचार संहिता](CODE_OF_CONDUCT.md)पढ़ें।
 
-## Setup
+## स्थापित करना
 
 ```sh
-$ git clone https://github.com/netlify/victor-hugo
+$ git क्लोन https://github.com/netlify/victor-hugo
 $ cd victor-hugo
-$ npm install
+$ npm इंस्टॉल
 ```
 
-## Building
+## इमारत
 
 ```sh
-$ npm run build
+$ npm रन बिल्ड
 ```
 
-## Testing
+## परिक्षण
 
 ```sh
-$ npm run test
+$ npm रन टेस्ट
 ```
 
 ```sh
-$ npm run test:watch
+$ npm रन टेस्ट: घड़ी
 ```
 
-## Running the server
+## सर्वर चलाना
 
 ```sh
-$ npm run start
+$ npm रन स्टार्ट
 ```
 
-## Pull Requests
+## पुल अनुरोध
 
-We actively welcome your pull requests.
+हम आपके पुल अनुरोधों का सक्रिय रूप से स्वागत करते हैं।
 
-1. Fork the repo and create your branch from `master`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
-5. Make sure your code lints.
+1. रेपो को फोर्क करें और `मास्टर`से अपनी शाखा बनाएं।
+2. यदि आपने कोड जोड़ा है जिसका परीक्षण किया जाना चाहिए, तो परीक्षण जोड़ें।
+3. यदि आपने API बदल दिए हैं, तो दस्तावेज़ीकरण अपडेट करें।
+4. सुनिश्चित करें कि परीक्षण सूट पास हो गया है।
+5. सुनिश्चित करें कि आपका कोड lints.
 
-## License
+## लाइसेंस
 
-By contributing to Victor-Hugo, you agree that your contributions will be licensed under its [MIT license](LICENSE).
+विक्टर-ह्यूगो में योगदान करके, आप सहमत हैं कि आपके योगदान को इसके [एमआईटी लाइसेंस](LICENSE)के तहत लाइसेंस दिया जाएगा।
