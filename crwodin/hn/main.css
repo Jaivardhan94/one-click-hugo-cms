@@ -3,31 +3,31 @@
 /*
  *
  *      ________            ______
- *      ___  __/_____ _________  /______  ______________________
- *      __  /  _  __ `/  ___/_  __ \_  / / /  __ \_  __ \_  ___/
- *      _  /   / /_/ // /__ _  / / /  /_/ // /_/ /  / / /(__  )
- *      /_/    \__,_/ \___/ /_/ /_/_\__, / \____//_/ /_//____/
- *                                 /____/
+ *  ______________________/_____ _______________
+ * __ / _ __ `/ ___/_ __ \_ / / __ \_ __ \_ ___/
+ * _ / / /_/ // /__ _ / / / /_/ // /_/ / / / /(__ )
+ * /_/ \__,_/ \___/ /_/ /_/_\__, / \____//_/ /_//____/
+ * /____/
  *
- *    TABLE OF CONTENTS
+ * विषयसूची
  *
- *    1. External Library Includes
- *       - Reset.css | http://meyerweb.com/eric/tools/css/reset/
- *    2. Tachyons Modules
- *    3. Variables
- *       - Media Queries
- *       - Colors
- *    4. Debugging
- *       - Debug all
- *       - Debug children
+ * 1. बाहरी पुस्तकालय में शामिल हैं
+ * - रीसेट.सीएसएस | http://meyerweb.com/eric/tools/css/reset/
+ * 2. टैचियन मॉड्यूल
+ * 3. चर
+ * - मीडिया के प्रश्नों
+ * - रंग की
+ * 4. डिबगिंग
+ * - सभी डीबग करें
+ * - डिबग बच्चे
  *
  */
 
 
-/* External Library Includes */
+/* बाहरी पुस्तकालय में शामिल हैं */
 @import './imports/_reset';
 
-/* Modules */
+/* मॉड्यूल */
 @import './imports/_box-sizing';
 @import './imports/_images';
 @import './imports/_background-size';
@@ -36,7 +36,7 @@
 @import './imports/_borders';
 @import './imports/_border-radius';
 @import './imports/_border-style';
-@import './imports/_border-widths';
+@import './imports/_border-width';
 @import './imports/_border-colors';
 @import './imports/_code';
 @import './imports/_coordinates';
@@ -73,15 +73,15 @@
 @import './imports/_svg';
 @import './imports/_cms';
 
-/* Variables */
-/* Importing here will allow you to override any variables in the modules */
+/* चर */
+/* यहां आयात करने से आप मॉड्यूल में किसी भी चर को ओवरराइड कर सकेंगे */
 @import './imports/_colors';
 @import './imports/_media-queries';
 @import './imports/_variables';
 
-/* Debugging */
-@import './imports/_debug-children';
+/* डिबगिंग */
+@import './imports/_debug-child';
 @import './imports/_debug-grid';
 
-/* Uncomment out the line below to help debug layout issues */
-/*@import './imports/_debug';*/
+/* डिबग लेआउट समस्याओं में मदद करने के लिए नीचे दी गई लाइन को अनकम्मेंट करें */
+/*@आयात './imports/_debug';*/
