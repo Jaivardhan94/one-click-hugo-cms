@@ -1,36 +1,36 @@
-/*
+/ *
  
-  BOX SIZING
+  ボックスサイズ
 
-*/
+* /
 
-html,
-body,
-div,
-article,
-section,
-main,
-footer,
-header,
-form,
-fieldset,
-pre,
-code,
-p,
-ul,
-ol,
-li,
-dl,
-dt,
-dd,
-textarea,
-input[type="email"],
-input[type="number"],
-input[type="password"],
-input[type="tel"],
-input[type="text"],
-input[type="url"],
+html、
+体、
+div、
+論文、
+セクション、
+主要、
+フッター、
+ヘッダ、
+形、
+フィールドセット、
+プレ、
+コード、
+p、
+ul、
+ol、
+李、
+dl、
+dt、
+dd、
+textarea、
+input [type = "email"]、
+input [type = "number"]、
+input [type = "password"]、
+input [type = "tel"]、
+input [type = "text"]、
+input [type = "url"]、
 .border-box {
-  box-sizing: border-box;
+  ボックスサイズ：border-box;
 }
 
