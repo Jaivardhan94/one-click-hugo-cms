@@ -1,37 +1,37 @@
-.aspect-ratio {
-  height: 0;
-  position: relative;
+।आस्पेक्ट अनुपात {
+  ऊंचाई: 0;
+  स्थिति: रिश्तेदार;
 }
 
-.aspect-ratio--16x9 { padding-bottom: 56.25%; }
-.aspect-ratio--9x16 { padding-bottom: 177.77%; }
+पहलू-अनुपात--16x9 { पैडिंग-नीचे: 56.25%; }
+पहलू-अनुपात--9x16 { पैडिंग-बॉटम: 177.77%; }
 
-.aspect-ratio--4x3 {  padding-bottom: 75%; }
-.aspect-ratio--3x4 {  padding-bottom: 133.33%; }
+पहलू-अनुपात--4x3 { पैडिंग-नीचे: 75%; }
+पहलू-अनुपात--3x4 { पैडिंग-नीचे: 133.33%; }
 
-.aspect-ratio--6x4 {  padding-bottom: 66.6%; }
-.aspect-ratio--4x6 {  padding-bottom: 150%; }
+पहलू-अनुपात--6x4 { पैडिंग-नीचे: 66.6%; }
+पहलू-अनुपात--4x6 { पैडिंग-नीचे: 150%; }
 
-.aspect-ratio--8x5 {  padding-bottom: 62.5%; }
-.aspect-ratio--5x8 {  padding-bottom: 160%; }
+पहलू-अनुपात--8x5 { पैडिंग-नीचे: 62.5%; }
+पहलू-अनुपात--5x8 {पैडिंग-बॉटम: 160%; }
 
-.aspect-ratio--7x5 {  padding-bottom: 71.42%; }
-.aspect-ratio--5x7 {  padding-bottom: 140%; }
+पहलू-अनुपात--7x5 { पैडिंग-नीचे: 71.42%; }
+पहलू-अनुपात--5x7 {पैडिंग-बॉटम: 140%; }
 
-.aspect-ratio--1x1 {  padding-bottom: 100%; }
+पहलू-अनुपात--1x1 { पैडिंग-नीचे: 100%; }
 
-.aspect-ratio--object {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 100;
+पहलू-अनुपात-वस्तु {
+    स्थिति: निरपेक्ष;
+    शीर्ष: 0;
+    दाएं: 0;
+    नीचे: 0;
+    बाएं: 0;
+    चौड़ाई: 100%;
+    ऊंचाई: 100%;
+    जेड-इंडेक्स: 100;
 }
 
-.center {
-  margin-right: auto;
-  margin-left: auto;
+।केंद्र {
+  मार्जिन-दाएं: ऑटो;
+  मार्जिन-बाएं: ऑटो;
 }
