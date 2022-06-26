@@ -1,2 +1,5 @@
-languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+baseurl = "/"
+languageCode = "एन अमेरिका"
+languageLang = "एन"
+title = "होमपेज"
+disableKinds = [ "आरएसएस", "वर्गीकरण", "टैक्सोनॉमी टर्म" ]
