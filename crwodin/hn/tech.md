@@ -1,15 +1,15 @@
 ---
-title: 'tech'
-date: 2018-11-14T19:02:50-07:00
-draft: false
+title: 'तकनीक'
+date: '2018-11-14T19:02:50-07: 00'
+draft: असत्य
 ---
 
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
+# [विक्टर ह्युगो](https://github.com/netlify-templates/victor-hugo)
 
-## A Hugo boilerplate for creating truly epic websites
+## वास्तव में महाकाव्य वेबसाइट बनाने के लिए एक ह्यूगो बॉयलरप्लेट
 
 <img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
 
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
+यह एक स्थिर साइट जनरेटर के रूप में [ह्यूगो](https://gohugo.io/) और आपकी संपत्ति पाइपलाइन के रूप में [वेबपैक](https://webpack.js.org/) का उपयोग करने के लिए बॉयलरप्लेट है। विक्टर ह्यूगो ने सीएसएस और जावास्क्रिप्ट कंपाइलिंग/ट्रांसपिलिंग के लिए [पोस्टसीएसएस](http://postcss.org/) और [बैबेल](https://babeljs.io/) का उपयोग करने के लिए सेटअप किया। यह प्रोजेक्ट [एमआईटी लाइसेंस](LICENSE)के तहत जारी किया गया है। कृपया सुनिश्चित करें कि आप इसके निहितार्थ और गारंटी को समझते हैं।
 
-## Enjoy!! 😸
+## आनंद लेना!! मैं
