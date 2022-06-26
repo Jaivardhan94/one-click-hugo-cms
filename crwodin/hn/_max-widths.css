@@ -1,65 +1,65 @@
-.mw-100  { max-width: 100%; }
+.mw-100 {अधिकतम-चौड़ाई: 100%; }
 
-/* Max Width Scale */
+/* अधिकतम चौड़ाई पैमाना */
 
-.mw1  {  max-width: 1rem; }
-.mw2  {  max-width: 2rem; }
-.mw3  {  max-width: 4rem; }
-.mw4  {  max-width: 8rem; }
-.mw5  {  max-width: 16rem; }
-.mw6  {  max-width: 32rem; }
-.mw7  {  max-width: 48rem; }
-.mw8  {  max-width: 64rem; }
-.mw9  {  max-width: 96rem; }
+.mw1 {अधिकतम-चौड़ाई: 1rem; }
+.mw2 {अधिकतम-चौड़ाई: 2rem; }
+.mw3 {अधिकतम-चौड़ाई: 4rem; }
+.mw4 {अधिकतम-चौड़ाई: 8rem; }
+.mw5 {अधिकतम-चौड़ाई: 16rem; }
+.mw6 {अधिकतम-चौड़ाई: 32rem; }
+.mw7 {अधिकतम-चौड़ाई: 48rem; }
+.mw8 {अधिकतम-चौड़ाई: 64rem; }
+.mw9 {अधिकतम-चौड़ाई: 96rem; }
 
-/* Max Width String Properties */
+/* अधिकतम चौड़ाई स्ट्रिंग गुण */
 
-.mw-none { max-width: none; }
+.mw-कोई नहीं {अधिकतम-चौड़ाई: कोई नहीं; }
 
-@media (--breakpoint-not-small) {
-  .mw-100-ns  { max-width: 100%; }
+@मीडिया (--ब्रेकप्वाइंट-नॉट-स्मॉल) {
+  .mw-100-ns {अधिकतम-चौड़ाई: 100%; }
 
-  .mw1-ns  {  max-width: 1rem; }
-  .mw2-ns  {  max-width: 2rem; }
-  .mw3-ns  {  max-width: 4rem; }
-  .mw4-ns  {  max-width: 8rem; }
-  .mw5-ns  {  max-width: 16rem; }
-  .mw6-ns  {  max-width: 32rem; }
-  .mw7-ns  {  max-width: 48rem; }
-  .mw8-ns  {  max-width: 64rem; }
-  .mw9-ns  {  max-width: 96rem; }
+  .mw1-ns {अधिकतम-चौड़ाई: 1rem; }
+  .mw2-ns {अधिकतम-चौड़ाई: 2rem; }
+  .mw3-ns {अधिकतम-चौड़ाई: 4rem; }
+  .mw4-ns {अधिकतम-चौड़ाई: 8rem; }
+  .mw5-ns {अधिकतम-चौड़ाई: 16rem; }
+  .mw6-ns {अधिकतम-चौड़ाई: 32rem; }
+  .mw7-ns {अधिकतम-चौड़ाई: 48rem; }
+  .mw8-ns {अधिकतम-चौड़ाई: 64rem; }
+  .mw9-ns {अधिकतम-चौड़ाई: 96rem; }
 
-  .mw-none-ns { max-width: none; }
+  .mw-none-ns {अधिकतम-चौड़ाई: कोई नहीं; }
 }
 
-@media (--breakpoint-medium) {
-  .mw-100-m  { max-width: 100%; }
+@मीडिया (--ब्रेकपॉइंट-माध्यम) {
+  .mw-100-m {अधिकतम-चौड़ाई: 100%; }
 
-  .mw1-m  {  max-width: 1rem; }
-  .mw2-m  {  max-width: 2rem; }
-  .mw3-m  {  max-width: 4rem; }
-  .mw4-m  {  max-width: 8rem; }
-  .mw5-m  {  max-width: 16rem; }
-  .mw6-m  {  max-width: 32rem; }
-  .mw7-m  {  max-width: 48rem; }
-  .mw8-m  {  max-width: 64rem; }
-  .mw9-m  {  max-width: 96rem; }
+  .mw1-m {अधिकतम-चौड़ाई: 1rem; }
+  .mw2-m {अधिकतम-चौड़ाई: 2rem; }
+  .mw3-m {अधिकतम-चौड़ाई: 4rem; }
+  .mw4-m {अधिकतम-चौड़ाई: 8rem; }
+  .mw5-m {अधिकतम-चौड़ाई: 16rem; }
+  .mw6-m {अधिकतम-चौड़ाई: 32rem; }
+  .mw7-m {अधिकतम-चौड़ाई: 48rem; }
+  .mw8-m {अधिकतम-चौड़ाई: 64rem; }
+  .mw9-m {अधिकतम-चौड़ाई: 96rem; }
 
-  .mw-none-m { max-width: none; }
+  .mw-none-m {अधिकतम-चौड़ाई: कोई नहीं; }
 }
 
-@media (--breakpoint-large) {
-  .mw-100-l  { max-width: 100%; }
+@मीडिया (--ब्रेकप्वाइंट-लार्ज) {
+  .mw-100-l {अधिकतम-चौड़ाई: 100%; }
 
-  .mw1-l  {  max-width: 1rem; }
-  .mw2-l  {  max-width: 2rem; }
-  .mw3-l  {  max-width: 4rem; }
-  .mw4-l  {  max-width: 8rem; }
-  .mw5-l  {  max-width: 16rem; }
-  .mw6-l  {  max-width: 32rem; }
-  .mw7-l  {  max-width: 48rem; }
-  .mw8-l  {  max-width: 64rem; }
-  .mw9-l  {  max-width: 96rem; }
+  .mw1-l {अधिकतम-चौड़ाई: 1rem; }
+  .mw2-l {अधिकतम-चौड़ाई: 2rem; }
+  .mw3-l {अधिकतम-चौड़ाई: 4rem; }
+  .mw4-l {अधिकतम-चौड़ाई: 8rem; }
+  .mw5-l {अधिकतम-चौड़ाई: 16rem; }
+  .mw6-l {अधिकतम-चौड़ाई: 32rem; }
+  .mw7-l {अधिकतम-चौड़ाई: 48rem; }
+  .mw8-l {अधिकतम-चौड़ाई: 64rem; }
+  .mw9-l {अधिकतम-चौड़ाई: 96rem; }
 
-  .mw-none-l { max-width: none; }
+  .mw-none-l {अधिकतम-चौड़ाई: कोई नहीं; }
 }
