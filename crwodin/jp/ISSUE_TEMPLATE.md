@@ -16,12 +16,12 @@ Use the commands below to provide key information from your environment:
 You do NOT have to include this information if this is a FEATURE REQUEST
 -->
 
-**- Do you want to request a *feature* or report a *bug*?**
+***機能* をリクエストしますか、それとも *バグ*を報告しますか？**
 
-**- What is the current behavior?**
+**-現在の動作は何ですか？**
 
-**- If the current behavior is a bug, please provide the steps to reproduce.**
+**-現在の動作がバグである場合は、再現する手順を提供してください。**
 
-**- What is the expected behavior?**
+**-期待される動作は何ですか？**
 
-**- Please mention your node.js, NPM, Hugo and operating system version.**
+**-node.js、NPM、Hugo、およびオペレーティングシステムのバージョンをお知らせください。**
