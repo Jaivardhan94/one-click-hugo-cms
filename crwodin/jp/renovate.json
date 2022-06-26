@@ -1,5 +1,5 @@
 {
   "extends": [
-    "github>netlify/renovate-config:netlify-cms-starter"
+    "github> netlify / renovate-config：netlify-cms-starter"
   ]
 }
