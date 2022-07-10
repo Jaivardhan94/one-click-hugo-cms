@@ -1,4 +1,4 @@
-# NetlifyIDを活用したNetlifyCMSのHugoテンプレート
+# Hugo template for Netlify CMS with Netlify Identity to be used for creating new websites
 
 これは、 [](https://github.com/netlify/victor-hugo) および [](https://github.com/netlify/netlify-cms)で構築され、 [](http://www.darindimitroff.com/)[](https://www.spacefarm.digital)によって設計および開発されたスモールビジネステンプレートです。
 
