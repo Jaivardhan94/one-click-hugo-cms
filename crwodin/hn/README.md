@@ -1,4 +1,4 @@
-# Netlify पहचान के साथ Netlify CMS के लिए ह्यूगो टेम्पलेट
+# Hugo template for Netlify CMS with Netlify Identity to be used for creating new websites
 
 यह [विक्टर ह्यूगो](https://github.com/netlify/victor-hugo) और [नेटलिफाई सीएमएस](https://github.com/netlify/netlify-cms)के साथ बनाया गया एक छोटा व्यवसाय टेम्पलेट है, जिसे [डारिन दिमित्रॉफ](http://www.darindimitroff.com/), [स्पेसफार्म.डिजिटल](https://www.spacefarm.digital)द्वारा डिजाइन और विकसित किया गया है।
 
