@@ -1,6 +1,6 @@
 # 新しいWebサイトの作成に使用されるNetlifyIdentityを使用したNetlifyCMSのHugoテンプレート
 
-これは、 [](https://github.com/netlify/victor-hugo) および [](https://github.com/netlify/netlify-cms)で構築され、 [](http://www.darindimitroff.com/)[](https://www.spacefarm.digital)によって設計および開発されたスモールビジネステンプレートです。
+[](https://github.com/netlify/victor-hugo) および [](https://github.com/netlify/netlify-cms)で構築され、 [](http://www.darindimitroff.com/)[](https://www.spacefarm.digital)によって開発されたスモールビジネステンプレート。
 
 ## 入門
 
