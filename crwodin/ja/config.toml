@@ -1,2 +1,5 @@
+baseurl = "/"
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+languageLang = "en"
+title = "Homepage"
+disableKinds = [ "RSS", "taxonomy", "taxonomyTerm" ]
