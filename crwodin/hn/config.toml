@@ -1,2 +1,5 @@
+baseurl = "/"
 languageCode = "एन अमेरिका"
-title = "माई न्यू नेटलिफाई विक्टर ह्यूगो साइट"
+languageLang = "एन"
+title = "होमपेज"
+disableKinds = [ "आरएसएस", "वर्गीकरण", "टैक्सोनॉमी टर्म" ]
